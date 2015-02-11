@@ -476,9 +476,9 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 
 |      | Semester 8                   |     |   |
 |------|------------------------------|-----|:--:|
-|KODE	 |  NAMA	                      |APR	|SKS|
-|AMS499|	Skripsi		                  |     |6  |
-|ABCXYZ|	Pilihan		                  |     |9  |
+|KODE  |  NAMA	                      |APR  |SKS|
+|AMS499|	Skripsi		      |     |6  |
+|ABCXYZ|	Pilihan		      |     |9  |
 |      |                              |TOTAL|15 |
 
 
