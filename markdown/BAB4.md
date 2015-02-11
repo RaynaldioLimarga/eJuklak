@@ -142,39 +142,39 @@ Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal ters
 
 ![image L4.1](images/L4.1.png)
 
-![image L4.2](https://github.com/florentinasutanto/eJuklak/tree/master/markdown/images/L4.2.png)
+![image L4.2](images/L4.2.png)
 
-![image L4.3](https://github.com/florentinasutanto/eJuklak/tree/master/markdown/images/L4.3.png)
+![image L4.3](images/L4.3.png)
 
-![image L4.4](https://github.com/florentinasutanto/eJuklak/tree/master/markdown/images/L4.4.png)
+![image L4.4](images/L4.4.png)
 
-![image L4.5](https://github.com/florentinasutanto/eJuklak/tree/master/markdown/images/L4.5.png)
+![image L4.5](images/L4.5.png)
 
-![image L4.6](https://github.com/florentinasutanto/eJuklak/tree/master/markdown/images/L4.6.png)
+![image L4.6](images/L4.6.png)
 
 ### LAMPIRAN 5
 
-![image L5.1](https://github.com/florentinasutanto/eJuklak/tree/master/markdown/images/L5.1.png)
+![image L5.1](images/L5.1.png)
 
-![image L5.2](https://github.com/florentinasutanto/eJuklak/tree/master/markdown/images/L5.2.png)
+![image L5.2](images/L5.2.png)
 
-![image L5.3](https://github.com/florentinasutanto/eJuklak/tree/master/markdown/images/L5.3.png)
+![image L5.3](images/L5.3.png)
 
 ### LAMPIRAN 6
 
-![image L6.1](https://github.com/florentinasutanto/eJuklak/tree/master/markdown/images/L6.1.png)
+![image L6.1](images/L6.1.png)
 
-![image L6.2](https://github.com/florentinasutanto/eJuklak/tree/master/markdown/images/L6.2.png)
+![image L6.2](images/L6.2.png)
 
 ### LAMPIRAN 7
-![image L7.1](https://github.com/florentinasutanto/eJuklak/tree/master/markdown/images/L7.1.png)
+![image L7.1](images/L7.1.png)
 
-![image L7.2](https://github.com/florentinasutanto/eJuklak/tree/master/markdown/images/L7.2.png)
+![image L7.2](images/L7.2.png)
 
-![image L7.3](https://github.com/florentinasutanto/eJuklak/tree/master/markdown/images/L7.3.png)
+![image L7.3](images/L7.3.png)
 
-![image L7.4](https://github.com/florentinasutanto/eJuklak/tree/master/markdown/images/L7.4.png)
+![image L7.4](images/L7.4.png)
 
-![image L7.5](https://github.com/florentinasutanto/eJuklak/tree/master/markdown/images/L7.5.png)
+![image L7.5](images/L7.5.png)
 
-![image L7.6](https://github.com/florentinasutanto/eJuklak/tree/master/markdown/images/L7.6.png)
+![image L7.6](images/L7.6.png)
