@@ -404,7 +404,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 
 |      | Semester 1                   |     |   |
 |------|------------------------------|-----|:--:|
-|KODE	 |  NAMA	                      |APR	|SKS|
+|KODE	|  NAMA	                      |APR	|SKS|
 |AMS121|	Kalkulus 1                  |	R	  |4  |
 |AMS123|	Pemecahan Masalah Matematika|	 	  |3  |
 |AMS151|  Statistika Elementer	 	    |     |4  |
@@ -487,29 +487,29 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 Mata kuliah pilihandibagi kedalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliahPilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.  
 
 Kelompok Bidang Kajian: Rekayasa Keuangan
-*bold* Matematika Asuransi
+**Matematika Asuransi**
 
 |KODE	 |NAMA	                              |SKS|
-|------|------------------------------------||:--:| 
+|------|------------------------------------|:--:| 
 |AMS330|	Pengantar  Matematika Asuransi	  |3  |
 |AMS331|	Matematika Asuransi	              |3  |
 |AMS431|	Metoda Statistika Asuransi	      |3  |
 |AMS432|	Teori Risiko	                    |3  |
 |AMS430|	Kapita Selekta Matematika Asuransi|	3 |
 
-*bold* Matematika Keuangan
+**Matematika Keuangan**
 
 |KODE	 |NAMA	                              |SKS|
 |------|------------------------------------|:--:|
-|AMS341	Komputasi Keuangan	                |3  |            
-|AMS342	Matematika Keuangan	                |3  |
-|AMS343	Analisis Deret Waktu	              |3  |
-|AMS441	Teori Manajemen Investasi	          |3  |
-|AMS442	Ekonometrika Keuangan	              |3  |
-|AMS440	Kapita Selekta Matematika Keuangan	|3  |
+|AMS341|	Komputasi Keuangan	                |3  |            
+|AMS342|	Matematika Keuangan	                |3  |
+|AMS343|	Analisis Deret Waktu	              |3  |
+|AMS441|	Teori Manajemen Investasi	          |3  |
+|AMS442|	Ekonometrika Keuangan	              |3  |
+|AMS440|	Kapita Selekta Matematika Keuangan	|3  |
 
 Kelompok Bidang Kajian: Rekayasa Keuangan
-*bold* Optimasi dan Teori Kontrol
+**Optimasi dan Teori Kontrol**
 
 |KODE	 |NAMA	                              |SKS|
 |------|------------------------------------|:--:|
