@@ -52,7 +52,7 @@ Evaluasi keberhasilan belajar dilakukan secara berkesinambungan, sejak mahasiswa
 ### 4.2.1  Evaluasi Keberhasilan Belajar Tiap Semester
 Evaluasi keberhasilan belajar tiap semester dilakukan segera setelah mahasiswa menempuh UAS. Evaluasi Keberhasilan Belajar tiap semester ini dinyatakan dalam __Indeks Prestasi Semester (IPS)__ yang mempunyai rentang __0,00 – 4,00__ dan dihitung dengan rumus:
 
-![image of IPS](https://github.com/florentinasutanto/eJuklak/tree/master/markdown/images/IPS.png)
+![image of IPS](images/IPS.png)
  
 dengan (sks × bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. IPS digunakan untuk menetapkan __beban kredit__ yang dapat ditempuh mahasiswa pada __semester berikutnya__. 
 
@@ -71,7 +71,7 @@ Semester dimana mahasiswa diijinkan mengambil __cuti studi tidak diperhitungkan_
 Evaluasi Keberhasilan Belajar Tahap Akhir dilakukan pada akhir masa studi maksimal mahasiswa program Sarjana di UNPAR, yaitu 7 (tujuh) tahun, atau pada akhir masa studi terpakai selama 14 (empat belas) semester terhitung sejak yang bersangkutan terdaftar sebagai mahasiswa UNPAR.    
 Evaluasi Keberhasilan Belajar Tahap Akhir dinyatakan dalam __Indeks Prestasi Kumulatif (IPK)__, dengan rentang __0,00 – 4,00__ yang dihitung dengan rumus
  
- ![image of IPK](https://github.com/florentinasutanto/eJuklak/tree/master/markdown/images/IPK.png)
+ ![image of IPK](images/IPK.png)
 
 dengan (sks × bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah.Mahasiswa dinyatakan __lulus__ dari prodi terkait di lingkungan UNPAR setelah memenuhi persyaratan berikut :
 1.	Telah lulus __seluruh beban SKS__ yang dipersyaratkan dalam kurikulum prodi terkait.
