@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.unpar.e_juklak"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="14" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/unpar"
+        android:label="@string/welcome"
+        android:theme="@style/noTitleBar" >
+        <activity
+            android:name=".ListContentActivity"
+            android:label="@string/welcome" >
+        </activity>
+        <activity
+            android:name=".PageTwo"
+            android:label="@string/title_activity_page_two" >
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".WebAppInterface"
+            android:label="@string/title_activity_web_app_interface" >
+        </activity>
+        <activity
+            android:name=".PageThree"
+            android:label="@string/title_activity_page_three" >
+        </activity>
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+</manifest>
