@@ -1,7 +1,7 @@
 # BAB 1 PENDAHULUAN
 
 ## 1.1 Sejarah Fakultas Teknologi Informasi dan Sains
-Fakultas Teknologi Informasi dan Sains (FTIS) Universitas Katolik Parahyangan     (UNPAR) berawal dari Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA). Pendirian FMIPA telah dikukuhkan dengan terbitnya Surat Keputusan Menteri Pendidikan dan Kebudayaan Republik Indonesia nomor 34/D/O/1993 tanggal 20 April 1993, yang langsung menetapkan status akreditasi "terdaftar" bagi dua program studi FMIPA, yaitu program studi Matematika dan Fisika. Dengan terbitnya Keputusan Direktur Jenderal Pendidikan Tinggi Departemen Pendidikan dan Kebudayaan Republik Indonesia nomor: 420/DIKTI/Kep/1996 tanggal 8 Agustus 1996, ditetapkan status "terdaftar" pula untuk program studi Ilmu Komputer.
+Fakultas Teknologi Informasi dan Sains (FTIS) Universitas Katolik Parahyangan (UNPAR) berawal dari Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA). Pendirian FMIPA telah dikukuhkan dengan terbitnya Surat Keputusan Menteri Pendidikan dan Kebudayaan Republik Indonesia nomor 34/D/O/1993 tanggal 20 April 1993, yang langsung menetapkan status akreditasi "terdaftar" bagi dua program studi FMIPA, yaitu program studi Matematika dan Fisika. Dengan terbitnya Keputusan Direktur Jenderal Pendidikan Tinggi Departemen Pendidikan dan Kebudayaan Republik Indonesia nomor: 420/DIKTI/Kep/1996 tanggal 8 Agustus 1996, ditetapkan status "terdaftar" pula untuk program studi Ilmu Komputer.
 
 Perubahan nama FMIPA menjadi Fakultas Teknologi Informasi dan Sains (FTIS) terjadi karena adanya perubahan nama program studi Ilmu Komputer. Berdasarkan surat Direktur Jenderal Pendidikan Tinggi Departemen Pendidikan Nasional Nomor 4382/D/T/2008 tertanggal 10 Desember 2008 perihal Ralat Perpanjangan Ijin Penyelenggaraan Program Studi pada Universitas Katolik Parahyangan, dari tertulis : jurusan/program studi Ilmu Komputer diharuskan untuk berubah menjadi jurusan/program studi Teknik Informatika. Adanya perubahan nama ini membuat nama FMIPA sebagai naungan bagi Program Studi Teknik Informatika menjadi tidak selaras lagi. Perubahan nama FMIPA menjadi FTIS ini berdasarkan Keputusan Pengurus Yayasan Universitas Katolik Parahyangan Nomor : II/2009-04/05-SK tanggal 1 April 2009.
 
@@ -10,7 +10,7 @@ Ketiga program studi tersebut saat ini telah memperoleh status akreditasi dari B
 *	Program Studi Fisika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor036/BAN-PT/AK-XIII/S1/I/2011 tertanggal 7 Januari 2011 dengan masa berlaku hingga 7 Januari 2016. 
 *	Program Studi Teknik Informatika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor 042/BAN-PT/Ak-XIII/S1/I/2011 tertanggal 21 Januari 2011 dengan masa berlaku hingga 21 Januari 2016
 
-Ketiga program studi yang sekarang berada dalam naungan FTISini dilaksanakan berdasarkan suatu kurikulum yang berbobot 144 sks (satuan kredit semester) dengan rincian selanjutnya akan diuraikan pada bagian berikutnya.
+Ketiga program studi yang sekarang berada dalam naungan FTIS ini dilaksanakan berdasarkan suatu kurikulum yang berbobot 144 sks (satuan kredit semester) dengan rincian selanjutnya akan diuraikan pada bagian berikutnya.
 
 ## 1.2 Visi, Misi, Tujuan, dan Sasaran FTIS
 Visi dan Misi FTIS - UNPAR mengacu pada visi dan misi UNPAR. Visi UNPAR adalah 
@@ -22,7 +22,7 @@ Sebagai sebuah lembaga ilmiah, misi UNPAR adalah melaksanakan
 *	proses pembelajaran yang berpusat pada mahasiswa;
 *	penelitian dan penyebarluasan hasilnya melalui proses pembelajaran dan pengabdian kepada masyarakat; dan
 *	pengabdian kepada masyarakat,
-sesuai dengan sesanti Bakuning Hyang Mrih Guna Santyaya Bhakti, yang berarti Berdasarkan Ketuhanan Menuntut Ilmu untuk Dibaktikan kepada Masyarakat. Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS UNPAR.
+sesuai dengan sesanti *Bakuning Hyang Mrih Guna Santyaya Bhakti*, yang berarti Berdasarkan Ketuhanan Menuntut Ilmu untuk Dibaktikan kepada Masyarakat. Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS UNPAR.
 
 
 ### 1.2.1 VISI FTIS
@@ -31,7 +31,9 @@ Visi FTIS 2020 adalah sebagai berikut:
 > ”Menjadikan FTIS UNPAR sebagai suatu komunitas akademik beriman yang dapat mengembangkan bidang-bidang teknologi informasi dan sains dengan mengangkat potensi lokal pada tataran internasional untuk peningkatan martabat manusia”.
 
 FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu masyarakat yang secara cerdas dan kritis senantiasa mencari, menjunjung tinggi, dan menyebarluaskan kebenaran. Hal ini merupakan perwujudan dari keyakinan kepada Tuhan Yang Maha Esa, sesuai dengan sesanti UNPAR Bakuning Hyang Mrih Guna Santyaya Bhakti.
+
 Menjelang tahun 2020, FTIS UNPAR akan lebih memberikan perhatian kepada potensi lokal, yaitu kekuatan, keunggulan, keunikan asli (indigenous) yang terkandung di bumi Indonesia, khususnya di wilayah Jawa Barat. Ini berarti bahwa proses pendidikan, penelitian, dan pengabdian kepada masyarakat harus memberi perhatian pada masalah-masalah yang secara nyata dihadapi oleh masyarakat dan bangsa Indonesia, khususnya di wilayah Jawa Barat. Dengan mengacu kepada bidang-bidang keilmuan di dalam FTIS, potensi lokal tersebut harus dikembangkan secara kreatif dan kritis, sehingga mampu untuk disejajarkan dan dikompetisikan pada tataran internasional.
+
 Sebagai Universitas Katolik, UNPAR menaruh perhatian utama pada peningkatan martabat manusia. Kegiatan pendidikan yang ditujukan untuk menyiapkan generasi muda sebagai calon pemimpin masa depan dimaskudkan agara mereka berkembang menjadi manusia yang utuh yang memiliki keseimbangan antara rasio, rasa, raga, dan rukun. Untuk itu, proses pendidikan yang berlangsung di UNPAR dan di dalam FTIS harus mampu memberikan pengalaman belajar kepada para mahasiswa, bukan hanya dalam pengembangan rasio yang dilaksanakan berdasarkan kurikulum, melainkan juga pengembangan rasa, raga, dan rukun melalui interaksi dan pergaulan hidup sehari-hari di lingkungan kampus UNPAR. Untuk mencapai keunggulan di dalam hal di atas, FTIS UNPAR harus senantiasa mengembangkan potensi lokal ke tataran internasional. Oleh karena itu, pembangunan suasana akademik yang kondusif merupakan bagian yang sangat penting dalam pembentukan manusia yang bermartabat dan pengembangan potensi lokal tersebut.
 
 ### 1.2.2 MISI FTIS
@@ -68,8 +70,10 @@ Sasaran FTIS adalah sebagai berikut :
 
 ## 1.3 Keberhasilan FTIS
 Dalam kurun waktu 21 tahun sejak didirikan, FTIS telah menghasilkan __1.097 lulusan__ sampai dengan 26 Februari 2014. Sebagian dari lulusan tersebut, terutama dari prodi Teknik Informatika, membawa pula sertifikasi internasional di bidang sistem teknologi jaringan melalui program kerjasama Cisco-UNPAR. Sebagian dari mereka melanjutkan studi di perguruan tinggi dalam dan luar negeri dan beberapa berhasil mendapatkan beasiswa penuh selama studi melalui AUSAID, University of Twente, Ditjen Dikti, DEPKOMINFO, BPPS dan Asosiasi Perguruan Tinggi Katolik (APTIK). Sebagian dari mereka berkarya di bidang perbankan, industri, BUMN, dan lain-lain.
+
 Saat ini FTIS dikelola oleh 41 dosen, 13 di antaranya telah bergelar Doktor atau PhD dan 26 dosen telah berijasah S-2. Saat ini 3 orang dosen sedang studi S-3 di luar negeri, 4 orang dosen sedang studi S-3 di dalam negeri, 1 orang dosen studi S-2 di dalam negeri dan 1 orang studi S-2 di luar negeri. 
-Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemrograman tingkat internasional yang diselenggarakan oleh __organisasi ACM (Association of Computing Machinery), kompetisi jaringan komputer CISCO NetRiders, mengikuti kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan sebagainya.__ 
+
+Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemrograman tingkat internasional yang diselenggarakan oleh organisasi ACM (*Association of Computing Machinery*), kompetisi jaringan komputer CISCO NetRiders, mengikuti kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan sebagainya.__ 
 
 ## 1.4 Pengelola Fakultas
 #### Senat FTIS
