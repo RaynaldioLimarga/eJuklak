@@ -731,11 +731,12 @@ Mahasiswa harus lulus salah satu dari
 - Projek Sistem Informasi 1 dan Projek Sistem Informasi 2 
 
 Aturan tambahan :
+
 1.	Mata kuliah pilihan dari luar jurusan   
 Banyaknya matakuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) matakuliah.
 Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai matakuliah pilihan dari dalam jurusan 
-2.	Skor Coding        
-Beberapa matakuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan matakuliah setiap semester, memiliki jumlah skor coding> 0.
+2.	Skor *Coding*        
+Beberapa matakuliah memiliki skor *coding* antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan matakuliah setiap semester, memiliki jumlah *skor coding*> 0.
 3.	Nilai minimum kuliah jalur pemrograman/algoritma    
 Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:    
 a.	Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek   
