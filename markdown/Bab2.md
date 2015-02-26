@@ -309,4 +309,21 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |-	    |Sistem persamaan linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen.|
 |AMS221	|KALKULUS  VEKTOR (VECTOR CALCULUS)|
 |AMS122 |Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.|
-
+| AMS231| TEORI  SUKU  BUNGA (THEORY OF INTEREST)|
+| AMS122| Bunga tunggal dan bunga majemuk, diskonto, anuitas elementer dan lanjut, amortisasi dan pengakumulasian dana.|
+| AMS251| TEORI  PELUANG (PROBABILITY THEORY)|
+| AMS122| Analisis kombinatorial, aksioma-aksioma peluang, peluang bersyarat, variabel acak, distribusi variabel acak diskret, distribusi variabel acak kontinu, distribus variabel acak gabungan, ekspektasi dan sifat-sifatnya, teorema-teorema limit termasuk teorema limit pusat.|
+| AMS253| KOMPUTASI STATISTIKA (STATISTICAL COMPUTATION)|
+| APS181, AMS151| Pengenalan dan dasar-dasar pemrograman dalam R, Statistika Deskriptif dengan R, Deskripsi Populasi, Selang Kepercayaan dan Uji Hipotesis, Distribusi dan Estimasi Distribusi, Integrasi Monte Carlo dan Metoda Monte Carlo untuk Inferensi.|
+| AMS271| METODEMATEMATIKA (MATHEMATICAL METHODS)|
+| AMS122| Persamaan Bessel dan Legendre, aproksimasi fungsi, analisis Fourier, transformasi Laplace, pengantar sistem diskrit, dan Discrete Fourier Transform.|
+| AMS222| ALJABAR LINEAR (LINEAR ALGEBRA)|
+| AMS126| Persamaan linear dan matriks, ruang vektor, determinan, transformasi linear dan nilai eigen, norm dan hasil kali dalam.|
+| AMS252| STATISTIKA  MATEMATIKA (MATHEMATICAL STATISTICS)|
+| AMS251| Sampel dan statistik; statistik terurut, distribusi statisti terurut; penaksiran parameter:  metoda maksimum likelihood, uji maksimum likelihood, mengukur kualitas penaksir, statistik cukup. Pengujian hipotesis yang optimal: most powerful tests, uniformly most powerful test, uji rasio likelihood.  Inferensi mengenai beberapa model normal meliputi: analisis variansi dan regresi. |
+| AMS261| OPTIMASI (OPTIMIZATION)|
+| AMS126, AMS221| Pengantar pemrograman linear, algoritma simpleks, analisis sensitivitas, dualitas, topik lanjut dalam masalah optimasi.|
+| AMS272| PERSAMAAN  DIFERENSIAL  BIASA (ORDINARY DIFFERENTIAL EQUATIONS)|
+| AMS122, AMS126| Persamaan diferensial orde satu, persamaan diferensial orde dua, persamaan diferensial orde-n, sistem persamaan diferensial linear orde satu, pengantar persamaan diferensial nonlinear, pengantar persamaan diferensial parsial, masalah nilai batas.|
+| AMS273| KOMPUTASI MATEMATIKA (COMPUTATIONAL MATHEMATICS)|
+| AMS126, AMS151, AMS221 | Pengenalan perintah dasar di Maple, Penggunaan Maple dalam Aljabar Linear, Persamaan Diferensial Biasa, Peluang dan Statistika, Pengenalan perintah dasar di Matlab, Penggunaan Matlab dalam Aljabar Linear dan Statistika, menggambar grafik, serta pemograman di Matlab.|
