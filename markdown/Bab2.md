@@ -122,11 +122,10 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 ## 2.5 Kurikulum Program Studi Matematika
 
 ### 2.5.1 Susunan Mata Kuliah
+**Semester 1**
 
-
-|      | Semester 1                 |     |   |
-|------|----------------------------|-----|:-:|
 |KODE  |NAMA	                    |APR  |SKS|
+|------|----------------------------|-----|---|
 |AMS121|Kalkulus 1                  | R	  |4  |
 |AMS123|Pemecahan Masalah Matematika| 	  |3  |
 |AMS151| Statistika Elementer	    |     |4  |
@@ -135,9 +134,10 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 |MKU010|Bahasa Inggris              |     |2  |
 |      |                            |TOTAL|19 |
 
-|      | Semester 2                 |     |   |
-|------|----------------------------|-----|:-:|
+**Semester 2**
+
 |KODE  |NAMA	              	    |APR  |SKS|
+|------|----------------------------|-----|---|
 |AMS122|Kalkulus 2		    |     |4  |  
 |AMS124|Matematika Diskret	    |     |4  |
 |AMS126|Aljabar Matriks	      	    |     |4  |
@@ -147,9 +147,10 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 |MKU004|Fenomologi Agama +          |     |   |
 |      |                            |TOTAL|19 |
 
-|      | Semester 3                 |     |   |
-|------|----------------------------|-----|:-:|
+**Semester 3**
+
 |KODE  |NAMA	                    |APR  |SKS|
+|------|----------------------------|-----|---|
 |AMS221|Kalkulus Vektor	            |R	  |4  |
 |AMS231|Teori Suku Bunga	    |     |3  |
 |AMS251|Teori Peluang		    |     |4  |
@@ -158,9 +159,10 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 |MKU008|Etika	                    |R    |2  |
 |      |                            |TOTAL|18 |
 
-|       | Semester 4                |     |   |
-|------ |---------------------------|-----|:-:|
+**Semester 4**
+
 |KODE   |NAMA	                    |APR  |SKS|
+|------ |---------------------------|-----|---|
 |AMS 222|Aljabar Linear	            |R	  |4  |
 |AMS 252|Statistika Matematika	    |     |4  |
 |AMS 261|Optimasi		    |     |4  |
@@ -168,9 +170,10 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 |AMS 273|Komputasi Matematika	    |     |2  |
 |       |                           |TOTAL|18 |
 
-|      | Semester 5                 |     |   |
-|------|----------------------------|---- |:-:|
+**Semester 5**
+
 |KODE  |NAMA	                    |APR  |SKS|
+|------|----------------------------|---- |---|
 |AMS321|Fungsi Kompleks	            |	  | 4 |
 |AMS351|Proses Stokastik	    |	  | 4 |
 |AMS373|Metoda Numerik		    |     | 3 |
@@ -178,27 +181,29 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 |ABCXYZ|Pilihan	 	            |     | 6 |
 |      |                            |TOTAL|19 |
 
+**Semester 6**
 
-|      | Semester 6                 |     |   |
-|------|----------------------------|-----|:-:|
 |KODE  |NAMA	                    |APR  |SKS|
+|------|----------------------------|-----|:-:|
 |AMS322|Analisis Real	            |R	  |4  |
 |MKU009|Bahasa Indonesia	    |     |2  |
 |ABCXYZ|Pilihan		            |     |12 |
 |      |                            |TOTAL|18 |
 
-|      | Semester 7                 |     |   |
-|------|----------------------------|-----|:-:|
+**Semester 7**
+
 |KODE  |NAMA	                    |APR  |SKS|
+|------|----------------------------|-----|---|
 |AMS490|Seminar		            |     |3  |
 |AMS491|Pemodelan Matematika	    |     |4  |
 |MKU001|Pancasila		    |     |2  |
 |ABCXYZ|Pilihan 	 	    |     |9  |
 |      |                            |TOTAL|18 |
 
-|      | Semester 8                 |     |   |
-|------|----------------------------|-----|:-:|
+**Semester 8**
+
 |KODE  |NAMA	                    |APR  |SKS|
+|------|----------------------------|-----|---|
 |AMS499|Skripsi		    	    |     |6  |
 |ABCXYZ|Pilihan		            |     |9  |
 |      |                            |TOTAL|15 |
@@ -343,3 +348,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 | lulus minimal 110 sks | Studi pustaka, penulisan dan presentasi karya ilmiah.|
 | AMS499| SKRIPSI (FINAL PROJECT)|
 | AMS490 minimal C| Studi pustaka, penulisan dan penyajian lisan skripsi.|
+
+## 2.6 Kurikulum Program Studi Fisika
+### 2.6.1 Susunan Mata Kuliah
+
