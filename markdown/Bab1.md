@@ -143,7 +143,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 |14.|__Erwinna Chendra__, SSi(UNPAR), MSi(ITB), Studi S-3 Matematika di ITB. Email: erwinna@unpar.ac.id. Website: http://www.unpar.ac.id/erwinna |
 |15.|__Liem Chin__, SSi.(UNPAR), MSi.(ITB): Matematika Diskret, Aljabar Linear, Komputasi Statistika. Email: chin@unpar.ac.id. |
 |16.|__Oerip S. Santoso__, dr (UI), MSc. (Univ. Wisconsin Madison.USA), Dr.(Univ. Paris VI): Struktur Diskret, Grafika Komputer, Komputer dan Masyarakat, Projek Perangkat Lunak. Email: oerip_ss@yahoo.com|
-|17.|__Philips Nicolas Gunawidjaja__, BSc. (University of Warwick,UK), PhD. (University of Warwick, UK): Keterampilan Fisika, Elektronika 1 & 2, Struktur Materi. Email: philips@UNPAR.ac.id. |
+|17.|__Philips Nicolas Gunawidjaja__, BSc. (University of Warwick,UK), PhD. (University of Warwick, UK): Keterampilan Fisika, Elektronika 1 & 2, Struktur Materi. Email: philips@unpar.ac.id. |
 |18.|__Rosa de Lima E.P.__, SSi (ITB), MT (ITB), Studi S-3 di UPI: Sistem Informarsi, Sistem Pendukung Keputusan. Email: rosad5@unpar.ac.id|
 |19.|__Farah Kristiani__, SSi (UNPAR), MSi (ITB), Studi S-3 Matematika di Universiti Pendidikan Sultan Idris, Malaysia. Email: farah@unpar.ac.id. |
 
@@ -164,7 +164,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 |-----|--------------|
 |30.|__Chandra Wijaya__, SKom (UNPAR), MT (ITB): Jaringan Komputer, Sistem Digital.  Email: chandraw@unpar.ac.id|
 |31.|__Elok Fidiani__, SSi (UGM), MSc (TU Dresden): Fisika Dasar, Fisika Statistik, Pengantar Fisika Material, Nanoteknologi dan Lingkungan. Email: elokfidiani@unpar.ac.id., elokfidiani@gmail.com. |
-|32.|__Flaviana Catherine__, SSi (UNPAR), MSi (ITB): Fisika Dasar, Pengantar Fisika Nuklir, Fisika Kedokteran, Fisika Instrumentasi Medis. Email: flaviana@UNPAR.ac.id.|
+|32.|__Flaviana Catherine__, SSi (UNPAR), MSi (ITB): Fisika Dasar, Pengantar Fisika Nuklir, Fisika Kedokteran, Fisika Instrumentasi Medis. Email: flaviana@unpar.ac.id.|
 |33.|__Haryanto Mangaratua Siahaan__, SSi (ITB), MSi (ITB), Studi S-3 di University of Saskatchewan. Email: haryanto.siahaan@gmail.com|
 |34.|__Kian Ming__, SSi (UNPAR), S-2 (ITB): Fisika Dasar, Teori Relativitas, Kosmologi Relativistik. Email: kian.ming@unpar.ac.id.|
 |35.|__Mariskha Tri Adithia__, SSi (ITB), MSc (Universiteit Eindhoven  – Belanda), PDEng (Universiteit Eindhoven  – Belanda): Struktur Diskret, Kriptografi, Logika Informatika. Email: mariskha@unpar.ac.id|
