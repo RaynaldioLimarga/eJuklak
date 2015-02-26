@@ -209,6 +209,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 Mata kuliah pilihandibagi kedalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliahPilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.  
 
 Kelompok Bidang Kajian: Rekayasa Keuangan
+
 **Matematika Asuransi**
 
 |KODE	 |NAMA	                          |SKS|
@@ -231,6 +232,7 @@ Kelompok Bidang Kajian: Rekayasa Keuangan
 |AMS440|Kapita Selekta Matematika Keuangan|3  |
 
 Kelompok Bidang Kajian: Rekayasa Keuangan
+
 **Optimasi dan Teori Kontrol**
 
 |KODE	 |NAMA	                          |SKS|
@@ -268,6 +270,7 @@ Kelompok Bidang Kajian: Rekayasa Keuangan
 |AMS470| Kapita Selekta Matematika Terapan|3|
 		
 **Lain-lain**
+
 |KODE	 |NAMA	                          |SKS|
 |------|----------------------------------|:-:|
 |AMS323|Geometri	                  |3|
@@ -289,7 +292,6 @@ Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 
 ### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
-
 
 |KODE MK |NAMA & DESKRIPSI MATA KULIAH	      |
 |--------|------------------------------------|
