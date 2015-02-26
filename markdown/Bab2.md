@@ -624,3 +624,194 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 | APS497 | Tujuan dari Tugas Akhir 2 adalah untuk Memberi kemampuan menyelesaikan telaahan suatu topik terbatas dalam bidang fisika dan/atau aplikasinya, secara cukup mandiri di bawah bimbingan seorang dosen, dan menuliskannya dalam bentuk karya ilmiah. Tugas Akhir 2 merupakan bagian kedua dari tugas akhir. Pada Tugas Akhir 2 ini lebih fokus dengan pendalaman dari topik dan menyajikan hasil kerja lengkap dalam bentuk tulisan yang baik dan standar, juga secara lisan. Topik tugas akhir ditentukan bersama dengan dosen pembimbing.                                                                                                                                                                                                          |
 | SAB315 | Kewirausahaan / *Entrepreneurship*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | -      | Mata kuliah ini membahas pengertian Kewirausahaan serta bagaimana sebaiknya mengembangkan usaha agar dapat menjadi wirausaha yang berhasil dan beretika. Pembahasan mengenai inti dan hakekat kewirausahaan, disiplin ilmu, obyek studi dan perkembangannya, karakteristik dan ciri umum kewirausahaan, faktor-faktor pemicu, model, proses, tahapan, keberhasilan dan kegagalan, ide dan sumber wirausaha, cara memasuki dunia usaha, pengelolaan dunia usaha, kompetisi dan strategi, pembuatan studi kelayakan dan etika bisnis dan prinsip-prinsip usaha yang baik. Selain itu juga dipresentasikan hasil kunjungan ke perusahaan agar dapat membedakan dunia nyata dengan teori, sehingga mahasiswa diharapkan memiliki kemampuan soft skill. |
+
+## 2.7 Kurikulum Program Studi Teknik Informatika
+### 2.7.1 Sususan matakuliah
+**Semester 1**
+
+| KODE   | NAMA                           | APR | SKS |
+|--------|--------------------------------|-----|-----|
+| AIF101 | Pemrograman Berorientasi Objek |     | 6   |
+| AIF103 | Matematika Diskret             |     | 3   |
+| AIF105 | Pengantar Informatika          |     | 3   |
+| MKU001 | Pendidikan Pancasila           |     | 2   |
+| MKU008 | Etika                          |     | 2   |
+| MKU010 | Bahasa Inggris                 |     | 2   |
+|        |                                |TOTAL| 18  |
+
+**Semester 2**
+
+| KODE   | NAMA                        | APR | SKS |
+|--------|-----------------------------|-----|-----|
+| AIF102 | Algoritma dan Struktur Data |     | 4   |
+| AIF104 | Logika Informatika          |     | 3   |
+| AIF106 | Sistem Dijital              |     | 3   |
+| AMS100 | Matematika Informatika      |     | 4   |
+| MKU009 | Bahasa Indonesia            |     | 2   |
+| MKU011 | Estetika                    |     | 2   |
+|        |                             |TOTAL| 18  |
+
+**Semester 3**
+
+| KODE            | NAMA                                   | APR | SKS |
+|-----------------|----------------------------------------|-----|-----|
+| AIF201          | Analisis dan Desain Berorientasi Objek |     | 4   |
+| AIF203          | Struktur Diskret                       |     | 4   |
+| AIF205          | Arsitektur dan Organisasi Komputer     |     | 3   |
+| AMS200          | Probabilitas dan Statistika            |     | 3   |
+| MKU003 / MKU004 | Agama Katolik / Fenomenologi Agama     |     | 2   |
+| MKU012          | Logika                                 |     | 2   |
+|                 |                                        |TOTAL| 18  |
+
+**Semester 4**
+
+| KODE   | NAMA                              | APR | SKS |
+|--------|-----------------------------------|-----|-----|
+| AIF202 | Desain dan Analisis Algoritma     |     | 4   |
+| AIF204 | Manajemen Informasi dan Basisdata |     | 4   |
+| AIF206 | Sistem Operasi                    |     | 4   |
+| AIF208 | Rekayasa Perangkat Lunak          |     | 4   |
+| AIF210 | Interaksi Manusia Komputer        |     | 2   |
+|        |                                   |TOTAL| 18  |
+
+**Semester 5**
+
+| KODE   | NAMA                       | APR | SKS |
+|--------|----------------------------|-----|-----|
+| AIF301 | Pengantar Sistem Cerdas    |     | 3   |
+| AIF303 | Pengantar Sistem Informasi |     | 3   |
+| AIF305 | Jaringan Komputer          |     | 2   |
+| AIF311 | Pemrograman Fungsional(1)  | R   | 2   |
+| AIF313 | Grafika Komputer(1)        | R   | 2   |
+| AIF315 | Pemrograman Berbasis Web(1)| R   | 2   |
+| AIF317 | Desain Antarmuka Grafis(1) | R   | 2   |
+| AIFXXX | MK Pilihan                 |     | 2   |
+| MKU002 | Kewarganegaraan            |     | 2   |
+|        |                            |TOTAL| 18  |
+
+**Semester 6**
+
+| KODE   | NAMA                           | APR | SKS |
+|--------|--------------------------------|-----|-----|
+| AIF302 | Penulisan Ilmiah               |     | 2   |
+| AIF304 | Proyek Sistem Informasi 1(2)   |     | 3   |
+| AIF306 | Proyek Informatika(2)          |     | 6   |
+| AIF312 | Keamanan Informasi(1)          | R   | 2   |
+| AIF314 | Pemrograman Basisdata(1)       | R   | 2   |
+| AIF316 | Komputasi Paralel (1)          | R   | 2   |
+| AIF318 | Pemrograman Aplikasi Bergerak(1)| R   | 2   |
+| AIFXXX | MK Pilihan                     |     | 6   |
+|        |                                |TOTAL| 18  |
+
+**Semester 7**
+
+| KODE   | NAMA                         | APR | SKS |
+|--------|------------------------------|-----|-----|
+| AIF401 | Skripsi 1                    |     | 4   |
+| AIF403 | Komputer dan Masyarakat      |     | 3   |
+| AIF405 | Proyek Sistem Informasi 2(2) |     | 2   |
+| AIFXXX | MK Pilihan                   |     | 12  |
+| TOTAL  |                              |     |  18 |
+
+**Semester 8**
+
+| KODE   | NAMA          | APR | SKS |
+|--------|---------------|-----|-----|
+| AIF402 | Skripsi 2     |     | 6   |
+| AIFXXX | MK Pilihan    |     | 10  |
+| APS402 | Etika Profesi |     | 2   |
+| TOTAL  |               |     | 18  |
+
+Keterangan :    
+(1) Mata kuliah pilihan wajib.  
+Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut     
+(2)	Mata kuliah projek.     
+Mahasiswa harus lulus salah satu dari
+- Projek Informatika, atau 
+- Projek Sistem Informasi 1 dan Projek Sistem Informasi 2 
+
+Aturan tambahan :
+1.	Mata kuliah pilihan dari luar jurusan   
+Banyaknya matakuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) matakuliah.
+Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai matakuliah pilihan dari dalam jurusan 
+2.	Skor Coding        
+Beberapa matakuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan matakuliah setiap semester, memiliki jumlah skor coding> 0.
+3.	Nilai minimum kuliah jalur pemrograman/algoritma    
+Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:    
+a.	Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek   
+b.	Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek     
+c.	Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek   
+d.	Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek     
+maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
+
+### 2.7.2 Matakuliah Pilihan Program Studi Teknik Informatika
+| KODE   | NAMA                                       | APR | SKS |
+|--------|--------------------------------------------|-----|-----|
+| AIF330 | Kerja Praktek 1                            |     | 2   |
+| AIF331 | Topik Khusus Informatika 1                 |     | 2   |
+| AIF332 | Topik Khusus Informatika 2                 |     | 3   |
+| AIF333 | Topik Khusus Sistem Informasi 1            |     | 2   |
+| AIF335 | Pembelajaran Mesin                         |     | 3   |
+| AIF336 | Algoritma Kriptografi                      |     | 3   |
+| AIF337 | Matematika Teknik                          |     | 3   |
+| AIF338 | Bioinformatika                             |     | 3   |
+| AIF339 | Pemodelan Formal                           |     | 3   |
+| AIF340 | Komputasi Geometri                         |     | 3   |
+| AIF341 | Adm. Jaringan Komputer 1                   |     | 3   |
+| AIF342 | Adm. Jaringan Komputer 2                   |     | 3   |
+| AIF343 | Pemrograman Kompetitif                     |     | 3   |
+| AIF344 | Pemodelan & Simulasi                       |     | 3   |
+| AIF345 | Pengujian Perangkat Lunak                  |     | 2   |
+| AIF346 | Perancangan Permainan komputer             |     | 3   |
+| AIF347 | e-Commerce                                 |     | 2   |
+| AIF348 | Verifikasi Formal                          |     | 3   |
+| AIF350 | Algoritma Genetika                         |     | 2   |
+| AIF352 | Jaringan Syaraf Tiruan                     |     | 2   |
+| AIF354 | Teori Bahasa & Kompilasi                   |     | 2   |
+| AIF356 | Analisis Proses Bisnis                     |     | 2   |
+| AIF358 | Jaringan Komputer Lanjut                   |     | 3   |
+| AIF360 | Pemrograman Berbasis Web Lanjut            |     | 3   |
+| AIF362 | Sistem & Aplikasi Telematika               |     | 3   |
+| AIF431 | Topik Khusus Informatika 3                 |     | 3   |
+| AIF432 | Topik Khusus Informatika 4                 |     | 2   |
+| AIF433 | Topik Khusus Sistem Informasi 3            |     | 3   |
+| AIF434 | Topik Khusus Sistem Informasi 4            |     | 2   |
+| AIF435 | Grafika Komputer Lanjut                    |     | 3   |
+| AIF436 | Bio-Inspired Computing                     |     | 3   |
+| AIF437 | Kecerdasan Buatan Untuk Permainan Komputer |     | 3   |
+| AIF438 | Penambangan Data                           |     | 3   |
+| AIF439 | Kerja Praktek 2                            |     | 3   |
+| AIF440 | Kerja Praktek 3                            |     | 4   |
+| AIF439 | Kerja Praktek 2                            |     | 3   |
+| AIF440 | Kerja Praktek 3                            |     | 4   |
+| AIF441 | Administrasi Jaringan Komputer 3           |     | 3   |
+| AIF442 | Administrasi Jaringan Komputer 4           |     | 3   |
+| AIF443 | Matematika Kombinatorial                                         |   | 3 |
+| AIF444 | Pemrograman Permainan Komputer                                   |   | 3 |
+| AIF445 | Metode Numerik                                                   |   | 3 |
+| AIF446 | Kompresi Data                                                    |   | 3 |   
+| AIF447 | Metode Optimisasi                                                |   | 3 |   
+| AIF448 | Pemrosesan Data Geografis                                        |   | 3 |   
+| AIF449 | Teknologi Mesin Pencari                                          |   | 3 |   
+| AIF450 | Pengolahan Citra                                                 |   | 3 |
+| AIF451 | Audit Sistem Informasi                                           |   | 3 |   
+| AIF452 | Pemrograman Lojik                                                |   | 2 |
+| AIF453 | Kecerdasan Bisnis                                                |   | 3 |
+| AIF454 | Sistem Multi Agen                                                |   | 2 |
+| AIF455 | Sistem Pendukung Keputusan                                       |   |   |
+| AIF456 | Strategi Sistem Informasi & Arsitektur Perusahaan Berskala Besar |   |   |   
+| AIF457 | Kewirausahaan Berbasis Teknologi                                 |   |   |   
+| AIF458 | Kontrol & Audit Teknologi Informasi                              |   |   |  
+| AIF459 | Administrasi Basis Data                                          |   |   |   
+| AIF460 | Manajemen Pengetahuan                                            |   |   |   
+| AIF461 | Pencarian & Temu Kembali Informasi                               |   |   |   
+| AIF462 | Manajemen Proses Bisnis                                          |   |   |  
+| AIF463 | Jaringan Nirkabel                                                |   |   |   
+| AIF464 | Sistem Perusahaan Berskala Besar                                 |   |   |
+| AIF465 | Teknologi Middleware	                                            |   |   |   
+| AIF466 | Sistem Terdistribusi	                                            |   |   |   
+| AIF468 | Teknologi Multimedia		                                        |   |   |   
+| AIF469 | Layanan Berbasis Web 	                                        |   |   |
+| AIF470 | Pemrograman Jaringan	                                            |   |   |
+
+
