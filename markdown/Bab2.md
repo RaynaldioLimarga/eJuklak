@@ -1,4 +1,4 @@
-Bab 2: Penyelenggaraan Mata Kuliah
+#Bab 2 Penyelenggaraan Mata Kuliah
 ------------------
 
 Secara umum matakuliah yang diselenggarakan oleh program studi dapat dikelompokkan kedalam dua jenis yaitu 
@@ -8,9 +8,10 @@ Matakuliah pilihan bertujuan untuk menyiapkan mahasiswa untuk memasuki dunia ker
 
 Selain matakuliah-matakuliah di atas, dikenal juga apa yang disebut dengan **matakuliah prasyarat**. Matakuliah prasyarat adalah matakuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu matakuliah tertentu. 
 Di samping matakuliah-matakuliah yang ditujukan untuk program studinya sendiri, prodi-prodi juga menyelenggarakan matakuliah yang ditujukan untuk program studi lain. Matakuliah ini disebut dengan **matakuliah layanan**.
+
 Selain tatap muka di kelas, suatu matakuliah dapat mengandung kegiatan lain untuk mendukung perkuliahan, yaitu asistensi, responsi, atau praktikum yang biasa disingkat dengan **APR**. 
 
-### 2.1 Matakuliah Pilihan
+## 2.1 Matakuliah Pilihan
 
 Mahasiswa harus menempuh sejumlah SKS tertentu matakuliah pilihan, dengan sejumlah SKS di antaranya mata kuliah yang diselenggarakan prodinya. Jumlah SKS matakuliah ini berbeda-beda untuk setiap prodi:
 
@@ -19,21 +20,23 @@ Mahasiswa harus menempuh sejumlah SKS tertentu matakuliah pilihan, dengan sejuml
 3. Untuk Teknik Informatika, 30 SKS dengan banyaknya matakuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) matakuliah.
 
 Untuk matakuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
+
 1. Bila matakuliah tersebut memiliki prasyarat, mahasiswa dari prodi lain tidak perlu memenuhi prasyarat tersebut.
 2. Matakuliah pilihan dan matakuliah di prodi lain yang ekivalen dengannya, hanya dapat diperhitungkan salah satunya.
 
-### 2.2 Matakuliah Prasyarat
+## 2.2 Matakuliah Prasyarat
 
 Matakuliah prasyarat adalah matakuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu matakuliah tertentu. Berkaitan dengan hal ini, terdapat tiga kategori:
+
 1. **Prasyarat tempuh**, artinya matakuliah tersebut telah terdaftar dalam rencana studi mahasiswa yang bersangkutan dan bernilai akhir A, B, C, D, atau E, walaupun tentunya kelulusan akan sangat menunjang penempuhan matakuliah berikutnya.
 2. **Prasyarat lulus**, artinya mahasiswa harus lulus matakuliah prasyarat tersebut terlebih dahulu. Pada umumnya syarat kelulusan adalah nilai akhir minimum D, meskipun ada juga yang lebih tinggi. Silahkan melihat silabus matakuliah ybs. untuk keterangan lebih lanjut.
 3. Mahasiswa di luar prodi penyelenggara matakuliah tidak wajib memenuhi prasyarat ini.
 
-### 2.3 Matakuliah Layanan
+## 2.3 Matakuliah Layanan
 
 Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS untuk memenuhi kebutuhan matakuliah pada prodi lain di lingkungan UNPAR. 
 
-#### 2.3.1 Kuliah Layanan Program Studi Matematika
+### 2.3.1 Kuliah Layanan Program Studi Matematika
 
 | Kode	 | Mata Kuliah 			|SKS| Prodi yang dilayani |
 |--------|------------------------------|:-:|---------------------|
@@ -53,7 +56,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 | AMS202 | Matematika 4 		| 3 | Teknik Sipil 	  |
 
 
-#### 2.3.2 Kuliah Layanan Program Studi Fisika
+### 2.3.2 Kuliah Layanan Program Studi Fisika
 
 |Kode	|Mata Kuliah		|SKS|Prodi yang dilayani|
 |-------|-----------------------|:-:|-------------------|
@@ -69,7 +72,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 |FFT 113|Kosmologi		| 2 |Filsafat		|
 
 
-#### 2.3.3 Kuliah Layanan Program Studi Teknik informatika
+### 2.3.3 Kuliah Layanan Program Studi Teknik informatika
 
 |Kode	|Mata Kuliah	     |SKS|Prodi yang dilayani	|
 |-------|--------------------|:-:|----------------------|
@@ -79,7 +82,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 
 Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi. 
 
-#### 2.4.1 Susunan Matakuliah Umum
+### 2.4.1 Susunan Matakuliah Umum
 
 | Kode |Mata Kuliah               |SKS|               
 |------|--------------------------|:-:|               
@@ -93,7 +96,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 |MKU011|Estetika                  | 2 |
 |MKU012|Logika                    | 2 |
 
-#### 2.4.2 Uraian Singkat Matakuliah Umum
+### 2.4.2 Uraian Singkat Matakuliah Umum
 |NAMA MK| NAMA MATAKULIAH           |
 |-------|---------------------------|
 |MKU001	|PENDIDIKAN PANCASILA       |
@@ -116,9 +119,9 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 |       |Perkuliahan logika ditujukan untuk memberikan dasar-dasar ketrampilan berpikir rasional dan sistematik. Isinya mencakup ketrampilan berpikir deduktif dan induktif, seperti silogisme, argumen analogikal dan generalisasi induktif. Pembahasan teoretis disertai pula dengan pelatihan praktis yang diarahkan pada proses berpikir. Untuk menajamkan kemampuan berpikir tersebut, mahasiswa dilatih pula mengidentifikasi kerancuan-kerancuan (fallacies) yang sering dijumpai baik dalam kehidupan sehari-hari maupun dalam konteks akademik|
 
 
-### 2.5 Kurikulum Program Studi Matematika
+## 2.5 Kurikulum Program Studi Matematika
 
-#### 2.5.1 Susunan Mata Kuliah
+### 2.5.1 Susunan Mata Kuliah
 
 
 |      | Semester 1                 |     |   |
@@ -201,7 +204,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 |      |                            |TOTAL|15 |
 
 
-#### 2.5.2	Mata Kuliah Pilihan Program Studi Matematika
+### 2.5.2 Mata Kuliah Pilihan Program Studi Matematika
 
 Mata kuliah pilihandibagi kedalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliahPilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.  
 
@@ -282,10 +285,10 @@ Kelompok Bidang Kajian: Rekayasa Keuangan
 
 Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara matakuliah tersebut.Adapun persyaratan Matakuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh matakuliah pilihan Bidang Kajian minimal 15 sks.
  
-#### 2.5.3 PETA DAN PRASYARAT MATA KULIAH
+### 2.5.3 PETA DAN PRASYARAT MATA KULIAH
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 
-#### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
+### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
 
 
 |KODE MK |NAMA & DESKRIPSI MATA KULIAH	      |
