@@ -41,9 +41,10 @@ Sebagai Universitas Katolik, UNPAR menaruh perhatian utama pada peningkatan mart
 Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
 
 1.	Menyelenggarakan program akademik jenjang sarjana dengan memperhatikan visi FTIS untuk menghasilkan lulusan yang:
-  >>1.1.	Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.
 
-  >>1.2.	Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.
+  1.1.	Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.
+
+  1.2.	Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.
 2.	Menghasilkan penelitian di bidang teknologi informasi dan sains yang dapat meningkatkan martabat manusia secara langsung ataupun tidak langsung, serta memanfaatkan hasil penelitian untuk pengembangan proses pembelajaran dan pengabdian kepada masyarakat.
 3.	Menjalin kerja sama dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan keterkaitan proses pembelajaran, penelitian dan pengabdian kepada masyarakat.
 
@@ -69,55 +70,52 @@ Sasaran FTIS adalah sebagai berikut :
 
 
 ## 1.3 Keberhasilan FTIS
-Dalam kurun waktu 21 tahun sejak didirikan, FTIS telah menghasilkan __1.097 lulusan__ sampai dengan 26 Februari 2014. Sebagian dari lulusan tersebut, terutama dari prodi Teknik Informatika, membawa pula sertifikasi internasional di bidang sistem teknologi jaringan melalui program kerjasama Cisco-UNPAR. Sebagian dari mereka melanjutkan studi di perguruan tinggi dalam dan luar negeri dan beberapa berhasil mendapatkan beasiswa penuh selama studi melalui AUSAID, University of Twente, Ditjen Dikti, DEPKOMINFO, BPPS dan Asosiasi Perguruan Tinggi Katolik (APTIK). Sebagian dari mereka berkarya di bidang perbankan, industri, BUMN, dan lain-lain.
+Dalam kurun waktu 21 tahun sejak didirikan, FTIS telah menghasilkan 1.097 lulusan sampai dengan 26 Februari 2014. Sebagian dari lulusan tersebut, terutama dari prodi Teknik Informatika, membawa pula sertifikasi internasional di bidang sistem teknologi jaringan melalui program kerjasama Cisco-UNPAR. Sebagian dari mereka melanjutkan studi di perguruan tinggi dalam dan luar negeri dan beberapa berhasil mendapatkan beasiswa penuh selama studi melalui AUSAID, University of Twente, Ditjen Dikti, DEPKOMINFO, BPPS dan Asosiasi Perguruan Tinggi Katolik (APTIK). Sebagian dari mereka berkarya di bidang perbankan, industri, BUMN, dan lain-lain.
 
 Saat ini FTIS dikelola oleh 41 dosen, 13 di antaranya telah bergelar Doktor atau PhD dan 26 dosen telah berijasah S-2. Saat ini 3 orang dosen sedang studi S-3 di luar negeri, 4 orang dosen sedang studi S-3 di dalam negeri, 1 orang dosen studi S-2 di dalam negeri dan 1 orang studi S-2 di luar negeri. 
 
-Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemrograman tingkat internasional yang diselenggarakan oleh organisasi ACM (*Association of Computing Machinery*), kompetisi jaringan komputer CISCO NetRiders, mengikuti kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan sebagainya.__ 
+Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemrograman tingkat internasional yang diselenggarakan oleh organisasi ACM (*Association of Computing Machinery*), kompetisi jaringan komputer CISCO NetRiders, mengikuti kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan sebagainya. 
 
 ## 1.4 Pengelola Fakultas
-#### Senat FTIS
-| Ketua                    | Sekretaris                              |
-|--------------------------|-----------------------------------------|
-| Agus Sukmana, S.Si, M.Sc | Philips,Nicolas Gunawidjaja, BS.c, Ph.D |
 
-#### Dekanat
-| Dekan                             | Paulus Cahyono Tjiang, SSi, PhD.        |
-|-----------------------------------|-----------------------------------------|
-| WD 1 (Akademik)                   | Dr. Thomas Anung Basuki                 |
-| WD II (Keuangan dan Sumberdaya)   | Maria Anestasia, SSi, MSi               |
-| WD III (Kemahasiswaan dan Alumni) | Dr.rer.nat. Cecilia E. Nugraheni, ST,MT |
-| Dekan                             | Paulus Cahyono Tjiang, SSi, PhD.        |
-| WD 1 (Akademik)                   | Dr. Thomas Anung Basuki                 |
-| WD II (Keuangan dan Sumberdaya)   | Maria Anestasia, SSi, MSi               |
-| WD III (Kemahasiswaan dan Alumni) | Dr.rer.nat. Cecilia E. Nugraheni, ST,MT |
+| Senat FTIS                              |                                |
+|-----------------------------------------|------------------------------------------|
+| Ketua                                   |       Agus Sukmana, SSi, MSc            |
+| Sekretaris                              | Philips Nicolas Gunawidjaja, BSc, PhD   |
 
-#### Program Studi Matematika
-| Ketua      | Dr. Ferry Jaya Permana |
-|------------|------------------------|
-| Sekretaris | Livia Owen, SSi, MSi   |
+| Dekanat                                  |                                      |
+|-----------------------------------------|------------------------------------------|
+| Dekan                                   | Paulus Cahyono Tjiang, SSi, PhD.        |
+| WD I (Akademik)                         | Dr. Thomas Anung Basuki                 |
+| WD II (Keuangan dan Sumberdaya)         | Maria Anestasia, SSi, MSi               |
+| WD III (Kemahasiswaan dan Alumni)       | Dr.rer.nat. Cecilia E. Nugraheni, ST,MT |
 
-#### Program Studi Fisika
-| Ketua                              | Philips Nicolas Gunawidjaja, BSc, PhD |
-|------------------------------------|---------------------------------------|
-| KaLab. Fisika Dasar                | Risti Suryantari, S.Si., M.Si.        |
-| KaLab. Elektronika & Fisika Lanjut | Janto V. Sulungbudi, Drs.             |
+|  Program Studi Matematika               |                                     |
+|-----------------------------------------|------------------------------------------|
+| Ketua                                   | Dr. Ferry Jaya Permana                  |
+| Sekretaris                              | Livia Owen, S.Si., M.Si.                |
 
-#### Program Studi Teknik Informatika
-| Ketua            | Dr. Thomas Anung Basuki |
-|------------------|-------------------------|
-| Sekretaris       | Lionov, SKom, MSc       |
-| KaLab. Komputasi | Chandra Wijaya, ST, MT  |
+|  Program Studi Fisika                   |                                          |
+|-----------------------------------------|------------------------------------------|
+| Ketua                                   | Philips Nicolas Gunawidjaja, BSc, PhD   |
+| Kepala Lab. Fisika Dasar                | Risti Suryantari, S.Si., M.Si.          |
+| Kepala Lab. Elektronika & Fisika Lanjut | Janto V. Sulungbudi, Drs.               |
 
-#### Tata Usaha
-| Kepala                         | Pranyoto Teguh Imanto                  |
-|--------------------------------|----------------------------------------|
-| Kasubag Akademik               | Petrus Purnomo                         |
-| Kasubag Keuangan & Kepegawaian | Budi Santoso                           |
-| Kasubag Kemahasiswaan & Alumni | Fransiscus Sudarno                     |
-| Kasubag Umum & Perlengkapan    | Walip, A.Md                            |
-| Staf Akademik                  | Rikie Setiawan, S.AB.                  |
-| Staf Keuangan & Kepegawaian    | Filifo Zebua, Dwina Irlistriarti, Dra. |
+|  Program Studi Teknik Informatika       |                                      |
+|-----------------------------------------|------------------------------------------|
+| Ketua                                   | Dr. Thomas Anung Basuki                 |
+| Sekretaris                              | Lionov, SKom, MSc.                      |
+| Kepala Lab. Komputasi                   | Chandra Wijaya, ST, MT.                 |
+
+|  Tata Usaha                             |                                      |
+|-----------------------------------------|------------------------------------------|
+| Kepala                                  | Pranyoto Teguh Imanto                   |
+| Kasubag Akademik                        | Petrus Purnomo                          |
+| Kasubag Keuangan & Kepegawaian          | Budi Santoso                            |
+| Kasubag Kemahasiswaan & Alumni          | Fransiscus Sudarno                      |
+| Kasubag Umum & Perlengkapan             | Walip, A.Md                             |
+| Staf Akademik                           | Rikie Setiawan, S.AB.                   |
+| Staf Keuangan & Kepegawaian             | Filifo Zebua, Dwina Irlistriarti, Dra.  |
 
 
 ## 1.5 Daftar Dosen FTIS
