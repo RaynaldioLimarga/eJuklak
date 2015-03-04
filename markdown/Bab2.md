@@ -304,7 +304,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |AMS121  |KALKULUS 1 / *CALCULUS 1*              |
 |-	     |Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan konsep dasar dari integral.|
 |AMS123	 |PEMECAHAN  MASALAH  MATEMATIKA / *MATHEMATICAL PROBLEM SOLVING*|
-|-	     |Menebak dan mengumpulkan data dalam problem solving, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.|
+|-	     |Menebak dan mengumpulkan data dalam *problem solving*, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.|
 |AMS151  |STATISTIKA ELEMENTER / *ELEMENTARY STATISTICS*|
 |-	     |Statistik deskriptif, peluang, distribusi peluang diskret dan kontinu, distribusi sampling, penaksiran parameter, uji hipotesis, korelasi dan regresi, khi kuadrat, analisis variansi,  SPSS, Minitab.|
 |AMS122	|KALKULUS 2 / *CALCULUS 2*|
@@ -342,9 +342,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 | AMS322| ANALISIS REAL / *REAL ANALYSIS*|
 | AMS321| Alj. himpunan, fungsi, bil. real, barisan dan deret, limit, fungsi kontinu, dan turunan.|
 | AMS491| PEMODELAN  MATEMATIKA / *MATHEMATICAL MODELLING*|
-| AMS126, AMS221,||
-| AMS253, AMS272,||
-| AMS273| Mengumpulkan data, mencari proporsionalitas, menggunakan metoda beda hingga, menginterpretasikan hasil, memperbaiki model, model pencocokan kurva, model eksperimental, model simulasi, model probabilistik diskrit, analisis dimensi dan keserupaan.|
+| AMS126, AMS221, AMS253, AMS272, AMS273| Mengumpulkan data, mencari proporsionalitas, menggunakan metoda beda hingga, menginterpretasikan hasil, memperbaiki model, model pencocokan kurva, model eksperimental, model simulasi, model probabilistik diskrit, analisis dimensi dan keserupaan.|
 | AMS490| SEMINAR / *SEMINAR*|
 | lulus minimal 110 sks | Studi pustaka, penulisan dan presentasi karya ilmiah.|
 | AMS499| SKRIPSI / *FINAL PROJECT*|
