@@ -1,4 +1,3 @@
-
 package com.unpar.e_juklak;
 
 import android.app.Activity;
@@ -109,10 +108,10 @@ public class NavigationDrawerFragment extends Fragment {
 				.getThemedContext(),
 				android.R.layout.simple_list_item_activated_1,
 				android.R.id.text1, new String[] {
-						getString(R.string.Bab_1),
-						getString(R.string.Bab_2),
-						getString(R.string.Bab_3),
-						getString(R.string.Bab_4)}));
+						getString(R.string.bab_1),
+						getString(R.string.bab_2),
+						getString(R.string.bab_3),
+						getString(R.string.bab_4),}));
 		mDrawerListView.setItemChecked(mCurrentSelectedPosition, true);
 		return mDrawerListView;
 	}
@@ -261,6 +260,7 @@ public class NavigationDrawerFragment extends Fragment {
 		// showGlobalContextActionBar, which controls the top-left area of the
 		// action bar.
 		if (mDrawerLayout != null && isDrawerOpen()) {
+			
 			showGlobalContextActionBar();
 		}
 		super.onCreateOptionsMenu(menu, inflater);
@@ -271,6 +271,8 @@ public class NavigationDrawerFragment extends Fragment {
 		if (mDrawerToggle.onOptionsItemSelected(item)) {
 			return true;
 		}
+
+		
 
 		return super.onOptionsItemSelected(item);
 	}

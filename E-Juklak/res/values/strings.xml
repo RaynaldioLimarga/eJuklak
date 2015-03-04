@@ -18,10 +18,10 @@
     <string name="title_activity_list_content">ListContentActivity</string>
     <string name="title_activity_page_two">PageTwo</string>
     <string name="title_activity_activity_nav_drawer">ActivityNavDrawer</string>
-    <string name="Bab_1">Bab 1</string>
-    <string name="Bab_2">Bab 2</string>
-    <string name="Bab_3">Bab 3</string>
-    <string name="Bab_4">Bab 4</string>
+    <string name="bab_1">Bab 1</string>
+    <string name="bab_2">Bab 2</string>
+    <string name="bab_3">Bab 3</string>
+    <string name="bab_4">Bab 4</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="action_example">Example action</string>
@@ -30,5 +30,10 @@
     <string name="web_view_example">Web View Example</string>
     <string name="title_activity_web_app_interface">WebAppInterface</string>
     <string name="title_activity_page_three">PageThree</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_webview">WebviewActivity</string>
+    <string name="search_hint">Search !</string>
+    <string name="search_label">Search label !</string>
+    
 
 </resources>
