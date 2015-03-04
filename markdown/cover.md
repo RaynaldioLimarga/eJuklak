@@ -19,10 +19,11 @@ http://www.unpar.ac.id
 
 Tim Penyusun
 
-* Raynaldio Limarga
-* Florentina Sutanto
-* Vania Sanjaya
-* Steven Daniel
-* Derrick Nathaniel
+* Cecilia Esti Nugraheni
+* Livia Owen
+* Farica Edgina Yosafat
+* Luciana Abednego
+* Pranyoto Teguh Imanto
+* Thomas Anung Basuki
 
 Copyright (c) 2014 FTIS UNPAR
