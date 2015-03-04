@@ -77,11 +77,11 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 |-------|--------------------|:-:|----------------------|
 |AKS144	|Pemrograman Komputer| 3 |Matematika		|
 
-### 2.4 Matakuliah Umum
+## 2.4 Matakuliah Umum
 
 Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi. 
 
-### 2.4.1 Susunan Matakuliah Umum
+### 2.4.1 Susunan Mata Kuliah Umum
 
 | Kode |Mata Kuliah               |SKS|               
 |------|--------------------------|:-:|               
@@ -95,27 +95,29 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 |MKU011|Estetika                  | 2 |
 |MKU012|Logika                    | 2 |
 
-### 2.4.2 Uraian Singkat Matakuliah Umum
-|NAMA MK| NAMA MATAKULIAH           |
+### 2.4.2 Uraian Singkat Mata Kuliah Umum
+|NAMA MK| NAMA & DESKRIPSI MATA KULIAH           |
 |-------|---------------------------|
-|MKU001	|PENDIDIKAN PANCASILA       |
-|       |Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian (character building) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila.|
-|MKU002	|PENDIDIKAN KEWARGANEGARAAN |
+|MKU001	|PENDIDIKAN PANCASILA / *PANCASILA EDUCATION*       |
+|       |Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian (*character building*) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila.|
+|MKU002	|PENDIDIKAN KEWARGANEGARAAN / *CIVICS* |
 |       |Pendidikan Kewarganegaraan menjelaskan pentingnya pemahaman tentang identitas nasional Indonesia, hak dan kewajiban warga negara Indonesia serta hubungannya dengan hak dan kewajiban asasi manusia. Materi kuliah mencakup juga wawasan nusantara, ketahanan nasional, politik dan strategi nasional, serta implementasinya dalam kehidupan bermasyarakat, berbangsa dan bernegara kesatuan Republik Indonesia.|
-|MKU003	|AGAMA KATOLIK 		    |
+|MKU003	|AGAMA KATOLIK / *CATHOLIC RELIGION* 		    |
 |       |Mata kuliah ini membentuk karakteristik mahasiswa sebagai manusia yang memiliki religiusitas melalui pendalaman akan makna agama dan beragama, mendeteksi dinamika Wahyu Tuhan dan iman mereka, memahami relasi dengan Tuhan dan sesama, mengenal makna keselamatan dalam konteks Kerajaan Allah, dan mampu menyatakan ajaran Gereja dalam pelayanan terhadap orang miskin dan terlantar.|
-|MKU004	|FENOMENOLOGI AGAMA	    |
+|MKU004	|FENOMENOLOGI AGAMA / *PHENOMENOLOGY OF RELIGION*	    |
 |       |Fenomenologi Agama merupakan bagian yang tak terpisahkan dari kajian filosofis, kritis, rasional, dan obyektif mengenai substansi ajaran agama. Fenomenologi merupakan sebuah disiplin ilmu yang secara kritis-rasional mengkaji fenomena dan dinamika kehidupan manusia beragama, dari upaya menjadikan Tuhan sebagai tujuan sesembahan sampai menempatkan Tuhan sebagai instrumen legitimasi untuk melakukan tindakan yang justru bertolak belakang dengan kehendak Tuhan yang disembah. Sehubungan dengan itu, kritik konstruktif terhadap perilaku manusia beragama menjadi salah satu poin utama dalam mata kuliah ini. Kesediaan untuk melakukan otoritik terhadap agama sendiri erat terkait dengan upaya menemukan kembali nilai sejati agama atau otentisitas hidup beragama.|
-|MKU008	|ETIKA		            |
+|MKU008	|ETIKA / *ETHICS*		            |
 |       |Mendalami perilaku sehari-hari yang baik dalam bermasyarakat. |
-|MKU009	|BAHASA INDONESIA 	    |
+|MKU009	|BAHASA INDONESIA / *INDONESIAN*	    |
 |       |Tujuan dari mata kuliah ini adalah untuk mendalami keterampilan berbahasa Indonesia, agar mampu mengkomunikasikan hasil pemikiran serta meningkatkan keterampilan dalam menyusun karya ilmiah. Mata kuliah Bahasa Indonesia ini dimulai dengan mempelajari penulisan kata baku dan non baku serta pengungkapan pikiran dengan pungtuasi yang benar. Selanjutnya dipelajari penyusunan kalimat yang baku serta menghubungkan kalimat-kalimat yang padu dalam menuangkan gagasan dalam sebuah paragraf. Selain itu, dalam matakuliah ini dipelajari cara menyusun surat dinas yang jelas dan komunikatif. Di akhir kuliah ini, mahasiswa diberi tugas penyusunan makalah dengan benar.|
-|MKU010	|BAHASA INGGRIS		    |
-|       |Mata kuliah ini difokuskan pada pemahaman sumber referensi dalam Bahasa Inggris dan pengembangan kosakata Bahasa Inggris (vocabularies). Hampir keseluruhan waktu perkuliahan didedikasikan untuk menjelaskan metode mengekstraksi isi bacaan secara tepat dan melatih mahasiswa untuk menerapkan metode tersebut seraya menambah kosakata-kosakata baru. Mahasiswa juga dilatih untuk mempresentasikan hasil pemahamannya akan isi bahan bacaan.|
-|MKU011	|ESTETIK		    |
+|MKU010	|BAHASA INGGRIS	/ *ENGLISH*	    |
+|       |Mata kuliah ini difokuskan pada pemahaman sumber referensi dalam Bahasa Inggris dan pengembangan kosakata Bahasa Inggris (*vocabularies*). Hampir keseluruhan waktu perkuliahan didedikasikan untuk menjelaskan metode mengekstraksi isi bacaan secara tepat dan melatih mahasiswa untuk menerapkan metode tersebut seraya menambah kosakata-kosakata baru. Mahasiswa juga dilatih untuk mempresentasikan hasil pemahamannya akan isi bahan bacaan.|
+|MKU011	|ESTETIK / *ESTHETICS*		    |
 |       |Mata kuliah estetika memberi pemahaman konseptual filosofis “seni” dalam khasanah keilmuan, pembentukan kesadaran ekologis juga dalam proses pembudayaan dan peradaban. Mata kuliah ini akan menjadi fondasi bagi mahasiswa untuk memahami dan mempraktekkan seni dari sudut pandang filsafat, sejarah, kultural, dan global. Melalui mata kuliah ini, mahasiswa mempelajari mengenai dunia manusia (manusia dan pikirannya), pluralitas dan relativitas seni, serta aliran-aliran seni rupa Barat|
-|MKU012 |LOGIKA 		    |
-|       |Perkuliahan logika ditujukan untuk memberikan dasar-dasar ketrampilan berpikir rasional dan sistematik. Isinya mencakup ketrampilan berpikir deduktif dan induktif, seperti silogisme, argumen analogikal dan generalisasi induktif. Pembahasan teoretis disertai pula dengan pelatihan praktis yang diarahkan pada proses berpikir. Untuk menajamkan kemampuan berpikir tersebut, mahasiswa dilatih pula mengidentifikasi kerancuan-kerancuan (fallacies) yang sering dijumpai baik dalam kehidupan sehari-hari maupun dalam konteks akademik|
+|MKU012 |LOGIKA / *LOGICS* 		    |
+|       |Perkuliahan logika ditujukan untuk memberikan dasar-dasar ketrampilan berpikir rasional dan sistematik. Isinya mencakup ketrampilan berpikir deduktif dan induktif, seperti silogisme, argumen analogikal dan generalisasi induktif. Pembahasan teoretis disertai pula dengan pelatihan praktis yang diarahkan pada proses berpikir. Untuk menajamkan kemampuan berpikir tersebut, mahasiswa dilatih pula mengidentifikasi kerancuan-kerancuan (*fallacies*) yang sering dijumpai baik dalam kehidupan sehari-hari maupun dalam konteks akademik|
+
+Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 
 
 ## 2.5 Kurikulum Program Studi Matematika
@@ -299,53 +301,53 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 
 |KODE MK |NAMA & DESKRIPSI MATA KULIAH	      |
 |--------|------------------------------------|
-|AMS121  |KALKULUS 1 (CALCULUS 1)              |
+|AMS121  |KALKULUS 1 / *CALCULUS 1*              |
 |-	     |Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan konsep dasar dari integral.|
-|AMS123	 |PEMECAHAN  MASALAH  MATEMATIKA (MATHEMATICAL PROBLEM SOLVING)|
+|AMS123	 |PEMECAHAN  MASALAH  MATEMATIKA / *MATHEMATICAL PROBLEM SOLVING*|
 |-	     |Menebak dan mengumpulkan data dalam problem solving, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.|
-|AMS151  |STATISTIKA ELEMENTER (ELEMENTARY STATISTICS)|
+|AMS151  |STATISTIKA ELEMENTER / *ELEMENTARY STATISTICS*|
 |-	     |Statistik deskriptif, peluang, distribusi peluang diskret dan kontinu, distribusi sampling, penaksiran parameter, uji hipotesis, korelasi dan regresi, khi kuadrat, analisis variansi,  SPSS, Minitab.|
-|AMS122	|KALKULUS 2 (CALCULUS 2)|
+|AMS122	|KALKULUS 2 / *CALCULUS 2*|
 |AMS121	|Fungsi transenden, teknik pengintegralan dan penggunaannya, persamaan diferensial dan deret tak hingga.|
-|AMS124	|MATEMATIKA DISKRET (DISCRETE MATHEMATICS)|
-|AMS123	|Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (counting), dan teori graf.|
-|AMS126	|ALJABAR MATRIKS (Matrix Algebra)|
+|AMS124	|MATEMATIKA DISKRET / *DISCRETE MATHEMATICS*|
+|AMS123	|Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (*counting*), dan teori graf.|
+|AMS126	|ALJABAR MATRIKS / *Matrix Algebra*|
 |-	    |Sistem persamaan linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen.|
-|AMS221	|KALKULUS  VEKTOR (VECTOR CALCULUS)|
+|AMS221	|KALKULUS  VEKTOR / *VECTOR CALCULUS*|
 |AMS122 |Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.|
-| AMS231| TEORI  SUKU  BUNGA (THEORY OF INTEREST)|
+| AMS231| TEORI  SUKU  BUNGA / *THEORY OF INTEREST*|
 | AMS122| Bunga tunggal dan bunga majemuk, diskonto, anuitas elementer dan lanjut, amortisasi dan pengakumulasian dana.|
-| AMS251| TEORI  PELUANG (PROBABILITY THEORY)|
+| AMS251| TEORI  PELUANG / *PROBABILITY THEORY*|
 | AMS122| Analisis kombinatorial, aksioma-aksioma peluang, peluang bersyarat, variabel acak, distribusi variabel acak diskret, distribusi variabel acak kontinu, distribus variabel acak gabungan, ekspektasi dan sifat-sifatnya, teorema-teorema limit termasuk teorema limit pusat.|
-| AMS253| KOMPUTASI STATISTIKA (STATISTICAL COMPUTATION)|
+| AMS253| KOMPUTASI STATISTIKA / *STATISTICAL COMPUTATION*|
 | APS181, AMS151| Pengenalan dan dasar-dasar pemrograman dalam R, Statistika Deskriptif dengan R, Deskripsi Populasi, Selang Kepercayaan dan Uji Hipotesis, Distribusi dan Estimasi Distribusi, Integrasi Monte Carlo dan Metoda Monte Carlo untuk Inferensi.|
-| AMS271| METODEMATEMATIKA (MATHEMATICAL METHODS)|
+| AMS271| METODEMATEMATIKA / *MATHEMATICAL METHODS*|
 | AMS122| Persamaan Bessel dan Legendre, aproksimasi fungsi, analisis Fourier, transformasi Laplace, pengantar sistem diskrit, dan Discrete Fourier Transform.|
-| AMS222| ALJABAR LINEAR (LINEAR ALGEBRA)|
+| AMS222| ALJABAR LINEAR / *LINEAR ALGEBRA*|
 | AMS126| Persamaan linear dan matriks, ruang vektor, determinan, transformasi linear dan nilai eigen, norm dan hasil kali dalam.|
-| AMS252| STATISTIKA  MATEMATIKA (MATHEMATICAL STATISTICS)|
+| AMS252| STATISTIKA  MATEMATIKA / *MATHEMATICAL STATISTICS*|
 | AMS251| Sampel dan statistik; statistik terurut, distribusi statisti terurut; penaksiran parameter:  metoda maksimum likelihood, uji maksimum likelihood, mengukur kualitas penaksir, statistik cukup. Pengujian hipotesis yang optimal: most powerful tests, uniformly most powerful test, uji rasio likelihood.  Inferensi mengenai beberapa model normal meliputi: analisis variansi dan regresi. |
-| AMS261| OPTIMASI (OPTIMIZATION)|
+| AMS261| OPTIMASI / *OPTIMIZATION*|
 | AMS126, AMS221| Pengantar pemrograman linear, algoritma simpleks, analisis sensitivitas, dualitas, topik lanjut dalam masalah optimasi.|
-| AMS272| PERSAMAAN  DIFERENSIAL  BIASA (ORDINARY DIFFERENTIAL EQUATIONS)|
+| AMS272| PERSAMAAN  DIFERENSIAL  BIASA / *ORDINARY DIFFERENTIAL EQUATIONS*|
 | AMS122, AMS126| Persamaan diferensial orde satu, persamaan diferensial orde dua, persamaan diferensial orde-n, sistem persamaan diferensial linear orde satu, pengantar persamaan diferensial nonlinear, pengantar persamaan diferensial parsial, masalah nilai batas.|
-| AMS273| KOMPUTASI MATEMATIKA (COMPUTATIONAL MATHEMATICS)|
+| AMS273| KOMPUTASI MATEMATIKA / *COMPUTATIONAL MATHEMATICS*|
 | AMS126, AMS151, AMS221 | Pengenalan perintah dasar di Maple, Penggunaan Maple dalam Aljabar Linear, Persamaan Diferensial Biasa, Peluang dan Statistika, Pengenalan perintah dasar di Matlab, Penggunaan Matlab dalam Aljabar Linear dan Statistika, menggambar grafik, serta pemograman di Matlab.|
-| AMS321| FUNGSI KOMPLEKS (Functions of A Complex Variable)|
+| AMS321| FUNGSI KOMPLEKS / *Functions of A Complex Variable*|
 | AMS221| Aksioma bilangan kompleks, fungsi kompleks dan pemetaan fungsi kompleks, limit dan turunan fungsi kompleks, integral fungsi kompleks, deret pangkat, residu dan perhitungan integral fungsi real melalui teknik residu, masalah aplikasi menggunakan teknik fungsi kompleks.|
-| AMS351| PROSES  STOKASTIK (STOCHASTIC PROCESSES)|
+| AMS351| PROSES  STOKASTIK / *STOCHASTIC PROCESSES*|
 | AMS251| Distribusieksponensial dan proses Poisson, proses renewal, rantai Markov, modelantrian.|
-| AMS373| METODE NUMERIK (NUMERICAL METHODS)|
+| AMS373| METODE NUMERIK / *NUMERICAL METHODS*|
 | AMS273| Konsep numerik, akar persamaan nonlinear dan polinomial, menyelesaikan sistem persamaan linear dengan hitungan langsung (eliminasi) dan dengan hitungan tak langsung (iterasi), interpolasi dan hampiran fungsi, pengintegralan numerik, hampiran turunan, persamaan diferensial biasa. |
-| AMS322| ANALISIS REAL (REAL ANALYSIS)|
+| AMS322| ANALISIS REAL / *REAL ANALYSIS*|
 | AMS321| Alj. himpunan, fungsi, bil. real, barisan dan deret, limit, fungsi kontinu, dan turunan.|
-| AMS491| PEMODELAN  MATEMATIKA (MATHEMATICAL MODELLING)|
+| AMS491| PEMODELAN  MATEMATIKA / *MATHEMATICAL MODELLING*|
 | AMS126, AMS221,||
 | AMS253, AMS272,||
 | AMS273| Mengumpulkan data, mencari proporsionalitas, menggunakan metoda beda hingga, menginterpretasikan hasil, memperbaiki model, model pencocokan kurva, model eksperimental, model simulasi, model probabilistik diskrit, analisis dimensi dan keserupaan.|
-| AMS490| SEMINAR (SEMINAR)|
+| AMS490| SEMINAR / *SEMINAR*|
 | lulus minimal 110 sks | Studi pustaka, penulisan dan presentasi karya ilmiah.|
-| AMS499| SKRIPSI (FINAL PROJECT)|
+| AMS499| SKRIPSI / *FINAL PROJECT*|
 | AMS490 minimal C| Studi pustaka, penulisan dan penyajian lisan skripsi.|
 
 ## 2.6 Kurikulum Program Studi Fisika
