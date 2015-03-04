@@ -1,4 +1,4 @@
-# BAB 4 EVALUASI KEBERHASILAN BELAJAR
+# BAB 4 Evaluasi Keberhasilan Belajar
 
 
 Evaluasi keberhasilan belajar yang diuraikan berikut ini berdasarkan kepada :
@@ -12,7 +12,7 @@ Evaluasi keberhasilan belajar mata kuliah adalah penilaian terhadap hasil belaja
 Keberhasilan belajar mata kuliah ditetapkan segera setelah mahasiswa __menyelesaikan seluruh Komponen Kegiatan__ yang disyaratkan dalam suatu mata kuliah. Kriteria keberhasilan belajar mahasiswa dalam suatu mata kuliah ditetapkan oleh dosen pembina mata kuliah, dengan menaati rambu-rambu dalam SK Rektor dan SK Dekan tersebut di atas.  
 Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai __Bentuk Kegiatan__, yang masing-masing memiliki __Komponen Kegiatan__ dan __Komponen Evaluasi__ sebagai berikut :
 
-**BENTUK KEGIATAN**
+**Bentuk Kegiatan**
 
 1. Perkuliahan :
     - Pelaksanaan Tugas :
@@ -111,7 +111,7 @@ Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal ters
 
  
 ### LAMPIRAN1
-#### JADWAL AKADEMIK TAHUN AKADEMIK 2014/2015
+**Jadwal Akademik Tahun Akademik 2014/2015**
 
 | Kegiatan               | Semester Ganjil              | Semester Genap                  |
 |------------------------|------------------------------|---------------------------------|
@@ -124,7 +124,7 @@ Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal ters
 | Pengumuman Nilai Akhir | Jumat, 9 Jan. 2015           | Senin, 24 Juni 2015             |
 
 ### LAMPIRAN 2
-#### JADWAL PEMBAYARAN BIAYA STUDI TAHUN AKADEMIK 2014/2015
+**Jadwal Pembayaran Biaya Studi Tahun Akademik 2014/2015**
 
 | Tahap                           | Semester Ganjil      | Semester Genap      |
 |---------------------------------|----------------------|---------------------|
@@ -132,7 +132,7 @@ Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal ters
 | Tahap 2(Pelunasan SKS dan SAPR) | Senin, 29 Sept. 2014 | Senin, 9 Maret 2015 |
 
 ### LAMPIRAN 3
-#### SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015
+**Sidang Sarjana dan Wisuda Tahun Akademik 2014/2015**
 
 | Periode                                | LIX                  | LX                   | LXI                 |
 |----------------------------------------|----------------------|----------------------|---------------------|
