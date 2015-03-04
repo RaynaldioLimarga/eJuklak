@@ -3,6 +3,7 @@
 Kegiatan akademik untuk satu tahun kuliah diselenggarakan dalam dua semester __reguler__ yaitu __Semester Ganjil__ dan __Semester Genap__. Selain itu, tergantung pada kebijakan universitas, kebutuhan dan kemampuan prodi, dapat diselenggarakan __Semester Pendek__. Penyelenggaraan Semester Pendek ini bersifat __tentatif__. Demikian juga keikutsertaan mahasiswa dalam kegiatan akademik pada Semester Pendek bersifat sukarela.
 
 Kegiatan Akademik di lingkungan FTIS, dan UNPAR pada umumnya, terdiri atas:
+
 1.	Penyusunan Rencana Studi
 2.	Kegiatan Perkuliahan 
 3.	Kegiatan Responsi dan / atau Praktikum
@@ -76,6 +77,7 @@ Perincian kegiatan perkuliahan adalah sebagai berikut :
 
 ## 3.3 Tata Cara Ujian
 Yang dimaksud dengan _ujian_ adalah kegiatan evaluasi keberhasilan belajar hingga suatu tahap yang ditetapkan. Ujian terdiri atas :
+
 1.	Ujian Tengah Semester (UTS)
 2.	Ujian Akhir Semester (UAS)
 3.	Ujian Praktikum (jika ada)
@@ -85,6 +87,7 @@ Pelaksanaan UTS dan UAS sesuai dengan jadwal kegiatan akademik UNPAR. Jadwal ked
 
 ### 3.3.1 Syarat Mengikuti Ujian
 Syarat untuk mengikuti UTS dan UAS:
+
 1.	__Terdaftar__ sebagai peserta pada semester terkait, telah cukup mengikuti kegiatan tatap muka matakuliah terkait pada semester tersebut, serta tidak menjalani sanksi pembatalan hak tempuh mengikuti suatu program pada semester tersebut berdasarkan SK Rektor UNPAR. 
 2.	__Telah melunasi__ seluruh biaya kuliah semester terkait. Perkecualian __khusus pada masa UTS__ diberikan bagi mahasiswa yang mendapat dispensasi penundaan pembayaran kuliah oleh WD-2. 
 3.	__Membawa KTM yang sah__ untuk semester terkait, atau surat keterangan pengganti KTM dari Biro Administrasi Akademik dan Kemahasiswaan (BAA) bagi yang kehilangan KTM.
@@ -142,6 +145,7 @@ __E.	Pelaksanaan__
 
 ### 3.3.3	Sanksi
 Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi sanksi berupa:
+
 1.	Untuk kali pertama: peringatan dari pengawas ujian, yang wajib dicatat dalam Berita Acara Ujian dan disimpan dalam map mahasiswa terkait.
 2.	Untuk kali ke dua dengan kesalahan yang sama: peringatan tertulis dari pimpinan Fakultas, yang arsipnya juga disimpan dalam map mahasiswa terkait.
 3.	Untuk kali ke tiga dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS matakuliah dimana kesalahan ke tiga tersebut terjadi (sesuai SK Rektor Universitas Katolik Parahyangan No. III/PRT/93-01/03 tentang _Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa_).
@@ -150,6 +154,7 @@ Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi sanksi beru
 Sanksi no. 3 dan 4 dikukuhkan oleh Surat Keputusan Dekan FTIS.
 
 Mahasiswa yang terbukti melakukan __pelanggaran norma kejujuran__ pada saat mengikuti ujian, akan diberi sanksi akademik sebagai berikut :
+
 1.	Untuk kali pertama: nilai matakuliah yang bersangkutan ditetapkan menjadi __E__ (tidak lulus).
 2.	Untuk kali kedua: seluruh nilai matakuliah pada semester terkait mahasiswa yang bersangkutan ditetapkan menjadi __E__ (tidak lulus).
 3.	Untuk kali selanjutnya: sanksi yang lebih berat, yang akan ditetapkan melalui rapat pimpinan fakultas.
@@ -210,6 +215,7 @@ Adapun __prosedur pengaktifan kembali status mahasiswa setelah gencat studi__ ad
 
 ## 3.5 Pengunduran Diri Sebagai Mahasiswa
 Prosedur pengunduran diri sebagai mahasiswa di lingkungan UNPAR adalah sebagai berikut :
+
 1.	Mahasiswa yang bersangkutan menulis surat pernyataan pengunduran diri yang ditujukan kepada Dekan FTIS, ditandatangani oleh mahasiswa dan orang tua mahasiswa yang bersangkutan.
 2.	Mahasiswa yang bersangkutan mengisi formulir pengunduran diri yang dapat diperoleh di Tata Usaha FTIS.
 3.	Setelah mendapat persetujuan dari dosen wali, ketua jurusan / program studi, WD-2, WD-1 dan Dekan FTIS, proses permohonan pengunduran diri diteruskan ke Biro Administrasi Akademik dan Kemahasiswaan (BAA).
