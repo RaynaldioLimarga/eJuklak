@@ -1,39 +1,39 @@
 #Bab 2 Penyelenggaraan Mata Kuliah
 
-Secara umum matakuliah yang diselenggarakan oleh program studi dapat dikelompokkan kedalam dua jenis yaitu 
-**matakuliah wajib** dan **matakuliah pilihan**. Matakuliah wajib merupakan matakuliah yang sifatnya wajib/harus ditempuh oleh setiap mahasiswa. Sebagian dari matakuliah wajib tersebut termasuk kedalam kelompok **matakuliah umum** (MKU), yaitu matakuliah yang terkait dengan pengembangan kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora. 
+Secara umum mata kuliah yang diselenggarakan oleh program studi dapat dikelompokkan kedalam dua jenis yaitu 
+**mata kuliah wajib** dan **mata kuliah pilihan**. Mata kuliah wajib merupakan mata kuliah yang sifatnya wajib/harus ditempuh oleh setiap mahasiswa. Sebagian dari mata kuliah wajib tersebut termasuk kedalam kelompok **mata kuliah umum** (MKU), yaitu mata kuliah yang terkait dengan pengembangan kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora. 
 
-Matakuliah pilihan bertujuan untuk menyiapkan mahasiswa untuk memasuki dunia kerja dan memperluas wawasan mahasiswa terhadap bidang ilmu lain sehingga memungkinkan melakukan tugas interdisiplin. Matakuliah pilihan dapat diambil dari matakuliah pilihan yang diselenggarakan oleh program studi (prodi) yang bersangkutan, atau matakuliah (baik wajib maupun pilihan) yang diselenggarakan oleh prodi lain di lingkungan UNPAR. Mahasiswa mengambil matakuliah pilihan berdasarkan persetujuan dari dosen wali.
+Mata kuliah pilihan bertujuan untuk menyiapkan mahasiswa untuk memasuki dunia kerja dan memperluas wawasan mahasiswa terhadap bidang ilmu lain sehingga memungkinkan melakukan tugas interdisiplin. Mata kuliah pilihan dapat diambil dari mata kuliah pilihan yang diselenggarakan oleh program studi (prodi) yang bersangkutan, atau mata kuliah (baik wajib maupun pilihan) yang diselenggarakan oleh prodi lain di lingkungan UNPAR. Mahasiswa mengambil mata kuliah pilihan berdasarkan persetujuan dari dosen wali.
 
-Selain matakuliah-matakuliah di atas, dikenal juga apa yang disebut dengan **matakuliah prasyarat**. Matakuliah prasyarat adalah matakuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu matakuliah tertentu. 
-Di samping matakuliah-matakuliah yang ditujukan untuk program studinya sendiri, prodi-prodi juga menyelenggarakan matakuliah yang ditujukan untuk program studi lain. Matakuliah ini disebut dengan **matakuliah layanan**.
+Selain beberapa mata kuliah di atas, dikenal juga apa yang disebut dengan **mata kuliah prasyarat**. Mata kuliah prasyarat adalah mata kuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu mata kuliah tertentu. 
+Di samping beberapa mata kuliah yang ditujukan untuk program studinya sendiri, prodi-prodi juga menyelenggarakan mata kuliah yang ditujukan untuk program studi lain. Mata kuliah ini disebut dengan **mata kuliah layanan**.
 
-Selain tatap muka di kelas, suatu matakuliah dapat mengandung kegiatan lain untuk mendukung perkuliahan, yaitu asistensi, responsi, atau praktikum yang biasa disingkat dengan **APR**. 
+Selain tatap muka di kelas, suatu mata kuliah dapat mengandung kegiatan lain untuk mendukung perkuliahan, yaitu asistensi, responsi, atau praktikum yang biasa disingkat dengan **APR**. 
 
-## 2.1 Matakuliah Pilihan
+## 2.1 Mata kuliah Pilihan
 
-Mahasiswa harus menempuh sejumlah SKS tertentu matakuliah pilihan, dengan sejumlah SKS di antaranya mata kuliah yang diselenggarakan prodinya. Jumlah SKS matakuliah ini berbeda-beda untuk setiap prodi:
+Mahasiswa harus menempuh sejumlah SKS tertentu mata kuliah pilihan, dengan sejumlah SKS di antaranya mata kuliah yang diselenggarakan prodinya. Jumlah SKS mata kuliah ini berbeda-beda untuk setiap prodi:
 
 1. Untuk Matematika, 48 SKS dengan minimal lulus 15 SKS berasal dari salah satu bidang kajian (Rekayasa Keuangan atau Matematika Industri).
 2. Untuk Fisika, 24 SKS yang dapat diambil dari seluruh prodidi UNPAR.
-3. Untuk Teknik Informatika, 30 SKS dengan banyaknya matakuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) matakuliah.
+3. Untuk Teknik Informatika, 30 SKS dengan banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.
 
-Untuk matakuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
+Untuk mata kuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
 
-1. Bila matakuliah tersebut memiliki prasyarat, mahasiswa dari prodi lain tidak perlu memenuhi prasyarat tersebut.
-2. Matakuliah pilihan dan matakuliah di prodi lain yang ekivalen dengannya, hanya dapat diperhitungkan salah satunya.
+1. Bila mata kuliah tersebut memiliki prasyarat, mahasiswa dari prodi lain tidak perlu memenuhi prasyarat tersebut.
+2. Mata kuliah pilihan dan mata kuliah di prodi lain yang ekivalen dengannya, hanya dapat diperhitungkan salah satunya.
 
-## 2.2 Matakuliah Prasyarat
+## 2.2 Mata kuliah Prasyarat
 
-Matakuliah prasyarat adalah matakuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu matakuliah tertentu. Berkaitan dengan hal ini, terdapat tiga kategori:
+Mata kuliah prasyarat adalah mata kuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu mata kuliah tertentu. Berkaitan dengan hal ini, terdapat tiga kategori:
 
-1. **Prasyarat tempuh**, artinya matakuliah tersebut telah terdaftar dalam rencana studi mahasiswa yang bersangkutan dan bernilai akhir A, B, C, D, atau E, walaupun tentunya kelulusan akan sangat menunjang penempuhan matakuliah berikutnya.
-2. **Prasyarat lulus**, artinya mahasiswa harus lulus matakuliah prasyarat tersebut terlebih dahulu. Pada umumnya syarat kelulusan adalah nilai akhir minimum D, meskipun ada juga yang lebih tinggi. Silahkan melihat silabus matakuliah ybs. untuk keterangan lebih lanjut.
-3. Mahasiswa di luar prodi penyelenggara matakuliah tidak wajib memenuhi prasyarat ini.
+1. **Prasyarat tempuh**, artinya mata kuliah tersebut telah terdaftar dalam rencana studi mahasiswa yang bersangkutan dan bernilai akhir A, B, C, D, atau E, walaupun tentunya kelulusan akan sangat menunjang penempuhan mata kuliah berikutnya.
+2. **Prasyarat lulus**, artinya mahasiswa harus lulus mata kuliah prasyarat tersebut terlebih dahulu. Pada umumnya syarat kelulusan adalah nilai akhir minimum D, meskipun ada juga yang lebih tinggi. Silahkan melihat silabus mata kuliah ybs. untuk keterangan lebih lanjut.
+3. Mahasiswa di luar prodi penyelenggara mata kuliah tidak wajib memenuhi prasyarat ini.
 
-## 2.3 Matakuliah Layanan
+## 2.3 Mata kuliah Layanan
 
-Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS untuk memenuhi kebutuhan matakuliah pada prodi lain di lingkungan UNPAR. 
+Mata kuliah layanan adalah mata kuliah yang dibina oleh prodi yang ada di FTIS untuk memenuhi kebutuhan mata kuliah pada prodi lain di lingkungan UNPAR. 
 
 ### 2.3.1 Kuliah Layanan Program Studi Matematika
 
@@ -77,9 +77,9 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 |-------|--------------------|:-:|----------------------|
 |AKS144	|Pemrograman Komputer| 3 |Matematika		|
 
-## 2.4 Matakuliah Umum
+## 2.4 Mata kuliah Umum
 
-Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi. 
+Mata kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi. 
 
 ### 2.4.1 Susunan Mata Kuliah Umum
 
@@ -109,7 +109,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 |MKU008	|ETIKA / *ETHICS*		            |
 |       |Mendalami perilaku sehari-hari yang baik dalam bermasyarakat. |
 |MKU009	|BAHASA INDONESIA / *INDONESIAN*	    |
-|       |Tujuan dari mata kuliah ini adalah untuk mendalami keterampilan berbahasa Indonesia, agar mampu mengkomunikasikan hasil pemikiran serta meningkatkan keterampilan dalam menyusun karya ilmiah. Mata kuliah Bahasa Indonesia ini dimulai dengan mempelajari penulisan kata baku dan non baku serta pengungkapan pikiran dengan pungtuasi yang benar. Selanjutnya dipelajari penyusunan kalimat yang baku serta menghubungkan kalimat-kalimat yang padu dalam menuangkan gagasan dalam sebuah paragraf. Selain itu, dalam matakuliah ini dipelajari cara menyusun surat dinas yang jelas dan komunikatif. Di akhir kuliah ini, mahasiswa diberi tugas penyusunan makalah dengan benar.|
+|       |Tujuan dari mata kuliah ini adalah untuk mendalami keterampilan berbahasa Indonesia, agar mampu mengkomunikasikan hasil pemikiran serta meningkatkan keterampilan dalam menyusun karya ilmiah. Mata kuliah Bahasa Indonesia ini dimulai dengan mempelajari penulisan kata baku dan non baku serta pengungkapan pikiran dengan pungtuasi yang benar. Selanjutnya dipelajari penyusunan kalimat yang baku serta menghubungkan kalimat-kalimat yang padu dalam menuangkan gagasan dalam sebuah paragraf. Selain itu, dalam mata kuliah ini dipelajari cara menyusun surat dinas yang jelas dan komunikatif. Di akhir kuliah ini, mahasiswa diberi tugas penyusunan makalah dengan benar.|
 |MKU010	|BAHASA INGGRIS	/ *ENGLISH*	    |
 |       |Mata kuliah ini difokuskan pada pemahaman sumber referensi dalam Bahasa Inggris dan pengembangan kosakata Bahasa Inggris (*vocabularies*). Hampir keseluruhan waktu perkuliahan didedikasikan untuk menjelaskan metode mengekstraksi isi bacaan secara tepat dan melatih mahasiswa untuk menerapkan metode tersebut seraya menambah kosakata-kosakata baru. Mahasiswa juga dilatih untuk mempresentasikan hasil pemahamannya akan isi bahan bacaan.|
 |MKU011	|ESTETIK / *ESTHETICS*		    |
@@ -117,7 +117,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 |MKU012 |LOGIKA / *LOGICS* 		    |
 |       |Perkuliahan logika ditujukan untuk memberikan dasar-dasar ketrampilan berpikir rasional dan sistematik. Isinya mencakup ketrampilan berpikir deduktif dan induktif, seperti silogisme, argumen analogikal dan generalisasi induktif. Pembahasan teoretis disertai pula dengan pelatihan praktis yang diarahkan pada proses berpikir. Untuk menajamkan kemampuan berpikir tersebut, mahasiswa dilatih pula mengidentifikasi kerancuan-kerancuan (*fallacies*) yang sering dijumpai baik dalam kehidupan sehari-hari maupun dalam konteks akademik|
 
-Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
+Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 
 
 ## 2.5 Kurikulum Program Studi Matematika
@@ -292,7 +292,7 @@ Kelompok Bidang Kajian: Rekayasa Keuangan
 |AMS382|Pembelajaran Matematika Sekolah	  |3|
 |AMS481|Kerja Praktek	                  |3|
 
-Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara matakuliah tersebut.Adapun persyaratan Matakuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh matakuliah pilihan Bidang Kajian minimal 15 sks.
+Sangat terbuka bagi seluruh mahasiswa untuk menempuh mata kuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara mata kuliah tersebut.Adapun persyaratan Mata kuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh mata kuliah pilihan Bidang Kajian minimal 15 sks.
  
 ### 2.5.3 PETA DAN PRASYARAT MATA KULIAH
 Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini :
@@ -446,7 +446,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini :
 |        | Mata Kuliah Pilihan |     | 9   |
 |        |                     |TOTAL|  18 |
 
-Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
+Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 
 | No | Kelompok Mata kuliah                                                 |
 |----|----------------------------------------------------------------------|
@@ -457,11 +457,11 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 | 5  | Biofisika                                                            |
 | 6  | Fisika Bumi                                                          |
 | 7  | Astrofisika                                                          |
-| 8  | Matakuliah Layanan                                                   |
+| 8  | Mata kuliah Layanan                                                   |
 | 9  | Seminar dan skripsi                                                  |
 | 0  | Kuliah Dasar, Keterampilan Umum, Lain-Lain                           |
 
-### 2.6.2 Matakuliah Pilihan Program Studi Fisika
+### 2.6.2 Mata kuliah Pilihan Program Studi Fisika
 **Lain-lain**
 
 | KODE    | NAMA                    | SKS |
@@ -545,11 +545,11 @@ Komposisi Kuliah wajib dan pilihan adalah
 *	Kuliah Wajib = 120 sks 
 *	Kuliah Pilihan = 24 sks 
 
-Selain itu, mahasiswa dapat mengambil, baik matakuliah wajib maupun matakuliah pilihan dari Program Studi Teknik Sipil/Arsitektur/Teknik  Industri/Teknik Kimia dan dari Fakultas Ekonomi / Fakultas Hukum /Fakultas Ilmu Sosial dan Ilmu Politik/ Fakultas Filsafat (sejauh masih ada tempat lowong di kelas paralelnya).
+Selain itu, mahasiswa dapat mengambil, baik mata kuliah wajib maupun mata kuliah pilihan dari Program Studi Teknik Sipil/Arsitektur/Teknik  Industri/Teknik Kimia dan dari Fakultas Ekonomi / Fakultas Hukum /Fakultas Ilmu Sosial dan Ilmu Politik/ Fakultas Filsafat (sejauh masih ada tempat lowong di kelas paralelnya).
 
 Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari seluruh pembelajaran *soft-skills* berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis (*logical consistency*), melakukan taksiran (*sense of scale*), menentukan prioritas, komputasi, bekerjasama, *entrepreneurship*, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru (*open minded*), percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
 
-### 2.6.3 Peta dan Prasyarat Matakuliah
+### 2.6.3 Peta dan Prasyarat Mata kuliah
 Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini :
 ![Peta Mata Kuliah Fisika](images/petamakul2.jpg)
 
@@ -627,7 +627,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini :
 | -      | Mata kuliah ini membahas pengertian Kewirausahaan serta bagaimana sebaiknya mengembangkan usaha agar dapat menjadi wirausaha yang berhasil dan beretika. Pembahasan mengenai inti dan hakekat kewirausahaan, disiplin ilmu, obyek studi dan perkembangannya, karakteristik dan ciri umum kewirausahaan, faktor-faktor pemicu, model, proses, tahapan, keberhasilan dan kegagalan, ide dan sumber wirausaha, cara memasuki dunia usaha, pengelolaan dunia usaha, kompetisi dan strategi, pembuatan studi kelayakan dan etika bisnis dan prinsip-prinsip usaha yang baik. Selain itu juga dipresentasikan hasil kunjungan ke perusahaan agar dapat membedakan dunia nyata dengan teori, sehingga mahasiswa diharapkan memiliki kemampuan soft skill. |
 
 ## 2.7 Kurikulum Program Studi Teknik Informatika
-### 2.7.1 Sususan matakuliah
+### 2.7.1 Sususan mata kuliah
 **Semester 1**
 
 | KODE   | NAMA                           | APR | SKS |
@@ -734,19 +734,19 @@ Mahasiswa harus lulus salah satu dari
 Aturan tambahan :
 
 1.	Mata kuliah pilihan dari luar jurusan   
-Banyaknya matakuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) matakuliah.
-Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai matakuliah pilihan dari dalam jurusan 
+Banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.
+Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai mata kuliah pilihan dari dalam jurusan 
 2.	Skor *Coding*        
-Beberapa matakuliah memiliki skor *coding* antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan matakuliah setiap semester, memiliki jumlah *skor coding*> 0.
+Beberapa mata kuliah memiliki skor *coding* antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan mata kuliah setiap semester, memiliki jumlah *skor coding*> 0.
 3.	Nilai minimum kuliah jalur pemrograman/algoritma    
-Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:    
+Untuk mahasiswa yang ingin mengambil mata kuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:    
 a.	Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek   
 b.	Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek     
 c.	Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek   
 d.	Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek     
 maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
-### 2.7.2 Matakuliah Pilihan Program Studi Teknik Informatika
+### 2.7.2 Mata kuliah Pilihan Program Studi Teknik Informatika
 | KODE   | NAMA                                       | APR | SKS |
 |--------|--------------------------------------------|-----|-----|
 | AIF330 | Kerja Praktek 1                            |     | 2   |
@@ -816,11 +816,11 @@ maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di ma
 | AIF469 | Layanan Berbasis Web 	                                        |   |   |
 | AIF470 | Pemrograman Jaringan	                                            |   |   |
 
-### 2.7.3 Peta dan Prasyarat Matakuliah 
+### 2.7.3 Peta dan Prasyarat Mata kuliah 
 Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini :
 ![Peta Mata Kuliah Teknik Informatika](images/petamakul3.jpg)
 
-###2.7.4 Deskripsi Matakuliah
+###2.7.4 Deskripsi Mata kuliah
 | Kode MK | Nama dan Deskripsi Mata Kuliah                                                                                                                                                                                                                                                                                                                                                                                                       |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | AIF 101 | PEMROGRAMAN BERORIENTASI OBJEK/ *OBJECT-ORIENTED PROGRAMMING*                                                                                                                                                                                                                                                                                                                                                                          |
