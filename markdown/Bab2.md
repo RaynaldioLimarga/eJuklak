@@ -627,7 +627,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini :
 | -      | Mata kuliah ini membahas pengertian Kewirausahaan serta bagaimana sebaiknya mengembangkan usaha agar dapat menjadi wirausaha yang berhasil dan beretika. Pembahasan mengenai inti dan hakekat kewirausahaan, disiplin ilmu, obyek studi dan perkembangannya, karakteristik dan ciri umum kewirausahaan, faktor-faktor pemicu, model, proses, tahapan, keberhasilan dan kegagalan, ide dan sumber wirausaha, cara memasuki dunia usaha, pengelolaan dunia usaha, kompetisi dan strategi, pembuatan studi kelayakan dan etika bisnis dan prinsip-prinsip usaha yang baik. Selain itu juga dipresentasikan hasil kunjungan ke perusahaan agar dapat membedakan dunia nyata dengan teori, sehingga mahasiswa diharapkan memiliki kemampuan soft skill. |
 
 ## 2.7 Kurikulum Program Studi Teknik Informatika
-### 2.7.1 Sususan mata kuliah
+### 2.7.1 Sususan Mata Kuliah
 **Semester 1**
 
 | KODE   | NAMA                           | APR | SKS |
@@ -746,7 +746,7 @@ c.	Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
 d.	Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek     
 maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
-### 2.7.2 Mata kuliah Pilihan Program Studi Teknik Informatika
+### 2.7.2 Mata Kuliah Pilihan Program Studi Teknik Informatika
 | KODE   | NAMA                                       | APR | SKS |
 |--------|--------------------------------------------|-----|-----|
 | AIF330 | Kerja Praktek 1                            |     | 2   |
@@ -820,7 +820,7 @@ maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di ma
 Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini :
 ![Peta Mata Kuliah Teknik Informatika](images/petamakul3.jpg)
 
-###2.7.4 Deskripsi Mata kuliah
+###2.7.4 Deskripsi Mata Kuliah
 | Kode MK | Nama dan Deskripsi Mata Kuliah                                                                                                                                                                                                                                                                                                                                                                                                       |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | AIF 101 | PEMROGRAMAN BERORIENTASI OBJEK/ *OBJECT-ORIENTED PROGRAMMING*                                                                                                                                                                                                                                                                                                                                                                          |
