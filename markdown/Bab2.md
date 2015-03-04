@@ -10,7 +10,7 @@ Di samping beberapa mata kuliah yang ditujukan untuk program studinya sendiri, p
 
 Selain tatap muka di kelas, suatu mata kuliah dapat mengandung kegiatan lain untuk mendukung perkuliahan, yaitu asistensi, responsi, atau praktikum yang biasa disingkat dengan **APR**. 
 
-## 2.1 Mata kuliah Pilihan
+## 2.1 Mata Kuliah Pilihan
 
 Mahasiswa harus menempuh sejumlah SKS tertentu mata kuliah pilihan, dengan sejumlah SKS di antaranya mata kuliah yang diselenggarakan prodinya. Jumlah SKS mata kuliah ini berbeda-beda untuk setiap prodi:
 
@@ -23,7 +23,7 @@ Untuk mata kuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
 1. Bila mata kuliah tersebut memiliki prasyarat, mahasiswa dari prodi lain tidak perlu memenuhi prasyarat tersebut.
 2. Mata kuliah pilihan dan mata kuliah di prodi lain yang ekivalen dengannya, hanya dapat diperhitungkan salah satunya.
 
-## 2.2 Mata kuliah Prasyarat
+## 2.2 Mata Kuliah Prasyarat
 
 Mata kuliah prasyarat adalah mata kuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu mata kuliah tertentu. Berkaitan dengan hal ini, terdapat tiga kategori:
 
@@ -31,7 +31,7 @@ Mata kuliah prasyarat adalah mata kuliah yang harus ditempuh seorang mahasiswa s
 2. **Prasyarat lulus**, artinya mahasiswa harus lulus mata kuliah prasyarat tersebut terlebih dahulu. Pada umumnya syarat kelulusan adalah nilai akhir minimum D, meskipun ada juga yang lebih tinggi. Silahkan melihat silabus mata kuliah ybs. untuk keterangan lebih lanjut.
 3. Mahasiswa di luar prodi penyelenggara mata kuliah tidak wajib memenuhi prasyarat ini.
 
-## 2.3 Mata kuliah Layanan
+## 2.3 Mata Kuliah Layanan
 
 Mata kuliah layanan adalah mata kuliah yang dibina oleh prodi yang ada di FTIS untuk memenuhi kebutuhan mata kuliah pada prodi lain di lingkungan UNPAR. 
 
@@ -77,7 +77,7 @@ Mata kuliah layanan adalah mata kuliah yang dibina oleh prodi yang ada di FTIS u
 |-------|--------------------|:-:|----------------------|
 |AKS144	|Pemrograman Komputer| 3 |Matematika		|
 
-## 2.4 Mata kuliah Umum
+## 2.4 Mata Kuliah Umum
 
 Mata kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi. 
 
@@ -294,11 +294,11 @@ Kelompok Bidang Kajian: Rekayasa Keuangan
 
 Sangat terbuka bagi seluruh mahasiswa untuk menempuh mata kuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara mata kuliah tersebut.Adapun persyaratan Mata kuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh mata kuliah pilihan Bidang Kajian minimal 15 sks.
  
-### 2.5.3 PETA DAN PRASYARAT MATA KULIAH
+### 2.5.3 Peta dan Prasyarat Mata Kuliah
 Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini :
 ![Peta Mata Kuliah Matematika](images/petamakul1.jpg)
 
-### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
+### 2.5.4 Deskripsi Singkat Mata Kuliah Prodi Matematika
 
 |KODE MK |NAMA & DESKRIPSI MATA KULIAH	      |
 |--------|------------------------------------|
