@@ -58,16 +58,20 @@ Jika selama satu minggu pertama kuliah, mahasiswa hendak mengubah rencana studi 
 ## 3.2 Kegiatan Perkuliahan
 Setiap mahasiswa yang telah memiliki KTM dan telah menyelesaikan kewajiban pembayarannya, pada dasarnya berhak mengikuti seluruh kegiatan akademik sesuai dengan kesepakatan hasil perwalian (ditunjukkan melalui email konfirmasi hasil pengisian FRS dan/atau PRS). Hak ini tentunya masih dapat diubah oleh dosen terkait, jika dinilai bahwa kelakuan dan unjuk-kerja mahasiswa itu tidak memadai. 
 Jika ada masalah tentang ini, hal ini perlu dilaporkan secara tertulis oleh mahasiswa maupun dosen kepada pihak yang berkepentingan, yaitu dosen wali, pimpinan jurusan / program studi, dan pimpinan FTIS.
-Perincian kegiatan perkuliahan adalah sebagai berikut :
+Perincian kegiatan perkuliahan adalah sebagai berikut :   
+
 1.	__Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)__, yang sebaiknya dimanfaatkan secara maksimal dengan :
  -	membaca bahan yang diperkirakan akan dibahas dosen,
  -	menanyakan __segala__ hal yang belum jelas kepada dosen,
  -	meminta saran dosen tentang cara belajar dan berlatih yang baik.
-__Kehadiran__ pada perkuliahan disyaratkan __minimal 80%__, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera mungkin kepada dosen, beserta alasan cukup kuat dan sah.
-2.	__Kegiatan akademik terstruktur (± 1 jam/SKS)__, yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran. 
+
+  __Kehadiran__ pada perkuliahan disyaratkan __minimal 80%__, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera mungkin kepada dosen, beserta alasan cukup kuat dan sah.
+  
+2.	__Kegiatan akademik terstruktur ( 1 jam/SKS)__, yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran. 
  -	Responsi merupakan kegiatan dimana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan masalah teknis yang belum dikuasai.
  -	Praktikumbertujuan melengkapi kegiatan perkuliahan, agar keterkaitan antara teori dan praktek dapat dikokohkan. 
  -	Pekerjaan rumah merupakan latihan yang diberikan oleh dosen untuk menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri maupun kelompok. 
+ 
 3.	__Kegiatan akademik mandiri(± 1 jam / sks)__, merupakan kegiatan yang dilakukan sendiri (di perpustakaan, di rumah, atau di tempat lain) oleh mahasiswa. Hal ini amat perlu, untuk dapat merenungkan dan mencernakan bahan kuliah. Kegiatan ini dapat terdiri atas membaca buku teks atau buku lain, catatan kuliah, responsi, atau praktikum, membuat soal yang ditugaskan dan yang dipilih sendiri, membuat skema pokok bahasan yang telah dipelajari, belajar dalam kelompok studi, dsb.
 
 ## 3.3 Tata Cara Ujian
