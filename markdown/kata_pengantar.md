@@ -1,4 +1,5 @@
-Kata Pengantar Dekan Fakultas Teknologi Informasi dan Sains Universitas Katolik Parahyangan
+#Kata Pengantar 
+Dekan Fakultas Teknologi Informasi dan Sains Universitas Katolik Parahyangan
 -------------------------------------------------------------------------------------------
 
 Sejak berdirinya Fakultas Teknologi Informasi dan Sains (d/h Fakultas Matematika
@@ -42,9 +43,9 @@ buku ini sangat kami harapkan dan hargai.
 Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilkan.
 
 
-
+**
 Bandung,     
 Dekan,
 
 
-Paulus Cahyono Tjiang, Ph.D.
+Paulus Cahyono Tjiang, Ph.D.**
