@@ -1,5 +1,4 @@
 #Bab 2 Penyelenggaraan Mata Kuliah
-------------------
 
 Secara umum matakuliah yang diselenggarakan oleh program studi dapat dikelompokkan kedalam dua jenis yaitu 
 **matakuliah wajib** dan **matakuliah pilihan**. Matakuliah wajib merupakan matakuliah yang sifatnya wajib/harus ditempuh oleh setiap mahasiswa. Sebagian dari matakuliah wajib tersebut termasuk kedalam kelompok **matakuliah umum** (MKU), yaitu matakuliah yang terkait dengan pengembangan kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora. 
