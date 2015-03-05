@@ -24,7 +24,7 @@ Fakultas diharapkan mempelajari dan memahami dengan seksama setiap ketentuan
 yang tertuang dalam buku petunjuk pelaksanaan kegiatan akademik tersebut.
 Penerbitan buku petunjuk versi terbaru akan dilakukan secara rutin pada setiap
 awal tahun akademik, sehingga civitas academica di lingkungan Fakultas
-memperoleh informasi terkini tentang tatacara pelaksanaan kegiatan akademik yang
+memperoleh informasi terkini tentang tata cara pelaksanaan kegiatan akademik yang
 berlaku di lingkungan Fakultas. Dengan demikian, diharapkan civitas academica
 Fakultas selalu mengacu pada informasi-informasi yang tercantum dalam buku
 petunjuk terkini dalam melaksanakan kegiatan akademik. Apabila dalam pelaksanaan
