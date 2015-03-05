@@ -545,12 +545,12 @@ Komposisi Kuliah wajib dan pilihan adalah
 *	Kuliah Wajib = 120 sks 
 *	Kuliah Pilihan = 24 sks 
 
-Selain itu, mahasiswa dapat mengambil, baik mata kuliah wajib maupun mata kuliah pilihan dari Program Studi Teknik Sipil/Arsitektur/Teknik  Industri/Teknik Kimia dan dari Fakultas Ekonomi / Fakultas Hukum /Fakultas Ilmu Sosial dan Ilmu Politik/ Fakultas Filsafat (sejauh masih ada tempat lowong di kelas paralelnya).
+Selain itu, mahasiswa dapat mengambil, baik mata kuliah wajib maupun mata kuliah pilihan dari Program Studi Teknik Sipil / Arsitektur / Teknik  Industri / Teknik Kimia dan dari Fakultas Ekonomi / Fakultas Hukum / Fakultas Ilmu Sosial dan Ilmu Politik / Fakultas Filsafat (sejauh masih ada tempat lowong di kelas paralelnya).
 
 Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari seluruh pembelajaran *soft-skills* berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis (*logical consistency*), melakukan taksiran (*sense of scale*), menentukan prioritas, komputasi, bekerjasama, *entrepreneurship*, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru (*open minded*), percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
 
 ### 2.6.3 Peta dan Prasyarat Mata kuliah
-Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini :
+Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini:
 ![Peta Mata Kuliah Fisika](images/petamakul2.jpg)
 
 ### 2.6.4 Deskripsi Singkat Mata Kuliah Program Studi Fisika
@@ -738,13 +738,14 @@ Aturan tambahan :
 Banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.
 Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai mata kuliah pilihan dari dalam jurusan 
 2.	Skor *Coding*        
-Beberapa mata kuliah memiliki skor *coding* antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan mata kuliah setiap semester, memiliki jumlah *skor coding*> 0.
+Beberapa mata kuliah memiliki skor *coding* antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan mata kuliah setiap semester, memiliki jumlah *skor coding* > 0.
 3.	Nilai minimum kuliah jalur pemrograman/algoritma    
 Untuk mahasiswa yang ingin mengambil mata kuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:    
 a.	Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek   
 b.	Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek     
 c.	Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek   
-d.	Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
+d.	Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek 
+maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
 ### 2.7.2 Mata Kuliah Pilihan Program Studi Teknik Informatika
 | KODE   | NAMA                                       | APR | SKS |
@@ -817,7 +818,7 @@ d.	Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek maka 
 | AIF470 | Pemrograman Jaringan	                                            |   |   |
 
 ### 2.7.3 Peta dan Prasyarat Mata kuliah 
-Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini :
+Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini:
 ![Peta Mata Kuliah Teknik Informatika](images/petamakul3.jpg)
 
 ###2.7.4 Deskripsi Mata Kuliah
@@ -846,7 +847,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini :
 | AIF206  | SISTEM OPERASI / *OPERATING SYSTEMS*                                                                                                                                                                                                                                                                                                                                                                                                   |
 |         | Mempelajari pengertian sistem operasi, peran dan fungsinya dalam sebuah sistem perangkat keras, khususnya komputer. Mempelajari prinsip-prinsip, teknik dan algoritma yang digunakan di dalam sebuah sistem operasi, penjadwalan, dan aspek keamanan dalam sistem operasi. Memperkenalkan,dan menggunakan lebih dalam beberapa sistem operasi yang umum                                                                              |
 | AIF208  | REKAYASA PERANGKAT LUNAK / *SOFTWARE ENGINEERING*                                                                                                                                                                                                                                                                                                                                                                                  |
-|         | Mempelajari terminologi, definisi, Software,Process Model, review paradigma berorientasi objek, kebutuhan perangkat lunak, use case modeling, class modelling, dynamic modelling: state transition diagram, sequence diagram, activity,diagram, reusability dan design, pattern, data flow diagram, testing, software process management                                                                                              |
+|         | Mempelajari terminologi, definisi, Software,Process Model, review paradigma berorientasi objek, kebutuhan perangkat lunak, use case modeling, class modelling, dynamic modelling: state transition diagram, sequence diagram, activity,diagram, reusability dan design pattern, data flow diagram, testing, software process management                                                                                              |
 | AIF210  | INTERAKSI MANUSIA KOMPUTER / *HUMAN-COMPUTER INTERACTION*                                                                                                                                                                                                                                                                                                                                                                              |
 |         | Mempelajari konsep-konsep interaksi manusia dan komputer serta mengimplementasikan dalam bentuk pemrograman di lingkungan GUI dan event driven).                                                                                                                                                                                                                                                                                     |
 | AIF294  | MANAJEMEN INFORMASI & BASIS DATA,/ *INFORMATION MANAGEMENT &,DATABASES*                                                                                                                                                                                                                                                                                                                                                                |
