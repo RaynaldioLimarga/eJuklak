@@ -60,11 +60,11 @@ dengan (sks × bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, 
 
 ### 4.2.2 	Evaluasi Keberhasilan Belajar Tahap Pertama
 Evaluasi Keberhasilan Belajar Tahap Pertama dilakukan __pada akhir 2 (dua) tahun pertama__, atau __pada akhir masa studi terpakai selama 4 (empat) semester__, terhitung sejak yang bersangkutan terdaftar sebagai mahasiswa UNPAR.Evaluasi Keberhasilan Belajar Tahap Pertama dinyatakan dalam __Indeks Prestasi Tahap Pertama (IPT I)__, dengan rentang __0,00 – 4,00__.  
-Persyaratan yang __harus dipenuhi__ pada Evaluasi Keberhasilan Belajar Tahap Pertama adalah telah __lulus minimal 30 SKS__ dan __IPT Iminimal 2,00__.Dalam hal ini yang dimaksud dengan IPT I adalahIndeks Prestasi untuk 30 SKS terbaik.Jika persyaratan tersebut tidak terpenuhi, maka mahasiswa yang bersangkutan __tidak diijinkan melanjutkan studi__ pada prodi yang sama di lingkungan UNPAR. Penetapan mahasiswa yang tidak diijinkan untuk melanjutkan studi dilakukan dengan surat keputusan Rektor.    
+Persyaratan yang __harus dipenuhi__ pada Evaluasi Keberhasilan Belajar Tahap Pertama adalah telah __lulus minimal 30 SKS__ dan __IPT I minimal 2,00__.Dalam hal ini yang dimaksud dengan IPT I adalah Indeks Prestasi untuk 30 SKS terbaik. Jika persyaratan tersebut tidak terpenuhi, maka mahasiswa yang bersangkutan __tidak diijinkan melanjutkan studi__ pada prodi yang sama di lingkungan UNPAR. Penetapan mahasiswa yang tidak diijinkan untuk melanjutkan studi dilakukan dengan surat keputusan Rektor.    
 Semester dimana mahasiswa diijinkan mengambil __cuti studi tidak diperhitungkan__ dalam Evaluasi Keberhasilan Belajar Tahap Pertama.
 
 ### 4.2.3	Evaluasi Keberhasilan Belajar Tahap Kedua
-Evaluasi Keberhasilan Belajar Tahap Kedua dilakukan __pada akhir 4 (empat) tahun pertama__, atau __pada akhir masa studi terpakai selama 8 (delapan) semester__ terhitung sejak yang bersangkutan terdaftar sebagai mahasiswa UNPAR.Evaluasi Keberhasilan Belajar Tahap Kedua dinyatakan dalam __Indeks Prestasi Tahap Kedua (IPT II)__, dengan rentang __0,00 – 4,00__.
+Evaluasi Keberhasilan Belajar Tahap Kedua dilakukan __pada akhir 4 (empat) tahun pertama__, atau __pada akhir masa studi terpakai selama 8 (delapan) semester__ terhitung sejak yang bersangkutan terdaftar sebagai mahasiswa UNPAR. Evaluasi Keberhasilan Belajar Tahap Kedua dinyatakan dalam __Indeks Prestasi Tahap Kedua (IPT II)__, dengan rentang __0,00 – 4,00__.
 Persyaratan yang __harus dipenuhi__ pada Evaluasi Keberhasilan Belajar Tahap Kedua adalah telah lulus minimal 75 SKS dan IPT II __minimal 2,00__. Dalam hal ini yang dimaksud dengan IPT II adalahIndeks Prestasi untuk 75SKS terbaik. Jika persyaratan di atas tidak terpenuhi, maka mahasiswa yang bersangkutan __tidak diijinkan melanjutkan studi__ pada prodi terkait di lingkungan UNPAR. Penetapan mahasiswa yang tidak diijinkan untuk melanjutkan studi dilakukan dengan surat keputusan Rektor.  
 Semester dimana mahasiswa diijinkan mengambil __cuti studi tidak diperhitungkan__ dalam Evaluasi Keberhasilan Belajar Tahap Kedua.
 
@@ -75,7 +75,7 @@ Evaluasi Keberhasilan Belajar Tahap Akhir dinyatakan dalam __Indeks Prestasi Kum
  
  ![image of IPK](images/IPK.PNG)
 
-dengan (sks × bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah.Mahasiswa dinyatakan __lulus__ dari prodi terkait di lingkungan UNPAR setelah memenuhi persyaratan berikut :
+dengan (sks × bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. Mahasiswa dinyatakan __lulus__ dari prodi terkait di lingkungan UNPAR setelah memenuhi persyaratan berikut :
 
 1.	Telah lulus __seluruh beban SKS__ yang dipersyaratkan dalam kurikulum prodi terkait.
 2.	IPK ≥ 2,00.
@@ -94,20 +94,12 @@ IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh ma
 ## 4.3 	Kemampuan Bahasa Inggris Mahasiswa UNPAR
 Berdasarkan Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-08/148 tentang Standar Kemampuan Bahasa Inggris Mahasiswa Universitas Katolik Parahyangan, mulai mahasiswa angkatan 2006 dan selanjutnya, setiap mahasiswa program Sarjana dan Pascasarjana wajib memiliki kemampuan bahasa Inggris yang dinyatakan berdasarkan hasil tes di PBB (Pusat Pendidikan Berkelanjutan) UNPAR, atau pada lembaga penyelenggara tes resmi di luar UNPAR, dengan skor minimal sebagai berikut:
 
-1.	Skor 500 (limaratus) yang diperoleh melalui pelaksanaan tes TOEFL dengan metode tes tertulis (paper-based TOEFL), atau
+1.	Skor 500 (lima ratus) yang diperoleh melalui pelaksanaan tes TOEFL dengan metode tes tertulis (paper-based TOEFL), atau
 2.	Skor 59-60 (lima puluh sembilan sampai enam puluh) yang diperoleh melalui pelaksanaan test TOEFL dengan metode tes melalui internet (internet-based TOEFL), atau
 3.	Skor 173 (seratus tujuh puluh tiga) yang diperoleh melalui pelaksanaan tes TOEFL dengan metode tes menggunakan komputer (computer-based TOEFL), atau
 4.	Skor 5,0 (lima koma nol) yang diperoleh melalui pelaksanaan IELTS.
 
-Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal tersebut harus telah dicapai oleh mahasiswa yang bersangkutan selambat-lambatnyapada saat Evaluasi Studi Tahap 1I. Jika pada batas waktu tersebut seorang mahasiswa belum dapat memenuhi skor minimal yang disyaratkan, maka mahasiswa tersebut dapat mengajukan permohonan dispensasi kepada Rektor asalkan memenuhi persyaratan tertentu. Tentang dispensasi ini lebih lanjut diatur pada pasal 5 dari SK Rektor (lihat lampiran).
-
-
-
-
-
-
-
-
+Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal tersebut harus telah dicapai oleh mahasiswa yang bersangkutan selambat-lambatnyapada saat Evaluasi Studi Tahap II. Jika pada batas waktu tersebut seorang mahasiswa belum dapat memenuhi skor minimal yang disyaratkan, maka mahasiswa tersebut dapat mengajukan permohonan dispensasi kepada Rektor asalkan memenuhi persyaratan tertentu. Tentang dispensasi ini lebih lanjut diatur pada pasal 5 dari SK Rektor (lihat lampiran).
 
  
 ### LAMPIRAN1
@@ -129,7 +121,7 @@ Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal ters
 | Tahap                           | Semester Ganjil      | Semester Genap      |
 |---------------------------------|----------------------|---------------------|
 | Tahap 1 (BRP dan 10 SKS)        | Kamis, 14 Juli 2014  | Jumat, 9 Jan 2015   |
-| Tahap 2(Pelunasan SKS dan SAPR) | Senin, 29 Sept. 2014 | Senin, 9 Maret 2015 |
+| Tahap 2 (Pelunasan SKS dan SAPR) | Senin, 29 Sept. 2014 | Senin, 9 Maret 2015 |
 
 ### LAMPIRAN 3
 **Sidang Sarjana dan Wisuda Tahun Akademik 2014/2015**
