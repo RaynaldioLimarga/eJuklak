@@ -212,7 +212,7 @@ Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 
 ### 2.5.2 Mata Kuliah Pilihan Program Studi Matematika
 
-Mata kuliah pilihandibagi kedalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliahPilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.  
+Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliah Pilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.  
 
 Kelompok Bidang Kajian: Rekayasa Keuangan
 
@@ -292,10 +292,10 @@ Kelompok Bidang Kajian: Rekayasa Keuangan
 |AMS382|Pembelajaran Matematika Sekolah	  |3|
 |AMS481|Kerja Praktek	                  |3|
 
-Sangat terbuka bagi seluruh mahasiswa untuk menempuh mata kuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara mata kuliah tersebut.Adapun persyaratan Mata kuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh mata kuliah pilihan Bidang Kajian minimal 15 sks.
+Sangat terbuka bagi seluruh mahasiswa untuk menempuh mata kuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara mata kuliah tersebut. Adapun persyaratan Mata kuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh mata kuliah pilihan Bidang Kajian minimal 15 sks.
  
 ### 2.5.3 Peta dan Prasyarat Mata Kuliah
-Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini :
+Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini:
 ![Peta Mata Kuliah Matematika](images/petamakul1.jpg)
 
 ### 2.5.4 Deskripsi Singkat Mata Kuliah Prodi Matematika
@@ -725,9 +725,10 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini :
 
 Keterangan :    
 (1) Mata kuliah pilihan wajib.  
-Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut     
+> Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut 
+
 (2)	Mata kuliah projek.     
-Mahasiswa harus lulus salah satu dari
+> Mahasiswa harus lulus salah satu dari
 - Projek Informatika, atau 
 - Projek Sistem Informasi 1 dan Projek Sistem Informasi 2 
 
