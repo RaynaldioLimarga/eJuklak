@@ -6,14 +6,15 @@
     android:layout_height="match_parent"
     tools:context="com.unpar.e_juklak.WebviewActivity" >
 
-    <FrameLayout
-        android:id="@+id/container"
+    <WebView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/WebViewJuklak"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" >
-        
-        
-        
-    </FrameLayout>
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin" />
 
     <fragment
         android:id="@+id/navigation_drawer"
@@ -21,6 +22,7 @@
         android:layout_width="@dimen/navigation_drawer_width"
         android:layout_height="match_parent"
         android:layout_gravity="left"
+        android:entries="@array/bab"
         tools:layout="@layout/fragment_navigation_drawer" />
 
 </android.support.v4.widget.DrawerLayout>
