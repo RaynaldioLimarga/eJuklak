@@ -214,7 +214,7 @@ Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 
 Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliah Pilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.  
 
-**Kelompok Bidang Kajian: Rekayasa Keuangan**
+####Kelompok Bidang Kajian: Rekayasa Keuangan
 
 **Matematika Asuransi**
 
@@ -237,7 +237,7 @@ Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian 
 |AMS442|Ekonometrika Keuangan	          |3  |
 |AMS440|Kapita Selekta Matematika Keuangan|3  |
 
-**Kelompok Bidang Kajian: Rekayasa Keuangan**
+####Kelompok Bidang Kajian: Rekayasa Keuangan
 
 **Optimasi dan Teori Kontrol**
 
