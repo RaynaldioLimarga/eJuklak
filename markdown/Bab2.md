@@ -275,7 +275,7 @@ Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian 
 |AMS374|Analisis Numerik	          |3|
 |AMS470| Kapita Selekta Matematika Terapan|3|
 		
-**Lain-lain**
+####Lain-lain
 
 |KODE	 |NAMA	                          |SKS|
 |------|----------------------------------|:-:|
