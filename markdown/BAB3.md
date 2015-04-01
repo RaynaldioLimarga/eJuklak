@@ -191,6 +191,7 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
  
  c. masalah pribadi lainnya. 
 3.	Ijin pengambilan cuti studi diberikan oleh Dekan FTIS dan dinyatakan dalam bentuk surat resmi, dan diberitahukan kepada WR-1, WR-2, Kepala Biro Administrasi Akademik dan Kemahasiswaan (BAA) dan Kepala Biro Administrasi Keuangan (BIKEU).
+
 4.	Masa cuti studi __tidak diperhitungkan__ sebagai masa studi terpakai dalam evaluasi tahap studi.
 5.	Bagi mahasiswa yang mendapat izin cuti dari Dekan FTIS, wajib 
  -	Mengisi Formulir Rencana Studi dengan beban __0 (nol)__ sks, dan didaftarkan sesuai dengan __prosedur yang ada__.
