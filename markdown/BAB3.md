@@ -134,9 +134,7 @@ __E.	Pelaksanaan__
 9.	Dilarang keras __melakukan kecurangan__ dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:
 
     a.	__Melihat__ berkas ujian milik peserta ujian lain;
-
     b.	__Memperlihatkan__ atau __memberikan__ berkas ujian milik sendiri kepada peserta ujian lain;
-
     c.	__Memberikan__ atau __menerima__ petunjuk atau jawaban ujian dengan cara dan media apapun;
 
     d.	__Melihat__ buku ajar, diktat atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka);
@@ -164,7 +162,6 @@ Mahasiswa yang terbukti melakukan __pelanggaran norma kejujuran__ pada saat meng
 ### 3.3.4	Lain-lain
 1.	__Tidak ada ujian khusus__ untuk perbaikan nilai ujian.
 2.	Tidak ada ujian khusus bagi mahasiswa yang tidak hadir dalam ujian. Apabila mahasiswa yang bersangkutan mengalami hal-hal di bawah ini saat ujian mata kuliah mahasiswa yang bersangkutan sedang berlangsung:
-
  -	Sakit, yang diperkuat oleh _surat keterangan rawat inap_ dari rumah sakit.
  -	Mewakili negara / UNPAR dalam suatu kegiatan tertentu.
  -	Hal lain yang yang dapat diterima oleh pimpinan fakultas beserta pimpinan jurusan.
