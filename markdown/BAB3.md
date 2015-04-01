@@ -134,12 +134,15 @@ __E.	Pelaksanaan__
 9.	Dilarang keras __melakukan kecurangan__ dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:
 
     a.	__Melihat__ berkas ujian milik peserta ujian lain;
+    
     b.	__Memperlihatkan__ atau __memberikan__ berkas ujian milik sendiri kepada peserta ujian lain;
+    
     c.	__Memberikan__ atau __menerima__ petunjuk atau jawaban ujian dengan cara dan media apapun;
 
     d.	__Melihat__ buku ajar, diktat atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka);
 
     e.	__Pinjam-meminjam__ alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
+    
 10.	Peserta ujian yang __melakukan kecurangan__ pada saat ujian akan dikenakan __sanksi akademik__ yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS.  
 11.	Selama ujian berlangsung, peserta ujian __tidak diperkenankan meninggalkan ruangan ujiandengan alasan apapun__ (kecuali peserta yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC, harus melakukannya sebelum ujian dimulai.
 
@@ -182,7 +185,9 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 1.	Mahasiswa wajib mengisi __Surat Permohonan Cuti Studi Mahasiswa__ yang dapat diperoleh di Tata Usaha FTIS, dengan dilengkapi ___rekomendasi dosen wali___ mahasiswa yang bersangkutan, dan menyerahkannya kembali ke Tata Usaha FTIS __selambat-lambatnya sebelum berakhirnya masa PRS__ semester terkait dengan cuti tersebut. 
 2.	Kriteria untuk memberi ijin tersebut adalah :    
  a.  masalah kesehatan
+
  b.  masalah financial
+ 
  c.  masalah pribadi lainnya. 
  
 3.	Ijin pengambilan cuti studi diberikan oleh Dekan FTIS dan dinyatakan dalam bentuk surat resmi, dan diberitahukan kepada WR-1, WR-2, Kepala Biro Administrasi Akademik dan Kemahasiswaan (BAA) dan Kepala Biro Administrasi Keuangan (BIKEU).
@@ -190,6 +195,7 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 5.	Bagi mahasiswa yang mendapat izin cuti dari Dekan FTIS, wajib 
  -	Mengisi Formulir Rencana Studi dengan beban __0 (nol)__ sks, dan didaftarkan sesuai dengan __prosedur yang ada__.
  - Membayar __100% (seratus persen)__ Tarif Biaya Registrasi (sesuai dengan Peraturan Pengurus Yayasan UNPAR no. 06 th. 2008 tentang Pemisahan Tarif Biaya Registrasi dan Biaya Pengembangan). 
+
 6.	Dalam hal mahasiswa mengajukan permohonan cuti studi __setelah masa PRS berakhir__, izin cuti hanya dapat diberikan oleh Dekan FTIS apabila 
  -	Memiliki alasan yang sangat kuat dan tidak dapat dihindarkan.
  -	Mendapat ijin dari WR-1.
