@@ -15,7 +15,7 @@ Kegiatan Akademik di lingkungan FTIS, dan UNPAR pada umumnya, terdiri atas:
 Sebelum mengikuti kegiatan akademik seperti mata kuliah, responsi dan praktikum, pada setiap semester seorang mahasiswa perlu menyusun __rencana studi__ bagi dirinya. Rencana studi ini memuat daftar mata kuliah yang akan diikuti pada semester yang bersangkutan.
 Dalam menentukan mata kuliah yang akan diambil, dapat digunakan pedoman berikut: 
 
-a.	Pada umumnya, mahasiswa mengambil __semua__ mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya. 
+a. Pada umumnya, mahasiswa mengambil __semua__ mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya. 
 
 b.	Memprioritaskan mata kuliah semester lebih awal yang __belum lulus__. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi mata kuliah yang memprasyaratkannya.
 
@@ -38,14 +38,17 @@ Dengan penjelasan __Satu SKS (Satuan Kredit Semester)__ bermakna belajar 3 jam s
 -	1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
 
 Untuk menentukan mata kuliah apa saja yang akan diambil, mahasiswa dapat/wajib berkonsultasi dengan dosen wali (tergantung dari aturan prodi masing-masing). Bersama dosen wali, mahasiswa dapat merundingkan penerapan pedoman di atas ini bagi dirinya, dengan memperhatikan berbagai keadaan yang berlaku.
+
 Masa perwalian juga merupakan kesempatan bagi mahasiswa yang ingin mendiskusikan masalah akademik dan non-akademik yang dirasakan dapat mengganggu studi mahasiswa yang bersangkutan di FTIS . Namun perlu diperhatikan bahwa dosen wali hanya bertindak sebagai _penasehat/pemberi saran_ berdasarkan pengalamannya. Penyelesaian masalah sepenuhnya berada di tangan mahasiswa yang mengalaminya.
 
 ### 3.1.2 	Pendaftaran Mata Kuliah
-Setelah menentukan mata kuliah apa saja yang akan diambil, maka mahasiswa harus mendaftarkan mata kuliah dengan cara mengisi Form Rencana Studi (FRS). Pengisian FRS ini dilakukan secara online dengan menggunakan portal mahasiswa (masuk ke url [https://mhs.akad.unpar/](https://mhs.akad.unpar/)), login menggunakan username dari account student masing-masing. Pengisian FRS ini dapat dilakukan oleh mahasiswa sendiri atau bersama-sama dengan dosen wali pada saat perwalian (tergantung aturan dari masing-masing prodi).
+Setelah menentukan mata kuliah apa saja yang akan diambil, maka mahasiswa harus mendaftarkan mata kuliah dengan cara mengisi Form Rencana Studi (FRS). Pengisian FRS ini dilakukan secara online dengan menggunakan portal mahasiswa (masuk ke url [https://mhs.akad.unpar/](https://mhs.akad.unpar/)), login menggunakan *username* dari *account* student masing-masing. Pengisian FRS ini dapat dilakukan oleh mahasiswa sendiri atau bersama-sama dengan dosen wali pada saat perwalian (tergantung aturan dari masing-masing prodi).
+
 Dosen wali akan memeriksa FRS yang telah diisi oleh mahasiswa walinya. Jika dosen wali merasa tidak ada masalah dengan rencana studi mahasiswa walinya, maka dosen wali akan memberikan persetujuan. 
+
 Mahasiswa akan menerima email yang berisi informasi tentang hasil registrasi mata kuliah (yang sudah disetujui dosen wali). Mahasiswa __wajib__ memeriksa email konfirmasi ini. Jika ada kesalahan atau perbedaan yang terjadi, mahasiswa harus segera melaporkannya ke dosen wali. 
 
->Catatan:
+>__Catatan:__
 Jika karena sesuatu hal mahasiswa tidak dapat mengikuti tahap perwalian dan perencanaan studi, maka mahasiswa tersebut __dapat diwakilkan oleh mahasiswa FTIS UNPAR__, dengan mengisi formulir terkait di Tata Usaha FTIS. Jumlah beban maksimum untuk perwalian dan perencanaan studi yang diwakilkan adalah __10 sks__. Tata cara perwalian dan perencanaan studi yang diwakilkan tetap mengikuti prosedur di atas.
 
 ### 3.1.3	Tahap Perkuliahan Awal
@@ -56,10 +59,11 @@ Jika selama satu minggu pertama kuliah, mahasiswa hendak mengubah rencana studi 
 
 ## 3.2 Kegiatan Perkuliahan
 Setiap mahasiswa yang telah memiliki KTM dan telah menyelesaikan kewajiban pembayarannya, pada dasarnya berhak mengikuti seluruh kegiatan akademik sesuai dengan kesepakatan hasil perwalian (ditunjukkan melalui email konfirmasi hasil pengisian FRS dan/atau PRS). Hak ini tentunya masih dapat diubah oleh dosen terkait, jika dinilai bahwa kelakuan dan unjuk-kerja mahasiswa itu tidak memadai. 
+
 Jika ada masalah tentang ini, hal ini perlu dilaporkan secara tertulis oleh mahasiswa maupun dosen kepada pihak yang berkepentingan, yaitu dosen wali, pimpinan jurusan / program studi, dan pimpinan FTIS.
 Perincian kegiatan perkuliahan adalah sebagai berikut :   
 
-1.	__Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)__, yang sebaiknya dimanfaatkan secara maksimal dengan :
+1.	__Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)__, yang sebaiknya dimanfaatkan secara maksimal dengan:
  -	membaca bahan yang diperkirakan akan dibahas dosen,
  -	menanyakan __segala__ hal yang belum jelas kepada dosen,
  -	meminta saran dosen tentang cara belajar dan berlatih yang baik.
@@ -120,35 +124,25 @@ __D.	Tempat duduk__
 __E.	Pelaksanaan__ 
 
 1.	Peserta ujian dilarang membuka dan membaca soal ujian sebelum diperbolehkan oleh pengawas ujian. 
-
 2.	Sebelum mulai mengerjakan soal ujian, peserta ujian __wajib__ mengisi nama, NPM sesuai dengan yang diminta pada lembar jawab ujian dan menandatanganinya, serta menandatangani pernyataan akan taat pada tata tertib ujian. Lembar ujian tanpa NPM, nama, dan tandatangan dianggap tidak sah.
-
 3.	Sejak ujian dimulai peserta ujian __wajib__ menjaga ketertiban di ruang ujian dan dilarang berkomunikasi dan bekerjasama dengan peserta lain. Hal yang belum jelas mengenai pelaksanaan ujian harus ditanyakan langsung kepada pengawas ujian.
-
 4.	Kertas yang boleh digunakan hanya lembar jawab ujian dan kertas buram resmi (bercap FTIS). Semua kertas buram yang digunakan diberi NPM dan dikumpulkan kembali bersama-sama lembar jawab ujian.
-
 5.	Peserta ujian __wajib__ menandatangani daftar hadir yang telah disediakan dan wajib memberitahu pengawas jika sampai ujian berakhir belum menandatangani daftar hadir.
-
 6.	Peserta ujian yang meninggalkan ruang ujian selama ujian berlangsung tanpa izin pengawas dianggap telah menyelesaikan ujian.
-
 7.	Peserta ujian menyerahkan lembar jawab kepada pengawas setelah menyelesaikan ujian atau tepat setelah waktu ujian berakhir. __Kertas buram__ terisi atau tidak harus __dikumpulkan kembali__ bersama dengan lembar jawab.
-
 8.	Peserta ujian yang telah menyelesaikan ujian diperkenankan untuk meninggalkan ruang ujian paling cepat __30 menit__ setelah ujian dimulai.
-
 9.	Dilarang keras __melakukan kecurangan__ dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:
 
     a.	__Melihat__ berkas ujian milik peserta ujian lain;
-    
-    b.	__Memperlihatkan__ atau __memberikan__ berkas ujian milik sendiri kepada peserta ujian lain;
-    
-    c.	__Memberikan__ atau __menerima__ petunjuk atau jawaban ujian dengan cara dan media apapun;
-    
-    d.	__Melihat__ buku ajar, diktat atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka);
-    
-    e.	__Pinjam-meminjam__ alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
-    
-10.	Peserta ujian yang __melakukan kecurangan__ pada saat ujian akan dikenakan __sanksi akademik__ yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS.  
 
+    b.	__Memperlihatkan__ atau __memberikan__ berkas ujian milik sendiri kepada peserta ujian lain;
+
+    c.	__Memberikan__ atau __menerima__ petunjuk atau jawaban ujian dengan cara dan media apapun;
+
+    d.	__Melihat__ buku ajar, diktat atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka);
+
+    e.	__Pinjam-meminjam__ alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
+10.	Peserta ujian yang __melakukan kecurangan__ pada saat ujian akan dikenakan __sanksi akademik__ yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS.  
 11.	Selama ujian berlangsung, peserta ujian __tidak diperkenankan meninggalkan ruangan ujiandengan alasan apapun__ (kecuali peserta yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC, harus melakukannya sebelum ujian dimulai.
 
 ### 3.3.3	Sanksi
@@ -209,11 +203,8 @@ Adapun __prosedur pengaktifan kembali status mahasiswa setelah gencat studi__ ad
 1.	Mahasiswa tersebut harus mengajukan permohonan tertulis terlebih dahulu kepada Dekan FTIS, dilengkapi dengan 
  -	alasan gencat studi pada semester sebelumnya
  -	rekomendasi dosen wali yang bersangkutan
-
 2.	Dekan FTIS dapat mengabulkan atau menolak permohonan mahasiswa tersebut di atas berdasarkan pertimbangan akademik.
-
 3.	Keputusan Dekan FTIS tersebut diberitahukan pula kepada WR-1, WR-2, Kepala BAA, dan Kepala BIKEU.
-
 4.	Dalam hal Dekan FTIS mengabulkan permohonan mahasiswa tersebut di atas, mahasiswa yang bersangkutan 
 
  a.	Dikenakan __sanksi keuangan__ berupa pelunasan __200% (dua ratus persen)__ Sumbangan Pengembangan sesuai dengan tarif yang berlaku di lingkungan UNPAR untuk semester selama gencat studi.
