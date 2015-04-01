@@ -183,8 +183,7 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 
 ### 3.4.2 Prosedur Cuti Studi
 1.	Mahasiswa wajib mengisi __Surat Permohonan Cuti Studi Mahasiswa__ yang dapat diperoleh di Tata Usaha FTIS, dengan dilengkapi ___rekomendasi dosen wali___ mahasiswa yang bersangkutan, dan menyerahkannya kembali ke Tata Usaha FTIS __selambat-lambatnya sebelum berakhirnya masa PRS__ semester terkait dengan cuti tersebut. 
-2.	Kriteria untuk memberi ijin tersebut adalah :  
-
+2.	Kriteria untuk memberi ijin tersebut adalah :      
  a. masalah kesehatan
  b. masalah financial
  c. masalah pribadi lainnya. 
