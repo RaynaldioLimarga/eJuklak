@@ -209,8 +209,11 @@ Adapun __prosedur pengaktifan kembali status mahasiswa setelah gencat studi__ ad
 1.	Mahasiswa tersebut harus mengajukan permohonan tertulis terlebih dahulu kepada Dekan FTIS, dilengkapi dengan 
  -	alasan gencat studi pada semester sebelumnya
  -	rekomendasi dosen wali yang bersangkutan
+
 2.	Dekan FTIS dapat mengabulkan atau menolak permohonan mahasiswa tersebut di atas berdasarkan pertimbangan akademik.
+
 3.	Keputusan Dekan FTIS tersebut diberitahukan pula kepada WR-1, WR-2, Kepala BAA, dan Kepala BIKEU.
+
 4.	Dalam hal Dekan FTIS mengabulkan permohonan mahasiswa tersebut di atas, mahasiswa yang bersangkutan 
 
  a.	Dikenakan __sanksi keuangan__ berupa pelunasan __200% (dua ratus persen)__ Sumbangan Pengembangan sesuai dengan tarif yang berlaku di lingkungan UNPAR untuk semester selama gencat studi.
