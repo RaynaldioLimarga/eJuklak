@@ -183,12 +183,11 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 
 ### 3.4.2 Prosedur Cuti Studi
 1.	Mahasiswa wajib mengisi __Surat Permohonan Cuti Studi Mahasiswa__ yang dapat diperoleh di Tata Usaha FTIS, dengan dilengkapi ___rekomendasi dosen wali___ mahasiswa yang bersangkutan, dan menyerahkannya kembali ke Tata Usaha FTIS __selambat-lambatnya sebelum berakhirnya masa PRS__ semester terkait dengan cuti tersebut. 
-2.	Kriteria untuk memberi ijin tersebut adalah :    
- a.  masalah kesehatan
+2.	Kriteria untuk memberi ijin tersebut adalah :  
 
- b.  masalah financial
- 
- c.  masalah pribadi lainnya. 
+ a. masalah kesehatan
+ b. masalah financial
+ c. masalah pribadi lainnya. 
  
 3.	Ijin pengambilan cuti studi diberikan oleh Dekan FTIS dan dinyatakan dalam bentuk surat resmi, dan diberitahukan kepada WR-1, WR-2, Kepala Biro Administrasi Akademik dan Kemahasiswaan (BAA) dan Kepala Biro Administrasi Keuangan (BIKEU).
 4.	Masa cuti studi __tidak diperhitungkan__ sebagai masa studi terpakai dalam evaluasi tahap studi.
@@ -212,6 +211,7 @@ Adapun __prosedur pengaktifan kembali status mahasiswa setelah gencat studi__ ad
 
  -	alasan gencat studi pada semester sebelumnya
  -	rekomendasi dosen wali yang bersangkutan
+
 2.	Dekan FTIS dapat mengabulkan atau menolak permohonan mahasiswa tersebut di atas berdasarkan pertimbangan akademik.
 3.	Keputusan Dekan FTIS tersebut diberitahukan pula kepada WR-1, WR-2, Kepala BAA, dan Kepala BIKEU.
 4.	Dalam hal Dekan FTIS mengabulkan permohonan mahasiswa tersebut di atas, mahasiswa yang bersangkutan 
