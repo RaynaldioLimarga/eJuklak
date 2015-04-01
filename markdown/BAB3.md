@@ -16,7 +16,6 @@ Sebelum mengikuti kegiatan akademik seperti mata kuliah, responsi dan praktikum,
 Dalam menentukan mata kuliah yang akan diambil, dapat digunakan pedoman berikut: 
 
 a.	Pada umumnya, mahasiswa mengambil __semua__ mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya. 
-
 b.	Memprioritaskan mata kuliah semester lebih awal yang __belum lulus__. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi mata kuliah yang memprasyaratkannya.
 
 c.	Memprioritaskan mata kuliah menjadi __prasyarat__ (baik prasyarat _tempuh_ atau pun prasyarat _lulus_) bagi mata kuliah lain.
