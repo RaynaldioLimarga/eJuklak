@@ -209,6 +209,7 @@ Mahasiswa gencat studi adalah mahasiswa yang pada suatu semester tidak melakukan
 Adapun __prosedur pengaktifan kembali status mahasiswa setelah gencat studi__ adalah sebagai berikut:
 
 1.	Mahasiswa tersebut harus mengajukan permohonan tertulis terlebih dahulu kepada Dekan FTIS, dilengkapi dengan 
+
  -	alasan gencat studi pada semester sebelumnya
  -	rekomendasi dosen wali yang bersangkutan
 2.	Dekan FTIS dapat mengabulkan atau menolak permohonan mahasiswa tersebut di atas berdasarkan pertimbangan akademik.
