@@ -120,13 +120,21 @@ __D.	Tempat duduk__
 __E.	Pelaksanaan__ 
 
 1.	Peserta ujian dilarang membuka dan membaca soal ujian sebelum diperbolehkan oleh pengawas ujian. 
+
 2.	Sebelum mulai mengerjakan soal ujian, peserta ujian __wajib__ mengisi nama, NPM sesuai dengan yang diminta pada lembar jawab ujian dan menandatanganinya, serta menandatangani pernyataan akan taat pada tata tertib ujian. Lembar ujian tanpa NPM, nama, dan tandatangan dianggap tidak sah.
+
 3.	Sejak ujian dimulai peserta ujian __wajib__ menjaga ketertiban di ruang ujian dan dilarang berkomunikasi dan bekerjasama dengan peserta lain. Hal yang belum jelas mengenai pelaksanaan ujian harus ditanyakan langsung kepada pengawas ujian.
+
 4.	Kertas yang boleh digunakan hanya lembar jawab ujian dan kertas buram resmi (bercap FTIS). Semua kertas buram yang digunakan diberi NPM dan dikumpulkan kembali bersama-sama lembar jawab ujian.
+
 5.	Peserta ujian __wajib__ menandatangani daftar hadir yang telah disediakan dan wajib memberitahu pengawas jika sampai ujian berakhir belum menandatangani daftar hadir.
+
 6.	Peserta ujian yang meninggalkan ruang ujian selama ujian berlangsung tanpa izin pengawas dianggap telah menyelesaikan ujian.
+
 7.	Peserta ujian menyerahkan lembar jawab kepada pengawas setelah menyelesaikan ujian atau tepat setelah waktu ujian berakhir. __Kertas buram__ terisi atau tidak harus __dikumpulkan kembali__ bersama dengan lembar jawab.
+
 8.	Peserta ujian yang telah menyelesaikan ujian diperkenankan untuk meninggalkan ruang ujian paling cepat __30 menit__ setelah ujian dimulai.
+
 9.	Dilarang keras __melakukan kecurangan__ dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:
 
     a.	__Melihat__ berkas ujian milik peserta ujian lain;
@@ -140,6 +148,7 @@ __E.	Pelaksanaan__
     e.	__Pinjam-meminjam__ alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
     
 10.	Peserta ujian yang __melakukan kecurangan__ pada saat ujian akan dikenakan __sanksi akademik__ yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS.  
+
 11.	Selama ujian berlangsung, peserta ujian __tidak diperkenankan meninggalkan ruangan ujiandengan alasan apapun__ (kecuali peserta yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC, harus melakukannya sebelum ujian dimulai.
 
 ### 3.3.3	Sanksi
