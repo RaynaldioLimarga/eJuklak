@@ -414,7 +414,7 @@ TOTAL SKS = 19
 | MKU001 | Pancasila           |     | 2   |
 | MKU002 | Kewarganegaraan     |     | 2   |
 |        | Mata Kuliah Pilihan |     | 9   |
-|        |                     |TOTAL| 17  |
+TOTAL SKS = 17
 
 **Semester 8**
 
