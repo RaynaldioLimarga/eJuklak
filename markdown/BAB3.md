@@ -15,15 +15,11 @@ Kegiatan Akademik di lingkungan FTIS, dan UNPAR pada umumnya, terdiri atas:
 Sebelum mengikuti kegiatan akademik seperti mata kuliah, responsi dan praktikum, pada setiap semester seorang mahasiswa perlu menyusun __rencana studi__ bagi dirinya. Rencana studi ini memuat daftar mata kuliah yang akan diikuti pada semester yang bersangkutan.
 Dalam menentukan mata kuliah yang akan diambil, dapat digunakan pedoman berikut: 
 
-a. Pada umumnya, mahasiswa mengambil __semua__ mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya. 
-
-b.	Memprioritaskan mata kuliah semester lebih awal yang __belum lulus__. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi mata kuliah yang memprasyaratkannya.
-
-c.	Memprioritaskan mata kuliah menjadi __prasyarat__ (baik prasyarat _tempuh_ atau pun prasyarat _lulus_) bagi mata kuliah lain.
-
-d.	Memperhatikan __jadwal kuliah dan ujian__ yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan mata kuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
-
-e.	Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 sebagai berikut :
+- Pada umumnya, mahasiswa mengambil __semua__ mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya. 
+-	Memprioritaskan mata kuliah semester lebih awal yang __belum lulus__. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi mata kuliah yang memprasyaratkannya.
+-	Memprioritaskan mata kuliah menjadi __prasyarat__ (baik prasyarat _tempuh_ atau pun prasyarat _lulus_) bagi mata kuliah lain.
+-	Memperhatikan __jadwal kuliah dan ujian__ yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan mata kuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
+-	Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 sebagai berikut :
 
 |     IPS     |	Hak Tempuh pada Semester Berikutnya |
 |------------:|:------------------------------------|
