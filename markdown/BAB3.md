@@ -69,7 +69,7 @@ Perincian kegiatan perkuliahan adalah sebagai berikut :
  -	meminta saran dosen tentang cara belajar dan berlatih yang baik.
   
  __Kehadiran__ pada perkuliahan disyaratkan __minimal 80%__, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera mungkin kepada dosen, beserta alasan cukup kuat dan sah.
-2.	__Kegiatan akademik terstruktur (± 1jam/SKS)__, yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran. 
+2.	__Kegiatan akademik terstruktur (± 1jam/SKS)__, yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran.
  -	*Responsi* merupakan kegiatan dimana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan masalah teknis yang belum dikuasai.
  -	*Praktikum* bertujuan melengkapi kegiatan perkuliahan, agar keterkaitan antara teori dan praktek dapat dikokohkan. 
  -	*Pekerjaan rumah* merupakan latihan yang diberikan oleh dosen untuk menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri maupun kelompok. 
