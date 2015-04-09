@@ -14,7 +14,6 @@ Kegiatan Akademik di lingkungan FTIS, dan UNPAR pada umumnya, terdiri atas:
 ### 3.1.1 Perwalian dan Penentuan Mata Kuliah
 Sebelum mengikuti kegiatan akademik seperti mata kuliah, responsi dan praktikum, pada setiap semester seorang mahasiswa perlu menyusun __rencana studi__ bagi dirinya. Rencana studi ini memuat daftar mata kuliah yang akan diikuti pada semester yang bersangkutan.
 Dalam menentukan mata kuliah yang akan diambil, dapat digunakan pedoman berikut: 
-
 - Pada umumnya, mahasiswa mengambil __semua__ mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya. 
 -	Memprioritaskan mata kuliah semester lebih awal yang __belum lulus__. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi mata kuliah yang memprasyaratkannya.
 -	Memprioritaskan mata kuliah menjadi __prasyarat__ (baik prasyarat _tempuh_ atau pun prasyarat _lulus_) bagi mata kuliah lain.
@@ -126,7 +125,6 @@ __E.	Pelaksanaan__
 7.	Peserta ujian menyerahkan lembar jawab kepada pengawas setelah menyelesaikan ujian atau tepat setelah waktu ujian berakhir. __Kertas buram__ terisi atau tidak harus __dikumpulkan kembali__ bersama dengan lembar jawab.
 8.	Peserta ujian yang telah menyelesaikan ujian diperkenankan untuk meninggalkan ruang ujian paling cepat __30 menit__ setelah ujian dimulai.
 9.	Dilarang keras __melakukan kecurangan__ dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:
-
    -	__Melihat__ berkas ujian milik peserta ujian lain;
    -	__Memperlihatkan__ atau __memberikan__ berkas ujian milik sendiri kepada peserta ujian lain;
    -	__Memberikan__ atau __menerima__ petunjuk atau jawaban ujian dengan cara dan media apapun;
@@ -173,12 +171,9 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 ### 3.4.2 Prosedur Cuti Studi
 1.	Mahasiswa wajib mengisi __Surat Permohonan Cuti Studi Mahasiswa__ yang dapat diperoleh di Tata Usaha FTIS, dengan dilengkapi ___rekomendasi dosen wali___ mahasiswa yang bersangkutan, dan menyerahkannya kembali ke Tata Usaha FTIS __selambat-lambatnya sebelum berakhirnya masa PRS__ semester terkait dengan cuti tersebut. 
 2.	Kriteria untuk memberi ijin tersebut adalah : 
-
- a. masalah kesehatan
-
- b. masalah financial
- 
- c. masalah pribadi lainnya. 
+ - masalah kesehatan
+ - masalah financial
+ - masalah pribadi lainnya. 
 3.	Ijin pengambilan cuti studi diberikan oleh Dekan FTIS dan dinyatakan dalam bentuk surat resmi, dan diberitahukan kepada WR-1, WR-2, Kepala Biro Administrasi Akademik dan Kemahasiswaan (BAA) dan Kepala Biro Administrasi Keuangan (BIKEU).
 4.	Masa cuti studi __tidak diperhitungkan__ sebagai masa studi terpakai dalam evaluasi tahap studi.
 5.	Bagi mahasiswa yang mendapat izin cuti dari Dekan FTIS, wajib 
