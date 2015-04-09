@@ -127,15 +127,11 @@ __E.	Pelaksanaan__
 8.	Peserta ujian yang telah menyelesaikan ujian diperkenankan untuk meninggalkan ruang ujian paling cepat __30 menit__ setelah ujian dimulai.
 9.	Dilarang keras __melakukan kecurangan__ dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:
 
-    a.	__Melihat__ berkas ujian milik peserta ujian lain;
-    
-    b.	__Memperlihatkan__ atau __memberikan__ berkas ujian milik sendiri kepada peserta ujian lain;
-    
-    c.	__Memberikan__ atau __menerima__ petunjuk atau jawaban ujian dengan cara dan media apapun;
-
-    d.	__Melihat__ buku ajar, diktat atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka);
-
-    e.	__Pinjam-meminjam__ alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
+   -	__Melihat__ berkas ujian milik peserta ujian lain;
+   -	__Memperlihatkan__ atau __memberikan__ berkas ujian milik sendiri kepada peserta ujian lain;
+   -	__Memberikan__ atau __menerima__ petunjuk atau jawaban ujian dengan cara dan media apapun;
+   -	__Melihat__ buku ajar, diktat atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka);
+   -	__Pinjam-meminjam__ alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
 10.	Peserta ujian yang __melakukan kecurangan__ pada saat ujian akan dikenakan __sanksi akademik__ yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS.  
 11.	Selama ujian berlangsung, peserta ujian __tidak diperkenankan meninggalkan ruangan ujiandengan alasan apapun__ (kecuali peserta yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC, harus melakukannya sebelum ujian dimulai.
 
