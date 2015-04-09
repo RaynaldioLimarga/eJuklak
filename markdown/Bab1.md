@@ -152,7 +152,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 |20.|__Elisati Hulu__, ST (ITB), MT (ITB), Studi S-3 di ITB. Email: elisatih@unpar.ac.id|
 |21.|__Gede Karya__, ST (ITB), MT (ITB): Pemrograman Aplikasi Bergerak, Analisis Proses Bisnis. Email: gkarya@unpar.ac.id. |
 |22.|__Ivonne Martin__, SSi (UNPAR), MSc. (TU Delft – Belanda): Studi S-3 Matematika di Leiden University, Belanda. Email: ivonne@unpar.ac.id|
-|23.|__Janto Vincent Sulungbudi__, SSi (ITB): Laboratorium Fisika Instrumentasi, Instrumentasi Berbasis Komputer, Pengantar Kontrol Otomatis. Email: janto@UNPAR.ac.id, janto.sulungbudi@gmail.com. |
+|23.|__Janto Vincent Sulungbudi__, SSi (ITB): Laboratorium Fisika Instrumentasi, Instrumentasi Berbasis Komputer, Pengantar Kontrol Otomatis. Email: janto@unpar.ac.id, janto.sulungbudi@gmail.com. |
 |24.|__Lionov__, SKom (UNPAR), MSc. (Utrecht Univ. – Belanda): Pemrograman Berorientasi Objek, Algoritma dan Struktur Data, Koordinator Skripsi. Email: lionov@unpar.ac.id. |
 |25.|__Livia Owen__, SSi (UNPAR), MSi (ITB): Kalkulus Vektor, Komputasi Matematika, Fisika Matematik II. Email: livia.owen@unpar.ac.id|
 |26.|__Luciana Abednego__, SKom (UNPAR), MT (ITB): Logika Informatika, Algoritma dan Struktur Data, Grafika Komputer. Email: luciana@unpar.ac.id|
