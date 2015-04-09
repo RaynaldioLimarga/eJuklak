@@ -67,7 +67,6 @@ Perincian kegiatan perkuliahan adalah sebagai berikut :
  -	membaca bahan yang diperkirakan akan dibahas dosen,
  -	menanyakan __segala__ hal yang belum jelas kepada dosen,
  -	meminta saran dosen tentang cara belajar dan berlatih yang baik.
-
   __Kehadiran__ pada perkuliahan disyaratkan __minimal 80%__, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera mungkin kepada dosen, beserta alasan cukup kuat dan sah.
 2.	__Kegiatan akademik terstruktur (± 1jam/SKS)__, yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran. 
  -	*Responsi* merupakan kegiatan dimana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan masalah teknis yang belum dikuasai.
@@ -180,7 +179,7 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 
 ### 3.4.2 Prosedur Cuti Studi
 1.	Mahasiswa wajib mengisi __Surat Permohonan Cuti Studi Mahasiswa__ yang dapat diperoleh di Tata Usaha FTIS, dengan dilengkapi ___rekomendasi dosen wali___ mahasiswa yang bersangkutan, dan menyerahkannya kembali ke Tata Usaha FTIS __selambat-lambatnya sebelum berakhirnya masa PRS__ semester terkait dengan cuti tersebut. 
-2.	Kriteria untuk memberi ijin tersebut adalah :    
+2.	Kriteria untuk memberi ijin tersebut adalah : 
 
  a. masalah kesehatan
 
@@ -204,7 +203,6 @@ Mahasiswa gencat studi adalah mahasiswa yang pada suatu semester tidak melakukan
 Adapun __prosedur pengaktifan kembali status mahasiswa setelah gencat studi__ adalah sebagai berikut:
 
 1.	Mahasiswa tersebut harus mengajukan permohonan tertulis terlebih dahulu kepada Dekan FTIS, dilengkapi dengan 
-
  -	alasan gencat studi pada semester sebelumnya
  -	rekomendasi dosen wali yang bersangkutan
 2.	Dekan FTIS dapat mengabulkan atau menolak permohonan mahasiswa tersebut di atas berdasarkan pertimbangan akademik.
