@@ -19,10 +19,12 @@ Visi UNPAR adalah
 >Menjadi komunitas akademik humanum yang bersemangat kasih dalam kebenaran untuk mengembangkan potensi lokal pada tataran internasional demi peningkatan martabat manusia dan keutuhan alam ciptaan.
 
 Sebagai sebuah lembaga ilmiah, misi UNPAR adalah melaksanakan
-*	pengembangan dan pewarisan nilai budaya secar kritis – kreatif;
-*	proses pembelajaran yang berpusat pada mahasiswa;
-*	penelitian dan penyebarluasan hasilnya melalui proses pembelajaran dan pengabdian kepada masyarakat; dan
-*	pengabdian kepada masyarakat, sesuai dengan sesanti *Bakuning Hyang Mrih Guna Santyaya Bhakti*, yang berarti Berdasarkan Ketuhanan Menuntut Ilmu untuk Dibaktikan kepada Masyarakat. Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS UNPAR.
+*	pengembangan dan pewarisan nilai budaya secar kritis – kreatif
+*	proses pembelajaran yang berpusat pada mahasiswa
+*	penelitian dan penyebarluasan hasilnya melalui proses pembelajaran dan pengabdian kepada masyarakat
+*	pengabdian kepada masyarakat, sesuai dengan sesanti *Bakuning Hyang Mrih Guna Santyaya Bhakti*, yang berarti Berdasarkan Ketuhanan Menuntut Ilmu untuk Dibaktikan kepada Masyarakat
+
+Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS UNPAR.
 
 
 ### 1.2.1 VISI FTIS
