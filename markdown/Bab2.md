@@ -621,10 +621,10 @@ TOTAL SKS = 18
 | AIF301 | Pengantar Sistem Cerdas    |     | 3   |
 | AIF303 | Pengantar Sistem Informasi |     | 3   |
 | AIF305 | Jaringan Komputer          |     | 2   |
-| AIF311 | Pemrograman Fungsional(1)  | R   | 2   |
-| AIF313 | Grafika Komputer(1)        | R   | 2   |
-| AIF315 | Pemrograman Berbasis Web(1)| R   | 2   |
-| AIF317 | Desain Antarmuka Grafis(1) | R   | 2   |
+| AIF311 | Pemrograman Fungsional (1) | R   | 2   |
+| AIF313 | Grafika Komputer (1)       | R   | 2   |
+| AIF315 | Pemrograman Berbasis Web (1)| R   | 2   |
+| AIF317 | Desain Antarmuka Grafis (1)| R   | 2   |
 | AIFXXX | MK Pilihan                 |     | 2   |
 | MKU002 | Kewarganegaraan            |     | 2   |
 TOTAL SKS = 18
@@ -634,12 +634,12 @@ TOTAL SKS = 18
 | KODE   | NAMA                           | APR | SKS |
 |--------|--------------------------------|-----|:-:|
 | AIF302 | Penulisan Ilmiah               |     | 2   |
-| AIF304 | Proyek Sistem Informasi 1(2)   |     | 3   |
-| AIF306 | Proyek Informatika(2)          |     | 6   |
-| AIF312 | Keamanan Informasi(1)          | R   | 2   |
-| AIF314 | Pemrograman Basisdata(1)       | R   | 2   |
+| AIF304 | Proyek Sistem Informasi 1 (2)   |     | 3   |
+| AIF306 | Proyek Informatika (2)          |     | 6   |
+| AIF312 | Keamanan Informasi (1)          | R   | 2   |
+| AIF314 | Pemrograman Basisdata (1)       | R   | 2   |
 | AIF316 | Komputasi Paralel (1)          | R   | 2   |
-| AIF318 | Pemrograman Aplikasi Bergerak(1)| R   | 2   |
+| AIF318 | Pemrograman Aplikasi Bergerak (1)| R   | 2   |
 | AIFXXX | MK Pilihan                     |     | 6   |
 TOTAL SKS = 18
 
@@ -649,7 +649,7 @@ TOTAL SKS = 18
 |--------|------------------------------|-----|:-:|
 | AIF401 | Skripsi 1                    |     | 4   |
 | AIF403 | Komputer dan Masyarakat      |     | 3   |
-| AIF405 | Proyek Sistem Informasi 2(2) |     | 2   |
+| AIF405 | Proyek Sistem Informasi 2 (2) |     | 2   |
 | AIFXXX | MK Pilihan                   |     | 12  |
 TOTAL SKS = 18
 
@@ -669,8 +669,8 @@ Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut
 
 2. Mata kuliah projek.	
 Mahasiswa harus lulus salah satu dari:
-	- Projek Informatika, atau 
-	- Projek Sistem Informasi 1 dan Projek Sistem Informasi 2 
+- Projek Informatika, atau 
+- Projek Sistem Informasi 1 dan Projek Sistem Informasi 2 
 
 Aturan tambahan :
 
