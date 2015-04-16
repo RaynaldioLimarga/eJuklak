@@ -96,7 +96,7 @@ Mata kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 |MKU012|Logika                    | 2 |
 
 ### 2.4.2 Uraian Singkat Mata Kuliah Umum
-|NAMA MK| NAMA & DESKRIPSI MATA KULIAH           |
+|Nama MK| Nama dan Deskripsi Mata Kuliah           |
 |-------|---------------------------|
 |MKU001	|__PENDIDIKAN PANCASILA *(PANCASILA EDUCATION)*__       |
 |       |Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian *(character building*) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila.|
