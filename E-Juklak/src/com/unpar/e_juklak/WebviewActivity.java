@@ -1,5 +1,9 @@
 package com.unpar.e_juklak;
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
 import android.app.ActionBar;
 import android.app.Activity;
 import android.os.Bundle;
@@ -7,6 +11,7 @@ import android.support.v4.widget.DrawerLayout;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.webkit.WebView;
+import android.webkit.WebViewClient;
 
 public class WebviewActivity extends Activity implements
 		NavigationDrawerFragment.NavigationDrawerCallbacks {
@@ -28,17 +33,50 @@ public class WebviewActivity extends Activity implements
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_webview);
-
-		this.webView = (WebView) findViewById(R.id.WebViewJuklak);
-		webView.loadUrl("file:///android_asset/bab1.html");
 		
+		this.webView = (WebView) findViewById(R.id.WebViewJuklak);
+		//try {
+		//	webView.loadDataWithBaseURL("file:///android_asset/", bacaFileHtml("bab4.html"), "text/html", "UTF-8", null);
+		//} catch (IOException e) {
+			// TODO Auto-generated catch block
+		//	e.printStackTrace();
+		//}
+		webView.getSettings().setJavaScriptEnabled(true);
+		webView.setWebViewClient(new MyWebView("lampiran-4"));
+		webView.loadUrl("file:///android_asset/bab4.html");
+		webView.setBackgroundColor(0);
 		mNavigationDrawerFragment = (NavigationDrawerFragment) getFragmentManager()
 				.findFragmentById(R.id.navigation_drawer);
 		mTitle = getTitle();
 
-		// Set up the drawer.
+		// Set up the drawer. 
 		mNavigationDrawerFragment.setUp(R.id.navigation_drawer,
 				(DrawerLayout) findViewById(R.id.drawer_layout));
+	}
+	class MyWebView extends WebViewClient{
+		private String link;
+		
+		public MyWebView(String link){
+			this.link = link;
+		}
+		public void onPageFinished(WebView view, String url){
+			if(!"".equals(link)&& link !=null){
+				view.loadUrl("javascript:location.hash = '#"+ link+ "';");
+			}
+		}
+		
+	}
+	public String bacaFileHtml(String namaFile) throws IOException{
+		 String line ="";
+	        
+	        BufferedReader br = null;
+	        	br = new BufferedReader(new InputStreamReader(this.getAssets().open(namaFile)));
+	        String content = new String();
+	        while((line = br.readLine())!=null){
+	            content+=line;
+	        }
+	        br.close();
+	        return content;
 	}
 
 	@Override
@@ -87,6 +125,7 @@ public class WebviewActivity extends Activity implements
 			restoreActionBar();
 			return true;
 		}
+		
 		return super.onCreateOptionsMenu(menu);
 	}
 
