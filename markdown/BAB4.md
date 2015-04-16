@@ -16,7 +16,8 @@ Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahas
 
 Berdasarkan pertimbangan akademik, Dekan dapat mengubah Komponen Evaluasi bagi suatu Bentuk Kegiatan seperti tersebut di atas,  sejauh tidak bertentangan dengan peraturan perundang-undangan yang berlaku.
 
-Keberhasilan belajar mahasiswa dalam suatu mata kuliah dinyatakan dengan __Nilai Akhir (NA)__ berupa huruf __A, B, C, D, dan E__. Nilai Akhir __A, B, C, dan D__ berarti __lulus__, sedangkan Nilai Akhir __E__ berarti __tidak lulus__.     
+Keberhasilan belajar mahasiswa dalam suatu mata kuliah dinyatakan dengan __Nilai Akhir (NA)__ berupa huruf __A, B, C, D, dan E__. Nilai Akhir __A, B, C, dan D__ berarti __lulus__, sedangkan Nilai Akhir __E__ berarti __tidak lulus__.
+
 Apabila seorang mahasiswa tidak dapat memenuhi salah satu komponen evaluasi yang ditentukan dalam suatu mata kuliah, maka keberhasilan belajar mahasiswa untuk mata kuliah tersebut __dapat__ dinyatakan Kosong (__K__) oleh Dekan. Jika keberhasilan belajar seorang mahasiswa untuk suatu mata kuliah adalah __K__, maka mata kuliah ini dianggap belum pernah ditempuh dan tidak diikutsertakan dalam perhitungan Indeks Prestasi.
 
 __Komponen Evaluasi__ dinyatakan dalam bentuk angka dengan rentang __0 – 100__ dengan pembulatan angka pecahan hingga __satuan terdekat__, dengan ketentuan bilangan pecahan ≥ 0,5 dibulatkan menjadi 1 dan bilangan pecahan < 0,5 dibulatkan menjadi 0.
