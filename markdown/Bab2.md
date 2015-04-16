@@ -28,7 +28,7 @@ Untuk mata kuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
 Mata kuliah prasyarat adalah mata kuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu mata kuliah tertentu. Berkaitan dengan hal ini, terdapat tiga kategori:
 
 1. **Prasyarat tempuh**, artinya mata kuliah tersebut telah terdaftar dalam rencana studi mahasiswa yang bersangkutan dan bernilai akhir A, B, C, D, atau E, walaupun tentunya kelulusan akan sangat menunjang penempuhan mata kuliah berikutnya.
-2. **Prasyarat lulus**, artinya mahasiswa harus lulus mata kuliah prasyarat tersebut terlebih dahulu. Pada umumnya syarat kelulusan adalah nilai akhir minimum D, meskipun ada juga yang lebih tinggi. Silahkan melihat silabus mata kuliah yang bersangkutan. untuk keterangan lebih lanjut.
+2. **Prasyarat lulus**, artinya mahasiswa harus lulus mata kuliah prasyarat tersebut terlebih dahulu. Pada umumnya syarat kelulusan adalah nilai akhir minimum D, meskipun ada juga yang lebih tinggi. Silahkan melihat silabus mata kuliah yang bersangkutan untuk keterangan lebih lanjut.
 3. Mahasiswa di luar prodi penyelenggara mata kuliah tidak wajib memenuhi prasyarat ini.
 
 ## 2.3 Mata Kuliah Layanan
@@ -126,7 +126,7 @@ Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 **Semester 1**
 
 |KODE  |NAMA	                    |APR  |SKS|
-|------|----------------------------|-----|---|
+|------|----------------------------|-----|:-:|
 |AMS121|Kalkulus 1                  | R	  |4  |
 |AMS123|Pemecahan Masalah Matematika| 	  |3  |
 |AMS151| Statistika Elementer	    |     |4  |
@@ -138,7 +138,7 @@ TOTAL SKS = 19
 **Semester 2**
 
 |KODE  |NAMA	              	    |APR  |SKS|
-|------|----------------------------|-----|---|
+|------|----------------------------|-----|:-:|
 |AMS122|Kalkulus 2		    |     |4  |  
 |AMS124|Matematika Diskret	    |     |4  |
 |AMS126|Aljabar Matriks	      	    |     |4  |
@@ -151,7 +151,7 @@ TOTAL SKS = 19
 **Semester 3**
 
 |KODE  |NAMA	                    |APR  |SKS|
-|------|----------------------------|-----|---|
+|------|----------------------------|-----|:-:|
 |AMS221|Kalkulus Vektor	            |R	  |4  |
 |AMS231|Teori Suku Bunga	    |     |3  |
 |AMS251|Teori Peluang		    |     |4  |
@@ -163,7 +163,7 @@ TOTAL SKS = 18
 **Semester 4**
 
 |KODE   |NAMA	                    |APR  |SKS|
-|------ |---------------------------|-----|---|
+|------ |---------------------------|-----|:-:|
 |AMS 222|Aljabar Linear	            |R	  |4  |
 |AMS 252|Statistika Matematika	    |     |4  |
 |AMS 261|Optimasi		    |     |4  |
@@ -174,7 +174,7 @@ TOTAL SKS = 18
 **Semester 5**
 
 |KODE  |NAMA	                    |APR  |SKS|
-|------|----------------------------|---- |---|
+|------|----------------------------|---- |:-:|
 |AMS321|Fungsi Kompleks	            |	  | 4 |
 |AMS351|Proses Stokastik	    |	  | 4 |
 |AMS373|Metoda Numerik		    |     | 3 |
@@ -194,7 +194,7 @@ TOTAL SKS = 18
 **Semester 7**
 
 |KODE  |NAMA	                    |APR  |SKS|
-|------|----------------------------|-----|---|
+|------|----------------------------|-----|:-:|
 |AMS490|Seminar		            |     |3  |
 |AMS491|Pemodelan Matematika	    |     |4  |
 |MKU001|Pancasila		    |     |2  |
@@ -204,7 +204,7 @@ TOTAL SKS = 18
 **Semester 8**
 
 |KODE  |NAMA	                    |APR  |SKS|
-|------|----------------------------|-----|---|
+|------|----------------------------|-----|:-:|
 |AMS499|Skripsi		    	    |     |6  |
 |ABCXYZ|Pilihan		            |     |9  |
 TOTAL SKS = 15
@@ -335,7 +335,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini:
 **Semester 1**
 
 | KODE   | NAMA                     | APR | SKS |
-|--------|--------------------------|-----|-----|
+|--------|--------------------------|-----|:-:|
 | APS101 | Pengenalan Program Studi |     | 3   |
 | APS103 | Keterampilan Fisika      |     | 2   |
 | APS105 | Fisika Dasar 1           | R,P | 3   |
@@ -348,7 +348,7 @@ TOTAL SKS = 19
 **Semester 2**
 
 | KODE   | NAMA                | APR | SKS |
-|--------|---------------------|-----|-----|
+|--------|---------------------|-----|:-:|
 | APS106 | Fisika Dasar 2      | R,P | 3   |
 | APS108 | Fisika Matematika 2 | R   | 4   |
 | APS112 | Mekanika            | R   | 3   |
@@ -360,7 +360,7 @@ TOTAL SKS = 19
 **Semester 3**
 
 | KODE    | NAMA                | APR | SKS |
-|---------|---------------------|-----|-----|
+|---------|---------------------|-----|:-:|
 | APS207  | Fisika Matematika 3 | R   | 4   |
 | APS213  | Gelombang           | R   | 3   |
 | APS215  | Fisika Thermal      | R   | 3   |
@@ -372,7 +372,7 @@ TOTAL SKS = 18
 **Semester 4**
 
 | KODE   | NAMA                | APR | SKS |
-|--------|---------------------|-----|-----|
+|--------|---------------------|-----|:-:|
 | APS204 | Projek Bersama      |     | 2   |
 | APS208 | Fisika Matematika 4 | R   | 4   |
 | APS216 | Fisika Statistik    | R   | 3   |
@@ -384,7 +384,7 @@ TOTAL SKS = 18
 **Semester 5**
 
 | KODE   | NAMA                | APR | SKS |
-|--------|---------------------------|---|---|
+|--------|---------------------------|---|:-:|
 | APS323 | Elektrodinamika           | R | 3 |
 | APS327 | Fisika Kuantum            | R | 4 |
 | APS335 | Lab. Fisika Instrumentasi | P | 3 |
@@ -396,7 +396,7 @@ TOTAL SKS = 18
 **Semester 6**
 
 | KODE   | NAMA                      | APR | SKS |
-|--------|---------------------------|-----|-----|
+|--------|---------------------------|-----|:-:|
 | APS304 | Teknik Presentasi         |     | 2   |
 | APS328 | Mekanika Kuantum          |     | 3   |
 | APS342 | Pengantar Fisika Material |     | 3   |
@@ -409,7 +409,7 @@ TOTAL SKS = 19
 **Semester 7**
 
 | KODE   | NAMA                | APR | SKS |
-|--------|---------------------|-----|-----|
+|--------|---------------------|-----|:-:|
 | APS497 | Tugas Akhir 1       |     | 4   |
 | MKU001 | Pancasila           |     | 2   |
 | MKU002 | Kewarganegaraan     |     | 2   |
@@ -419,7 +419,7 @@ TOTAL SKS = 17
 **Semester 8**
 
 | KODE   | NAMA                | APR | SKS |
-|--------|---------------------|-----|-----|
+|--------|---------------------|-----|:-:|
 | APS402 | Etika Profesi       |     | 2   |
 | APS498 | Tugas Akhir 2       |     | 4   |
 | SAB315 | Kewirausahaan       |     | 3   |
@@ -445,7 +445,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 **Lain-lain**
 
 | KODE    | NAMA                    | SKS |
-|---------|-------------------------|-----|
+|---------|-------------------------|:-:|
 | APS301  | Filsafat Sains          | 2   |
 | APS302  | Dunia Digital dan Sains | 2   |
 | APS 303 | Didaktika Umum          | 3   |
@@ -453,7 +453,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 **Kelompok Fisika Teoretik**
 
 | KODE         | NAMA                     | SKS |
-|--------------|--------------------------|-----|
+|--------------|--------------------------|:-:|
 | APS311       | Dinamika Fluida          | 3   |
 | APS411       | Mekanika Hamiltonian     | 3   |
 | APS317       | Fisika Matematika Lanjut | 3   |
@@ -468,7 +468,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 **Kelompok Fisika Komputasi, Elektronika dan Instrumentasi**
 
 | KODE   | NAMA                             | SKS |
-|--------|----------------------------------|-----|
+|--------|----------------------------------|:-:|
 | APS331 | Pemodelan Matematika Gejala Alam | 3   |
 | APS332 | KapSel. Fisika komputasi         | 3   |
 | APS336 | Instrumentasi Berbasis Komputer  | 3   |
@@ -478,7 +478,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 **Kelompok Biofisika**
 
 | KODE   | NAMA                             | SKS |
-|--------|----------------------------------|-----|
+|--------|----------------------------------|:-:|
 | APS350 | Fisika Instrumentasi Medis       | 3   |
 | APS351 | Biofisika                        | 3   |
 | APS352 | Fisika Kedokteran                | 3   |
@@ -488,7 +488,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 **Kelompok Fisika Material dan Optika**
 
 | KODE   | NAMA                           | SKS |
-|--------|--------------------------------|-----|
+|--------|--------------------------------|:-:|
 | APS343 | Struktur Materi                | 3   |
 | APS441 | Reologi                        | 3   |
 | APS442 | Fisika Polimer                 | 3   |
@@ -503,7 +503,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 **Kelompok Fisika Bumi**
 
 | KODE    | NAMA                       | SKS |
-|---------|----------------------------|-----|
+|---------|----------------------------|:-:|
 | APS 361 | Geofisika                  | 3   |
 | APS 362 | Oseanografi Fisis          | 3   |
 | APS 363 | Pemanasan Global           | 3   |
@@ -514,7 +514,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 **Kelompok Astrofisika**
 
 | KODE   | NAMA                       | SKS |
-|--------|----------------------------|-----|
+|--------|----------------------------|:-:|
 | APS371 | Tata Surya                 | 3   |
 | APS372 | Bintang                    | 3   |
 | APS373 | Kosmologi                  | 3   |
@@ -571,7 +571,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini:
 **Semester 1**
 
 | KODE   | NAMA                           | APR | SKS |
-|--------|--------------------------------|-----|-----|
+|--------|--------------------------------|-----|:-:|
 | AIF101 | Pemrograman Berorientasi Objek |     | 6   |
 | AIF103 | Matematika Diskret             |     | 3   |
 | AIF105 | Pengantar Informatika          |     | 3   |
@@ -583,7 +583,7 @@ TOTAL SKS = 18
 **Semester 2**
 
 | KODE   | NAMA                        | APR | SKS |
-|--------|-----------------------------|-----|-----|
+|--------|-----------------------------|-----|:-:|
 | AIF102 | Algoritma dan Struktur Data |     | 4   |
 | AIF104 | Logika Informatika          |     | 3   |
 | AIF106 | Sistem Dijital              |     | 3   |
@@ -595,7 +595,7 @@ TOTAL SKS = 18
 **Semester 3**
 
 | KODE            | NAMA                                   | APR | SKS |
-|-----------------|----------------------------------------|-----|-----|
+|-----------------|----------------------------------------|-----|:-:|
 | AIF201          | Analisis dan Desain Berorientasi Objek |     | 4   |
 | AIF203          | Struktur Diskret                       |     | 4   |
 | AIF205          | Arsitektur dan Organisasi Komputer     |     | 3   |
@@ -607,7 +607,7 @@ TOTAL SKS = 18
 **Semester 4**
 
 | KODE   | NAMA                              | APR | SKS |
-|--------|-----------------------------------|-----|-----|
+|--------|-----------------------------------|-----|:-:|
 | AIF202 | Desain dan Analisis Algoritma     |     | 4   |
 | AIF204 | Manajemen Informasi dan Basisdata |     | 4   |
 | AIF206 | Sistem Operasi                    |     | 4   |
@@ -618,7 +618,7 @@ TOTAL SKS = 18
 **Semester 5**
 
 | KODE   | NAMA                       | APR | SKS |
-|--------|----------------------------|-----|-----|
+|--------|----------------------------|-----|:-:|
 | AIF301 | Pengantar Sistem Cerdas    |     | 3   |
 | AIF303 | Pengantar Sistem Informasi |     | 3   |
 | AIF305 | Jaringan Komputer          |     | 2   |
@@ -633,7 +633,7 @@ TOTAL SKS = 18
 **Semester 6**
 
 | KODE   | NAMA                           | APR | SKS |
-|--------|--------------------------------|-----|-----|
+|--------|--------------------------------|-----|:-:|
 | AIF302 | Penulisan Ilmiah               |     | 2   |
 | AIF304 | Proyek Sistem Informasi 1(2)   |     | 3   |
 | AIF306 | Proyek Informatika(2)          |     | 6   |
@@ -647,7 +647,7 @@ TOTAL SKS = 18
 **Semester 7**
 
 | KODE   | NAMA                         | APR | SKS |
-|--------|------------------------------|-----|-----|
+|--------|------------------------------|-----|:-:|
 | AIF401 | Skripsi 1                    |     | 4   |
 | AIF403 | Komputer dan Masyarakat      |     | 3   |
 | AIF405 | Proyek Sistem Informasi 2(2) |     | 2   |
@@ -657,7 +657,7 @@ TOTAL SKS = 18
 **Semester 8**
 
 | KODE   | NAMA          | APR | SKS |
-|--------|---------------|-----|-----|
+|--------|---------------|-----|:-:|
 | AIF402 | Skripsi 2     |     | 6   |
 | AIFXXX | MK Pilihan    |     | 10  |
 | APS402 | Etika Profesi |     | 2   |
@@ -690,7 +690,7 @@ maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di ma
 
 ### 2.7.2 Mata Kuliah Pilihan Program Studi Teknik Informatika
 | KODE   | NAMA                                       | APR | SKS |
-|--------|--------------------------------------------|-----|-----|
+|--------|--------------------------------------------|-----|:-:|
 | AIF330 | Kerja Praktek 1                            |     | 2   |
 | AIF331 | Topik Khusus Informatika 1                 |     | 2   |
 | AIF332 | Topik Khusus Informatika 2                 |     | 3   |
@@ -754,8 +754,8 @@ maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di ma
 | AIF464 | Sistem Perusahaan Berskala Besar                                 |   |   |
 | AIF465 | Teknologi Middleware	                                            |   |   |   
 | AIF466 | Sistem Terdistribusi	                                            |   |   |   
-| AIF468 | Teknologi Multimedia		                                        |   |   |   
-| AIF469 | Layanan Berbasis Web 	                                        |   |   |
+| AIF468 | Teknologi Multimedia		                                    |   |   |   
+| AIF469 | Layanan Berbasis Web 	                                    |   |   |
 | AIF470 | Pemrograman Jaringan	                                            |   |   |
 
 ### 2.7.3 Peta dan Prasyarat Mata kuliah 
