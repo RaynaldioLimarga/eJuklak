@@ -144,8 +144,7 @@ TOTAL SKS = 19
 |AMS126|Aljabar Matriks	      	    |     |4  |
 |AIF112|Pemrograman Komputer        |     |3  |
 |MKU011|Estetika		    |     |2  |
-|MKU003|Agama Katolik +		    |     |2  |
-|MKU004|Fenomologi Agama +          |     |   |
+| MKU003 / MKU004 | Agama Katolik / Fenomenologi Agama|     | 2   |
 TOTAL SKS = 19
 
 **Semester 3**
@@ -366,7 +365,7 @@ TOTAL SKS = 19
 | APS215  | Fisika Thermal      | R   | 3   |
 | APS225  | Lab. Fisika Modern  | P   | 3   |
 | APS233  | Elektronika 1       | P   | 3   |
-| MKU003/MKU004 | Agama Katolik/Fenomenologi Agama      |     | 2   |
+| MKU003 / MKU004 | Agama Katolik / Fenomenologi Agama|     | 2   |
 TOTAL SKS = 18
 
 **Semester 4**
