@@ -34,7 +34,7 @@ Dengan penjelasan __Satu SKS (Satuan Kredit Semester)__ bermakna belajar 3 jam s
 
 Untuk menentukan mata kuliah apa saja yang akan diambil, mahasiswa dapat/wajib berkonsultasi dengan dosen wali (tergantung dari aturan prodi masing-masing). Bersama dosen wali, mahasiswa dapat merundingkan penerapan pedoman di atas ini bagi dirinya, dengan memperhatikan berbagai keadaan yang berlaku.
 
-Masa perwalian juga merupakan kesempatan bagi mahasiswa yang ingin mendiskusikan masalah akademik dan non-akademik yang dirasakan dapat mengganggu studi mahasiswa yang bersangkutan di FTIS . Namun perlu diperhatikan bahwa dosen wali hanya bertindak sebagai _penasehat/pemberi saran_ berdasarkan pengalamannya. Penyelesaian masalah sepenuhnya berada di tangan mahasiswa yang mengalaminya.
+Masa perwalian juga merupakan kesempatan bagi mahasiswa yang ingin mendiskusikan masalah akademik dan non-akademik yang dirasakan dapat mengganggu studi mahasiswa yang bersangkutan di FTIS. Namun perlu diperhatikan bahwa dosen wali hanya bertindak sebagai _penasehat/pemberi saran_ berdasarkan pengalamannya. Penyelesaian masalah sepenuhnya berada di tangan mahasiswa yang mengalaminya.
 
 ### 3.1.2 	Pendaftaran Mata Kuliah
 Setelah menentukan mata kuliah apa saja yang akan diambil, maka mahasiswa harus mendaftarkan mata kuliah dengan cara mengisi Form Rencana Studi (FRS). Pengisian FRS ini dilakukan secara online dengan menggunakan portal mahasiswa (masuk ke url [https://studentportal.unpar.ac.id/](https://studentportal.unpar.ac.id/)), login menggunakan *username* dari *account* student masing-masing. Pengisian FRS ini dapat dilakukan oleh mahasiswa sendiri atau bersama-sama dengan dosen wali pada saat perwalian (tergantung aturan dari masing-masing prodi).
@@ -141,7 +141,7 @@ Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi sanksi beru
 3.	Untuk kali ke tiga dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS mata kuliah dimana kesalahan ke tiga tersebut terjadi (sesuai SK Rektor Universitas Katolik Parahyangan No. III/PRT/93-01/03 tentang _Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa_).
 4.	Untuk kali ke empat dan seterusnya dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS __seluruh__ mata kuliah pada masa ujian terkait (sesuai SK Rektor UNPAR No. III/PRT/93-01/03 tentang _Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa_).
 
-Sanksi no. 3 dan 4 dikukuhkan oleh Surat Keputusan Dekan FTIS.
+Sanksi nomor 3 dan 4 dikukuhkan oleh Surat Keputusan Dekan FTIS.
 
 Mahasiswa yang terbukti melakukan __pelanggaran norma kejujuran__ pada saat mengikuti ujian, akan diberi sanksi akademik sebagai berikut :
 
@@ -178,7 +178,7 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 4.	Masa cuti studi __tidak diperhitungkan__ sebagai masa studi terpakai dalam evaluasi tahap studi.
 5.	Bagi mahasiswa yang mendapat izin cuti dari Dekan FTIS, wajib 
  -	Mengisi Formulir Rencana Studi dengan beban __0 (nol)__ sks dan didaftarkan sesuai dengan __prosedur yang ada__.
- - Membayar __100% (seratus persen)__ Tarif Biaya Registrasi (sesuai dengan Peraturan Pengurus Yayasan UNPAR no. 06 th. 2008 tentang Pemisahan Tarif Biaya Registrasi dan Biaya Pengembangan). 
+ - Membayar __100% (seratus persen)__ Tarif Biaya Registrasi (sesuai dengan Peraturan Pengurus Yayasan UNPAR Nomor 06 tahun 2008 tentang Pemisahan Tarif Biaya Registrasi dan Biaya Pengembangan). 
 6.	Dalam hal mahasiswa mengajukan permohonan cuti studi __setelah masa PRS berakhir__, izin cuti hanya dapat diberikan oleh Dekan FTIS apabila 
  -	Memiliki alasan yang sangat kuat dan tidak dapat dihindarkan.
  -	Mendapat ijin dari WR-1.
