@@ -27,7 +27,7 @@ Sebagai sebuah lembaga ilmiah, misi UNPAR adalah melaksanakan
 Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS UNPAR.
 
 
-### 1.2.1 VISI FTIS
+### 1.2.1 Visi FTIS
 
 Visi FTIS 2020 adalah sebagai berikut: 
 > ”Menjadikan FTIS UNPAR sebagai suatu komunitas akademik beriman yang dapat mengembangkan bidang-bidang teknologi informasi dan sains dengan mengangkat potensi lokal pada tataran internasional untuk peningkatan martabat manusia”
@@ -38,7 +38,7 @@ Menjelang tahun 2020, FTIS UNPAR akan lebih memberikan perhatian kepada potensi 
 
 Sebagai Universitas Katolik, UNPAR menaruh perhatian utama pada peningkatan martabat manusia. Kegiatan pendidikan yang ditujukan untuk menyiapkan generasi muda sebagai calon pemimpin masa depan dimaskudkan agar mereka berkembang menjadi manusia yang utuh yang memiliki keseimbangan antara rasio, rasa, raga, dan rukun. Untuk itu, proses pendidikan yang berlangsung di UNPAR dan di dalam FTIS harus mampu memberikan pengalaman belajar kepada para mahasiswa, bukan hanya dalam pengembangan rasio yang dilaksanakan berdasarkan kurikulum, melainkan juga pengembangan rasa, raga, dan rukun melalui interaksi dan pergaulan hidup sehari-hari di lingkungan kampus UNPAR. Untuk mencapai keunggulan di dalam hal di atas, FTIS UNPAR harus senantiasa mengembangkan potensi lokal ke tataran internasional. Oleh karena itu, pembangunan suasana akademik yang kondusif merupakan bagian yang sangat penting dalam pembentukan manusia yang bermartabat dan pengembangan potensi lokal tersebut.
 
-### 1.2.2 MISI FTIS
+### 1.2.2 Misi FTIS
 
 Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
 
@@ -48,7 +48,7 @@ Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
 2.	Menghasilkan penelitian di bidang teknologi informasi dan sains yang dapat meningkatkan martabat manusia secara langsung ataupun tidak langsung, serta memanfaatkan hasil penelitian untuk pengembangan proses pembelajaran dan pengabdian kepada masyarakat.
 3.	Menjalin kerja sama dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan keterkaitan proses pembelajaran, penelitian dan pengabdian kepada masyarakat.
 
-### 1.2.3 TUJUAN FTIS
+### 1.2.3 Tujuan FTIS
 
 Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut:
 
@@ -59,7 +59,7 @@ Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut
 
 Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan tenaga kependidikan agar mampu memberikan pelayanan prima di bidang akademik dan non akademik serta mengembangkan sarana dan prasarana yang memadai yang memenuhi standar nasional maupun internasional.
 
-### 1.2.4 SASARAN FTIS
+### 1.2.4 Sasaran FTIS
 
 Sasaran FTIS adalah sebagai berikut :
 
