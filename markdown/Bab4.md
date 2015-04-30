@@ -12,11 +12,11 @@ Keberhasilan belajar mata kuliah ditetapkan segera setelah mahasiswa __menyelesa
 
 Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai __Bentuk Kegiatan__, yang masing-masing memiliki __Komponen Kegiatan__ dan __Komponen Evaluasi__ sebagai berikut :
 
-|Bentuk Kegiatan|Komponen Kegiatan|Komponen Evaluasi (Angka)|Komponen Evaluasi (%)|
-|---------------|-----------------|-------------------------|:-------------------:|
-|Perkuliahan    |Pelaksanaan Tugas|Angka Rata-rata Tugas (ART)|       20% - 40%   |
-|Perkuliahan    |Tatap Muka       |Angka Ujian Tengah Semester (AUTS)|30% - 50%   |
-|Perkuliahan    |Tatap Muka       |Angka Ujian Akhir Semester (AUAS)| 30% - 50%   |
+|Bentuk Kegiatan|Komponen Kegiatan|Komponen Evaluasi (Angka)         |Komponen Evaluasi (%)|
+|---------------|-----------------|----------------------------------|:-------------------:|
+|Perkuliahan    |Pelaksanaan Tugas|Angka Rata-rata Tugas (ART)       |20% - 40%            |
+|Perkuliahan    |Tatap Muka       |Angka Ujian Tengah Semester (AUTS)|30% - 50%            |
+|Perkuliahan    |Tatap Muka       |Angka Ujian Akhir Semester (AUAS) |30% - 50%            |
 |Seminar / Studi Mandiri |Penyajian, Diskusi / Partisipasi, Penyusunan Makalah / Laporan |Diserahkan ke tiap fakultas atau prodi|Diserahkan ke tiap fakultas atau prodi|
 |Skripsi |Penyusunan dan Penyajian|Diserahkan ke tiap fakultas atau prodi|Diserahkan ke tiap fakultas atau prodi|
 
@@ -30,8 +30,8 @@ __Komponen Evaluasi__ dinyatakan dalam bentuk angka dengan rentang __0 – 100__
 
 Konversi __Angka Akhir (AA)__ menjadi __Nilai Akhir (NA)__ dilakukan dengan __Penilaian Acuan Patokan (PAP)__ sebagai berikut :
 
-|   AA   |  NA	|Bobot NA|
-|--------|------|--------|
+|   AA   | NA	|Bobot NA|
+|--------|----|--------|
 |80 – 100|  A	|    4   |
 |70 – 79 |  B	|    3   |
 |60 – 69 |  C	|    2   |
@@ -86,12 +86,12 @@ Jika persyaratan di atas tidak terpenuhi, maka mahasiswa yang bersangkutan __tid
 
 IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh mahasiswa, dan digunakan untuk menetapkan yudisium (sebutan) kelulusan, dengan ketentuan sebagai berikut:
 
-|       IPK     |Yudisium |
-|---------------|---------|
+|     IPK    |Yudisium |
+|------------|---------|
 |2,00 – 2,75	|Memuaskan|
 |2,76 – 3,50	|Sangat Memuaskan|
 |3,51 – 4,00	|Dengan Pujian (masa studi terpakai ≤ 9 semester)|
-| 3,51 – 4,00	|Sangat Memuaskan (masa studi terpakai > 9 semester)|
+|3,51 – 4,00	|Sangat Memuaskan (masa studi terpakai > 9 semester)|
 
 ## 4.3 Kemampuan Bahasa Inggris Mahasiswa UNPAR
 Berdasarkan Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-08/148 tentang Standar Kemampuan Bahasa Inggris Mahasiswa Universitas Katolik Parahyangan, mulai mahasiswa angkatan 2006 dan selanjutnya, setiap mahasiswa program Sarjana dan Pascasarjana wajib memiliki kemampuan bahasa Inggris yang dinyatakan berdasarkan hasil tes di PBB (Pusat Pendidikan Berkelanjutan) UNPAR, atau pada lembaga penyelenggara tes resmi di luar UNPAR, dengan skor minimal sebagai berikut:
