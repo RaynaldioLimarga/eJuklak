@@ -78,37 +78,37 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 
 ## 1.4 Pengelola Fakultas
 
-| Senat FTIS                              |                                |
-|-----------------------------------------|------------------------------------------|
-| Ketua                                   |       Agus Sukmana, SSi, MSc            |
-| Sekretaris                              | Philips Nicolas Gunawidjaja, BSc, PhD   |
+| Senat FTIS                              |                                         |
+|-----------------------------------------|-----------------------------------------|
+| Ketua                                   |Agus Sukmana, SSi, MSc                   |
+| Sekretaris                              |Philips Nicolas Gunawidjaja, BSc, PhD    |
 
-| Dekanat                                  |                                      |
-|-----------------------------------------|------------------------------------------|
+| Dekanat                                 |                                         |
+|-----------------------------------------|-----------------------------------------|
 | Dekan                                   | Paulus Cahyono Tjiang, SSi, PhD.        |
 | WD I (Akademik)                         | Dr. Thomas Anung Basuki                 |
 | WD II (Keuangan dan Sumberdaya)         | Maria Anestasia, SSi, MSi               |
 | WD III (Kemahasiswaan dan Alumni)       | Dr.rer.nat. Cecilia E. Nugraheni, ST,MT |
 
-|  Program Studi Matematika               |                                     |
-|-----------------------------------------|------------------------------------------|
+| Program Studi Matematika                |                                         |
+|-----------------------------------------|-----------------------------------------|
 | Ketua                                   | Dr. Ferry Jaya Permana                  |
 | Sekretaris                              | Livia Owen, S.Si., M.Si.                |
 
-|  Program Studi Fisika                   |                                          |
-|-----------------------------------------|------------------------------------------|
+| Program Studi Fisika                    |                                         |
+|-----------------------------------------|-----------------------------------------|
 | Ketua                                   | Philips Nicolas Gunawidjaja, BSc, PhD   |
 | Kepala Lab. Fisika Dasar                | Risti Suryantari, S.Si., M.Si.          |
 | Kepala Lab. Elektronika & Fisika Lanjut | Janto V. Sulungbudi, Drs.               |
 
-|  Program Studi Teknik Informatika       |                                      |
-|-----------------------------------------|------------------------------------------|
+|  Program Studi Teknik Informatika       |                                         |
+|-----------------------------------------|-----------------------------------------|
 | Ketua                                   | Dr. Thomas Anung Basuki                 |
 | Sekretaris                              | Lionov, SKom, MSc.                      |
 | Kepala Lab. Komputasi                   | Chandra Wijaya, ST, MT.                 |
 
-|  Tata Usaha                             |                                      |
-|-----------------------------------------|------------------------------------------|
+|  Tata Usaha                             |                                         |
+|-----------------------------------------|-----------------------------------------|
 | Kepala                                  | Pranyoto Teguh Imanto                   |
 | Kasubag Akademik                        | Petrus Purnomo                          |
 | Kasubag Keuangan & Kepegawaian          | Budi Santoso                            |
@@ -121,13 +121,13 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 ## 1.5 Daftar Dosen FTIS
 Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan website. 
 
-| No  | Guru Besar|
-|-----|-----------|
+|No | Guru Besar   |
+|---|--------------|
 |1. | __Prof B. Suprapto Brotosiswojo__, Dr. (Purdue University,USA). Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam. Email: bensupra@unpar.ac.id |
 
-|  No | Lektor Kepala|
-|-----|--------------|
-|2. |__Agus Sukmana__, Drs. (ITB), MSc (Twente Univ. – Belanda), studi S-3 (UPI): Teori Peluang, Pengendalian Mutu, Statistika Elementer. Email: asukmana@unpar.ac.id |
+|No | Lektor Kepala|
+|---|--------------|
+|2.|__Agus Sukmana__, Drs. (ITB), MSc (Twente Univ. – Belanda), studi S-3 (UPI): Teori Peluang, Pengendalian Mutu, Statistika Elementer. Email: asukmana@unpar.ac.id |
 |3.|__Aloysius Rusli__, Dr. (Leeds University, UK): Fisika Polimer, Pengenalan Program Studi Fisika, Etika Profesi, Reologi. Email: arusli@unpar.ac.id |
 |4.|__Benny Yong__, SSi. (UNPAR), MSi. (ITB): Pemecahan Masalah Matematika, Teori Bilangan, Pemodelan Matematika. Email: benny_y@unpar.ac.id |
 |5.|__Ferry Jaya Permana__, SSi (ITB), MSi (ITB), PhD (TU Delft -  Belanda). Teori Risiko, Teori Suku Bunga, Kalkulus Keuangan. Email: ferryjp@unpar.ac.id |
@@ -139,8 +139,8 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 |11.|__Marcus Wono Setya Budhi__, PhD (Univ. of Illinois – USA): Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar. Email: wono@math.itb.ac.id |
 |12.|__Veronica Sri Moertini__, ST (ITB), MT (ITB), Dr. (ITB): Basis Data, Penambangan Data, Projek Sistem Informasi. Email: moertini@unpar.ac.id|
 
-| No  | Lektor       |
-|-----|--------------|
+|No | Lektor       |
+|---|--------------|
 |13.|__Cecilia Esti Nugraheni__, ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians Universitaet – Germany): Matematika Diskret, Jaringan Syaraf Tiruan. Email: cheni@unpar.ac.id|
 |14.|__Erwinna Chendra__, SSi(UNPAR), MSi(ITB), Studi S-3 Matematika di ITB. Email: erwinna@unpar.ac.id Website: http://www.unpar.ac.id/erwinna |
 |15.|__Liem Chin__, SSi.(UNPAR), MSi.(ITB): Matematika Diskret, Aljabar Linear, Komputasi Statistika. Email: chin@unpar.ac.id |
@@ -149,8 +149,8 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 |18.|__Rosa de Lima E.P.__, SSi (ITB), MT (ITB), Studi S-3 di UPI: Sistem Informarsi, Sistem Pendukung Keputusan. Email: rosad5@unpar.ac.id|
 |19.|__Farah Kristiani__, SSi (UNPAR), MSi (ITB), Studi S-3 Matematika di Universiti Pendidikan Sultan Idris, Malaysia. Email: farah@unpar.ac.id |
 
-| No  | Asisten Ahli |
-|-----|--------------|
+|No | Asisten Ahli |
+|---|--------------|
 |20.|__Elisati Hulu__, ST (ITB), MT (ITB), Studi S-3 di ITB. Email: elisatih@unpar.ac.id|
 |21.|__Gede Karya__, ST (ITB), MT (ITB): Pemrograman Aplikasi Bergerak, Analisis Proses Bisnis. Email: gkarya@unpar.ac.id |
 |22.|__Ivonne Martin__, SSi (UNPAR), MSc. (TU Delft – Belanda): Studi S-3 Matematika di Leiden University, Belanda. Email: ivonne@unpar.ac.id|
@@ -162,8 +162,8 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 |28.|__Thomas Anung Basuki__, ST (ITB), MKom (UI), Dr. (University of Pisa – Italia): Pengantar Sistem Cerdas, Rekayasa Perangkat Lunak, Penulisan Ilmiah. Email: anung@unpar.ac.id|
 |29.|__Maria Anestasia__, SSi (ITB), MSi (ITB): Kalkulus 2, Persamaan Diferensial Biasa, Kalkulus Vektor. Email: maria.anestasia@unpar.ac.id|
 
-| No  | Golongan III |
-|-----|--------------|
+|No | Golongan III |
+|---|--------------|
 |30.|__Chandra Wijaya__, SKom (UNPAR), MT (ITB): Jaringan Komputer, Sistem Digital.  Email: chandraw@unpar.ac.id|
 |31.|__Elok Fidiani__, SSi (UGM), MSc (TU Dresden): Fisika Dasar, Fisika Statistik, Pengantar Fisika Material, Nanoteknologi dan Lingkungan. Email: elokfidiani@unpar.ac.id, elokfidiani@gmail.com |
 |32.|__Flaviana Catherine__, SSi (UNPAR), MSi (ITB): Fisika Dasar, Pengantar Fisika Nuklir, Fisika Kedokteran, Fisika Instrumentasi Medis. Email: flaviana@unpar.ac.id|
