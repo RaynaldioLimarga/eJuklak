@@ -1,34 +1,34 @@
 package com.unpar.e_juklak;
 
-import java.io.FileNotFoundException;
-import java.io.IOException;
 
-import org.jsoup.select.Elements;
+import java.util.ArrayList;
 
+
+import android.support.v7.app.ActionBarActivity;
 import android.app.Activity;
-import android.app.ActionBar;
-import android.app.Fragment;
+
+import android.support.v7.app.ActionBar;
 import android.support.v4.app.ActionBarDrawerToggle;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
+import android.support.v4.app.Fragment;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
-import android.util.Log;
-import android.util.SparseArray;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
-import android.webkit.WebView;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ExpandableListView;
+import android.widget.ExpandableListView.OnChildClickListener;
+import android.widget.ExpandableListView.OnGroupClickListener;
 import android.widget.ListView;
-
+import android.widget.Toast;
 /**
  * Fragment used for managing interactions for and presentation of a navigation
  * drawer. See the <a href=
@@ -66,24 +66,29 @@ public class NavigationDrawerFragment extends Fragment {
 	private int mCurrentSelectedPosition = 0;
 	private boolean mFromSavedInstanceState;
 	private boolean mUserLearnedDrawer;
-	private WebView webView;
-	// Menu
-	SparseArray<Group> groups = new SparseArray<Group>();
-
+	private ArrayList<ArrayList<String>> idHTML;
+	
 	public NavigationDrawerFragment() {
 	}
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
+		idHTML = new ArrayList();
 		super.onCreate(savedInstanceState);
-
-		// Read in the flag indicating whether or not the user has demonstrated
-		// awareness of the
-		// drawer. See PREF_USER_LEARNED_DRAWER for details.
+		for(int i = 1 ; i <= 4 ; i++){
+			TagHtml x = new TagHtml(getActivity(), "bab"+i+".html");
+			idHTML.add(new ArrayList());
+			idHTML.get(i-1).add(x.getId("h1")[0]);
+			String[] h2 = x.getId("h2");
+			for(int j = 0 ; j < h2.length; j++){
+				idHTML.get(i-1).add(h2[j]);
+			}
+			
+		}
 		SharedPreferences sp = PreferenceManager
 				.getDefaultSharedPreferences(getActivity());
 		mUserLearnedDrawer = sp.getBoolean(PREF_USER_LEARNED_DRAWER, false);
-		createData();
+		
 		if (savedInstanceState != null) {
 			mCurrentSelectedPosition = savedInstanceState
 					.getInt(STATE_SELECTED_POSITION);
@@ -91,7 +96,7 @@ public class NavigationDrawerFragment extends Fragment {
 		}
 
 		// Select either the default item (0) or the last selected item.
-		selectItem(mCurrentSelectedPosition);
+		selectItem(mCurrentSelectedPosition,0);
 	}
 
 	@Override
@@ -107,22 +112,43 @@ public class NavigationDrawerFragment extends Fragment {
 			Bundle savedInstanceState) {
 		mDrawerListView = (ExpandableListView) inflater.inflate(
 				R.layout.fragment_navigation_drawer, container, false);
-//		mDrawerListView
-//				.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-//					@Override
-//					public void onItemClick(AdapterView<?> parent, View view,
-//							int position, long id) {
-//						selectItem(position);
-//					}
-//				});
-		// mDrawerListView.setAdapter(new ArrayAdapter<String>(getActionBar()
-		// .getThemedContext(),
-		// android.R.layout.simple_list_item_activated_1,
-		// android.R.id.text1,
-		// getActivity().getResources().getStringArray(R.array.bab)));
-		// mDrawerListView.setItemChecked(mCurrentSelectedPosition, true);
-		MenuAdapter adapter = new MenuAdapter(getActivity(), groups,webView);
+		mDrawerListView
+		.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+			@Override
+			public void onItemClick(AdapterView<?> parent, View view,
+					int position, long id) {
+				selectItem(0,0);
+			}
+		});
+		Group[] arrayDaftar = new Group[4];
+		for(int i = 0; i<arrayDaftar.length ; i++){
+			TagHtml x = new TagHtml(getActivity(), "bab"+(i+1)+".html");
+			String h1 = x.getElement("h1")[0];
+			System.out.println(h1);
+			String[] element = x.getElement("h2");
+			arrayDaftar[i] = new Group(h1);
+			for(int j = 0 ; j < element.length ; j++){
+				System.out.println(element[j]);
+				arrayDaftar[i].addChild(element[j]);
+			}
+		}
+		ArrayList<Group> daftarIsi = new ArrayList();
+		for(int i = 0; i<arrayDaftar.length;i++){
+			daftarIsi.add(arrayDaftar[i]);
+		}
+		
+		MenuAdapter adapter = new MenuAdapter(getActivity(), daftarIsi);
 		mDrawerListView.setAdapter(adapter);
+		mDrawerListView.setOnChildClickListener(new OnChildClickListener() {
+			
+			@Override
+			public boolean onChildClick(ExpandableListView parent, View v,
+					int groupPosition, int childPosition, long id) {
+				selectItem(groupPosition,childPosition);
+				return false;
+			}
+		});
+		mDrawerListView.setItemChecked(mCurrentSelectedPosition, true);
 		return mDrawerListView;
 	}
 
@@ -220,9 +246,11 @@ public class NavigationDrawerFragment extends Fragment {
 		mDrawerLayout.setDrawerListener(mDrawerToggle);
 	}
 
-	private void selectItem(int position) {
+	private void selectItem(int position, int childPosition) {
 		mCurrentSelectedPosition = position;
 		if (mDrawerListView != null) {
+			WebviewActivity.webView.loadUrl("file:///android_asset/bab"+(position+1)+".html#"+idHTML.get(position).get(childPosition));
+			
 			mDrawerListView.setItemChecked(position, true);
 		}
 		if (mDrawerLayout != null) {
@@ -270,40 +298,12 @@ public class NavigationDrawerFragment extends Fragment {
 		// showGlobalContextActionBar, which controls the top-left area of the
 		// action bar.
 		if (mDrawerLayout != null && isDrawerOpen()) {
-
+			inflater.inflate(R.menu.global, menu);
 			showGlobalContextActionBar();
 		}
 		super.onCreateOptionsMenu(menu, inflater);
 	}
 
-	public void createData() {
-		Log.w("read tag", "tag");
-		TagHtml tagHtml = new TagHtml(getActivity());
-		try {
-
-			Elements[] elementsBab1 = tagHtml.bacaTitle("bab1.html");
-			Elements[] elementsBab2 = tagHtml.bacaTitle("bab2.html");
-			Elements[] elementsBab3 = tagHtml.bacaTitle("bab3.html");
-			Elements[] elementsBab4 = tagHtml.bacaTitle("bab4.html");
-			Elements[][] bab = { elementsBab1, elementsBab2, elementsBab3,
-					elementsBab4 };
-
-			for (int i = 0; i < bab.length; i++) {
-				Group group = new Group(bab[i][0].get(i).id(),bab[i][0].get(0).ownText()); // h1
-				for (int j = 0; j < bab[i][1].size(); j++) {
-					group.children.add(bab[i][1].get(j).ownText()); // h2
-
-				}
-				groups.append(i, group);
-			}
-		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-	}
 
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
@@ -327,7 +327,7 @@ public class NavigationDrawerFragment extends Fragment {
 	}
 
 	private ActionBar getActionBar() {
-		return getActivity().getActionBar();
+		return ((ActionBarActivity) getActivity()).getSupportActionBar();
 	}
 
 	/**

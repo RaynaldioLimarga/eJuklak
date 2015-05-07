@@ -1,100 +1,74 @@
 package com.unpar.e_juklak;
 
-import android.app.Activity;
-import android.util.SparseArray;
-import android.view.LayoutInflater;
+import java.util.ArrayList;
+
+import android.content.Context;
 import android.view.View;
-import android.view.View.OnClickListener;
 import android.view.ViewGroup;
-import android.webkit.WebView;
 import android.widget.BaseExpandableListAdapter;
-import android.widget.CheckedTextView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 public class MenuAdapter extends BaseExpandableListAdapter {
 
-	private final SparseArray<Group> groups;
-	public LayoutInflater inflater;
-	public Activity activity;
-	public WebView webView;
+	ArrayList<Group> daftarIsi;
+	Context isi;
 	
-	public MenuAdapter(Activity act, SparseArray<Group> groups, WebView webView) {
-		activity = act;
-		this.groups = groups;
-		inflater = act.getLayoutInflater();
-		this.webView = webView;
+	public MenuAdapter(Context isi,ArrayList<Group> daftarIsi){
+		this.isi = isi;
+		this.daftarIsi = daftarIsi;
+	}
+	@Override
+	
+	public Object getChild(int parentPosition, int childPosition){
+		return daftarIsi.get(parentPosition).getChildren(childPosition);
 	}
 
 	@Override
-	public Object getChild(int groupPosition, int childPosition) {
-		return groups.get(groupPosition).children.get(childPosition);
+	//public long getChildId(int groupPosition, int childPosition) {
+	//	return 0;
+	//}
+	public long getChildId(int parentPosition, int childPosition) {
+		return childPosition;
 	}
 
 	@Override
-	public long getChildId(int groupPosition, int childPosition) {
-		return 0;
+	public View getChildView(int parentPosition, int childPosition, boolean arg2, View arg3,
+			ViewGroup arg4) {
+		TextView tv = new TextView(isi);
+		
+		tv.setText(daftarIsi.get(parentPosition).getChildren(childPosition));
+		tv.setPadding(30, 10, 0, 10);
+		return tv;
 	}
 
 	@Override
-	public View getChildView(int groupPosition, final int childPosition,
-			boolean isLastChild, View convertView, ViewGroup parent) {
-		final String children = (String) getChild(groupPosition, childPosition);
-		TextView text = null;
-		if (convertView == null) {
-			convertView = inflater.inflate(R.layout.listrow_details, null);
-		}
-		text = (TextView) convertView.findViewById(R.id.textView1);
-		text.setText(children);
-		convertView.setOnClickListener(new OnClickListener() {
-			@Override
-			public void onClick(View v) {
-				Toast.makeText(activity, children, Toast.LENGTH_SHORT).show();
-			}
-		});
-		return convertView;
+	public int getChildrenCount(int parentPosition) {	
+		return daftarIsi.get(parentPosition).size();
 	}
-
+	
 	@Override
-	public int getChildrenCount(int groupPosition) {
-		return groups.get(groupPosition).children.size();
+	public Object getGroup(int parentPosition) {		
+		return daftarIsi.get(parentPosition).getParent();
 	}
-
-	@Override
-	public Object getGroup(int groupPosition) {
-		return groups.get(groupPosition);
-	}
-
 	@Override
 	public int getGroupCount() {
-		return groups.size();
+		//return groups.size();
+		return daftarIsi.size();
+	}
+
+
+	@Override
+	public long getGroupId(int parentPosition) {
+		return parentPosition;
 	}
 
 	@Override
-	public void onGroupCollapsed(int groupPosition) {
-		super.onGroupCollapsed(groupPosition);
-	}
-
-	@Override
-	public void onGroupExpanded(int groupPosition) {
-		super.onGroupExpanded(groupPosition);
-	}
-
-	@Override
-	public long getGroupId(int groupPosition) {
-		return 0;
-	}
-
-	@Override
-	public View getGroupView(int groupPosition, boolean isExpanded,
-			View convertView, ViewGroup parent) {
-		if (convertView == null) {
-			convertView = inflater.inflate(R.layout.listrow_group, null);
-		}
-		Group group = (Group) getGroup(groupPosition);
-		((CheckedTextView) convertView).setText(group.string);
-		((CheckedTextView) convertView).setChecked(isExpanded);
-		return convertView;
+	public View getGroupView(int parentIndex, boolean arg1, View arg2, ViewGroup arg3) {
+		TextView tv = new TextView(isi);
+		tv.setText(daftarIsi.get(parentIndex).getParent());
+		tv.setPadding(50, 10, 0, 10);
+		tv.setTextSize(20);
+		return tv;
 	}
 
 	@Override
@@ -103,7 +77,9 @@ public class MenuAdapter extends BaseExpandableListAdapter {
 	}
 
 	@Override
-	public boolean isChildSelectable(int groupPosition, int childPosition) {
-		return false;
+	public boolean isChildSelectable(int arg0, int arg1) {
+		// TODO Auto-generated method stub
+		return true;
 	}
+	
 }

@@ -1,22 +1,30 @@
 package com.unpar.e_juklak;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
 
-import android.app.ActionBar;
 import android.app.Activity;
+import android.support.v4.app.Fragment;
 import android.os.Bundle;
+import android.support.v4.app.FragmentManager;
 import android.support.v4.widget.DrawerLayout;
+import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.ActionBar;
+import android.content.Context;
+import android.os.Build;
+import android.view.Gravity;
+import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.view.ViewGroup;
+import android.webkit.WebSettings;
 import android.webkit.WebView;
-import android.webkit.WebViewClient;
+import android.widget.ArrayAdapter;
+import android.widget.TextView;
 
-public class WebviewActivity extends Activity implements
+public class WebviewActivity extends ActionBarActivity implements
 		NavigationDrawerFragment.NavigationDrawerCallbacks {
 
-	private WebView webView;
+	static WebView webView;
 	/**
 	 * Fragment managing the behaviors, interactions and presentation of the
 	 * navigation drawer.
@@ -34,64 +42,35 @@ public class WebviewActivity extends Activity implements
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_webview);
 		
-		this.webView = (WebView) findViewById(R.id.WebViewJuklak);
-		//try {
-		//	webView.loadDataWithBaseURL("file:///android_asset/", bacaFileHtml("bab4.html"), "text/html", "UTF-8", null);
-		//} catch (IOException e) {
-			// TODO Auto-generated catch block
-		//	e.printStackTrace();
-		//}
-		webView.getSettings().setJavaScriptEnabled(true);
-		webView.setWebViewClient(new MyWebView("lampiran-4"));
-		webView.loadUrl("file:///android_asset/bab4.html");
-		webView.setBackgroundColor(0);
-		mNavigationDrawerFragment = (NavigationDrawerFragment) getFragmentManager()
+		
+		mNavigationDrawerFragment = (NavigationDrawerFragment) getSupportFragmentManager()
 				.findFragmentById(R.id.navigation_drawer);
 		mTitle = getTitle();
 
 		// Set up the drawer. 
 		mNavigationDrawerFragment.setUp(R.id.navigation_drawer,
 				(DrawerLayout) findViewById(R.id.drawer_layout));
-	}
-	class MyWebView extends WebViewClient{
-		private String link;
-		
-		public MyWebView(String link){
-			this.link = link;
-		}
-		public void onPageFinished(WebView view, String url){
-			if(!"".equals(link)&& link !=null){
-				view.loadUrl("javascript:location.hash = '#"+ link+ "';");
-			}
-		}
-		
-	}
-	public String bacaFileHtml(String namaFile) throws IOException{
-		 String line ="";
-	        
-	        BufferedReader br = null;
-	        	br = new BufferedReader(new InputStreamReader(this.getAssets().open(namaFile)));
-	        String content = new String();
-	        while((line = br.readLine())!=null){
-	            content+=line;
-	        }
-	        br.close();
-	        return content;
-	}
 
+		webView = (WebView) findViewById(R.id.WebViewJuklak);
+		final String mimeType = "text/html";
+        final String encoding = "UTF-8";
+        webView.loadUrl("file:///android_asset/bab1.html"); 
+        webView.setLayerType(View.LAYER_TYPE_SOFTWARE, null);
+        webView.getSettings().setCacheMode(WebSettings.LOAD_NO_CACHE);
+        webView.getSettings().setRenderPriority(WebSettings.RenderPriority.HIGH);
+        webView.setBackgroundColor(0);
+		
+	}
+	
 	@Override
 	public void onNavigationDrawerItemSelected(int position) {
-		if (webView != null) {
-			if (position == 0) {
-				webView.loadUrl("file:///android_asset/bab1.html");
-			} else if (position == 1) {
-				webView.loadUrl("file:///android_asset/bab2.html");
-			} else if (position == 2) {
-				webView.loadUrl("file:///android_asset/bab3.html");
-			} else if (position == 3) {
-				webView.loadUrl("file:///android_asset/bab4.html");
-			}
-		}
+		
+		FragmentManager fragmentManager = getSupportFragmentManager();
+		fragmentManager
+				.beginTransaction()
+				.replace(R.id.container,
+						PlaceholderFragment.newInstance(position + 1)).commit();
+	
 	}
 
 	public void onSectionAttached(int number) {
@@ -113,29 +92,72 @@ public class WebviewActivity extends Activity implements
 	}
 
 	public void restoreActionBar() {
-		ActionBar actionBar = getActionBar();
+		ActionBar actionBar = getSupportActionBar();
 		actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_STANDARD);
 		actionBar.setDisplayShowTitleEnabled(true);
 		actionBar.setTitle(mTitle);
 	}
-
-	@Override
-	public boolean onCreateOptionsMenu(Menu menu) {
-		if (!mNavigationDrawerFragment.isDrawerOpen()) {
-			restoreActionBar();
-			return true;
-		}
-		
-		return super.onCreateOptionsMenu(menu);
-	}
+//
+//	@Override
+//	public boolean onCreateOptionsMenu(Menu menu) {
+//		if (!mNavigationDrawerFragment.isDrawerOpen()) {
+//
+//			getMenuInflater().inflate(R.menu.web_view, menu);
+//			restoreActionBar();
+//			return true;
+//		}
+//		
+//		return super.onCreateOptionsMenu(menu);
+//	}
 
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
 		// Handle action bar item clicks here. The action bar will
 		// automatically handle clicks on the Home/Up button, so long
 		// as you specify a parent activity in AndroidManifest.xml.
-
+		int id = item.getItemId();
+		if (id == R.id.action_settings) {
+			return true;
+		}
 		return super.onOptionsItemSelected(item);
 	}
+	/**
+	 * A placeholder fragment containing a simple view.
+	 */
+	public static class PlaceholderFragment extends Fragment {
+		/**
+		 * The fragment argument representing the section number for this
+		 * fragment.
+		 */
+		private static final String ARG_SECTION_NUMBER = "section_number";
 
+		/**
+		 * Returns a new instance of this fragment for the given section number.
+		 */
+		public static PlaceholderFragment newInstance(int sectionNumber) {
+			PlaceholderFragment fragment = new PlaceholderFragment();
+			Bundle args = new Bundle();
+			args.putInt(ARG_SECTION_NUMBER, sectionNumber);
+			fragment.setArguments(args);
+			return fragment;
+		}
+
+		public PlaceholderFragment() {
+		}
+
+		@Override
+		public View onCreateView(LayoutInflater inflater, ViewGroup container,
+				Bundle savedInstanceState) {
+			View rootView = inflater.inflate(R.layout.fragment_web_view,
+					container, false);
+			return rootView;
+		}
+
+		@Override
+		public void onAttach(Activity activity) {
+			super.onAttach(activity);
+			((WebviewActivity) activity).onSectionAttached(getArguments().getInt(
+					ARG_SECTION_NUMBER));
+		}
+	}
 }

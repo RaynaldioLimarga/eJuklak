@@ -1,48 +1,48 @@
 package com.unpar.e_juklak;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.ArrayList;
 
+import java.io.InputStream;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
-import android.app.Activity;
-import android.util.Log;
+import android.content.Context;
 
 public class TagHtml {
 	
-	private Activity activity;
+	Context ctx;
+	Document doc;
+	Elements links;
 	
-	public TagHtml(Activity activity) {
-		this.activity = activity;
+	public TagHtml(Context ctx,String assetFiles){
+		InputStream is=null;
+		this.ctx = ctx;
+		
+		try {
+			is=ctx.getAssets().open(assetFiles);
+			//System.out.println(is.available());
+		    doc = Jsoup.parse(is, "UTF-8", "http://example.com/");
+		} catch (Exception e) {
+		    System.out.println("error");
+		} 
+
 	}
 	
-	
-	public String bacaTag(String assetname) throws FileNotFoundException, IOException{
-        String line ="";
-        
-        BufferedReader br = null;
-        	br = new BufferedReader(new InputStreamReader(activity.getAssets().open(assetname)));
-        String content = new String();
-        while((line = br.readLine())!=null){
-            content+=line;
-        }
-        br.close();
-        return content;
-        
-    }
-	
-	
-	public Elements[] bacaTitle(String assetname) throws FileNotFoundException, IOException{
-		Document doc = Jsoup.parse(bacaTag(assetname));
-        Elements titleTag = doc.select("h1, h2, h3");
-        return new Elements[] {titleTag.select("h1"), titleTag.select("h2"), titleTag.select("h3")};
-		
+	public String[] getElement(String tag){
+		links = doc.select(tag);
+		String[] res = new String[links.size()];
+		for(int i = 0; i<res.length; i++){
+			res[i] = links.get(i).toString().split(">")[1].split("<")[0];
+		}
+		return res;
+	}
+	public String[] getId(String tag){
+		String[] res = getElement(tag);
+		for(int i = 0 ; i < res.length ; i++){
+			res[i] = res[i].replace('.', '-');
+			res[i] = res[i].replace(' ','-');
+			res[i] = res[i].toLowerCase();
+		}
+		return res;
 	}
 }
