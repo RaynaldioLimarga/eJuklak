@@ -81,5 +81,4 @@ public class MenuAdapter extends BaseExpandableListAdapter {
 		// TODO Auto-generated method stub
 		return true;
 	}
-	
 }

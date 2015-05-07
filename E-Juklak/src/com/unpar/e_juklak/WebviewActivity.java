@@ -1,6 +1,5 @@
 package com.unpar.e_juklak;
 
-
 import android.app.Activity;
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
@@ -41,7 +40,6 @@ public class WebviewActivity extends ActionBarActivity implements
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_webview);
-		
 		
 		mNavigationDrawerFragment = (NavigationDrawerFragment) getSupportFragmentManager()
 				.findFragmentById(R.id.navigation_drawer);

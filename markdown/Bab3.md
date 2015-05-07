@@ -14,22 +14,17 @@ Kegiatan Akademik di lingkungan FTIS, dan UNPAR pada umumnya, terdiri atas:
 ### 3.1.1 Perwalian dan Penentuan Mata Kuliah
 Sebelum mengikuti kegiatan akademik seperti mata kuliah, responsi dan praktikum, pada setiap semester seorang mahasiswa perlu menyusun __rencana studi__ bagi dirinya. Rencana studi ini memuat daftar mata kuliah yang akan diikuti pada semester yang bersangkutan.
 Dalam menentukan mata kuliah yang akan diambil, dapat digunakan pedoman berikut: 
-
-a.	Pada umumnya, mahasiswa mengambil __semua__ mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya. 
-
-b.	Memprioritaskan mata kuliah semester lebih awal yang __belum lulus__. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi mata kuliah yang memprasyaratkannya.
-
-c.	Memprioritaskan mata kuliah menjadi __prasyarat__ (baik prasyarat _tempuh_ atau pun prasyarat _lulus_) bagi mata kuliah lain.
-
-d.	Memperhatikan __jadwal kuliah dan ujian__ yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan mata kuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
-
-e.	Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 sebagai berikut :
+- Pada umumnya, mahasiswa mengambil __semua__ mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya. 
+-	Memprioritaskan mata kuliah semester lebih awal yang __belum lulus__. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi mata kuliah yang memprasyaratkannya.
+-	Memprioritaskan mata kuliah menjadi __prasyarat__ (baik prasyarat _tempuh_ atau pun prasyarat _lulus_) bagi mata kuliah lain.
+-	Memperhatikan __jadwal kuliah dan ujian__ yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan mata kuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
+-	Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 sebagai berikut :
 
 |     IPS     |	Hak Tempuh pada Semester Berikutnya |
-|------------:|:------------------------------------|
-| &ge; 3,00   |	Maksimum 24 SKS			        	|
-| 2,50 - 2,99 |	Maksimum 21 SKS			        	|
-| &le; 2,49	  |	Maksimum 18 SKS			        	|
+|------------:|-------------------------------------|
+| &ge; 3,00   |	Maksimum 24 SKS			                 	|
+| 2,50 - 2,99 |	Maksimum 21 SKS			                 	|
+| &le; 2,49	  |	Maksimum 18 SKS			                 	|
 
 
 Dengan penjelasan __Satu SKS (Satuan Kredit Semester)__ bermakna belajar 3 jam seminggu, dengan perincian : 
@@ -38,14 +33,17 @@ Dengan penjelasan __Satu SKS (Satuan Kredit Semester)__ bermakna belajar 3 jam s
 -	1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
 
 Untuk menentukan mata kuliah apa saja yang akan diambil, mahasiswa dapat/wajib berkonsultasi dengan dosen wali (tergantung dari aturan prodi masing-masing). Bersama dosen wali, mahasiswa dapat merundingkan penerapan pedoman di atas ini bagi dirinya, dengan memperhatikan berbagai keadaan yang berlaku.
-Masa perwalian juga merupakan kesempatan bagi mahasiswa yang ingin mendiskusikan masalah akademik dan non-akademik yang dirasakan dapat mengganggu studi mahasiswa yang bersangkutan di FTIS . Namun perlu diperhatikan bahwa dosen wali hanya bertindak sebagai _penasehat/pemberi saran_ berdasarkan pengalamannya. Penyelesaian masalah sepenuhnya berada di tangan mahasiswa yang mengalaminya.
+
+Masa perwalian juga merupakan kesempatan bagi mahasiswa yang ingin mendiskusikan masalah akademik dan non-akademik yang dirasakan dapat mengganggu studi mahasiswa yang bersangkutan di FTIS. Namun perlu diperhatikan bahwa dosen wali hanya bertindak sebagai _penasehat/pemberi saran_ berdasarkan pengalamannya. Penyelesaian masalah sepenuhnya berada di tangan mahasiswa yang mengalaminya.
 
 ### 3.1.2 	Pendaftaran Mata Kuliah
-Setelah menentukan mata kuliah apa saja yang akan diambil, maka mahasiswa harus mendaftarkan mata kuliah dengan cara mengisi Form Rencana Studi (FRS). Pengisian FRS ini dilakukan secara online dengan menggunakan portal mahasiswa (masuk ke url [https://mhs.akad.unpar/](https://mhs.akad.unpar/)), login menggunakan username dari account student masing-masing. Pengisian FRS ini dapat dilakukan oleh mahasiswa sendiri atau bersama-sama dengan dosen wali pada saat perwalian (tergantung aturan dari masing-masing prodi).
+Setelah menentukan mata kuliah apa saja yang akan diambil, maka mahasiswa harus mendaftarkan mata kuliah dengan cara mengisi Form Rencana Studi (FRS). Pengisian FRS ini dilakukan secara online dengan menggunakan portal mahasiswa (masuk ke url [https://studentportal.unpar.ac.id/](https://studentportal.unpar.ac.id/)), login menggunakan *username* dari *account* student masing-masing. Pengisian FRS ini dapat dilakukan oleh mahasiswa sendiri atau bersama-sama dengan dosen wali pada saat perwalian (tergantung aturan dari masing-masing prodi).
+
 Dosen wali akan memeriksa FRS yang telah diisi oleh mahasiswa walinya. Jika dosen wali merasa tidak ada masalah dengan rencana studi mahasiswa walinya, maka dosen wali akan memberikan persetujuan. 
+
 Mahasiswa akan menerima email yang berisi informasi tentang hasil registrasi mata kuliah (yang sudah disetujui dosen wali). Mahasiswa __wajib__ memeriksa email konfirmasi ini. Jika ada kesalahan atau perbedaan yang terjadi, mahasiswa harus segera melaporkannya ke dosen wali. 
 
->Catatan:
+>__Catatan:__
 Jika karena sesuatu hal mahasiswa tidak dapat mengikuti tahap perwalian dan perencanaan studi, maka mahasiswa tersebut __dapat diwakilkan oleh mahasiswa FTIS UNPAR__, dengan mengisi formulir terkait di Tata Usaha FTIS. Jumlah beban maksimum untuk perwalian dan perencanaan studi yang diwakilkan adalah __10 sks__. Tata cara perwalian dan perencanaan studi yang diwakilkan tetap mengikuti prosedur di atas.
 
 ### 3.1.3	Tahap Perkuliahan Awal
@@ -56,22 +54,21 @@ Jika selama satu minggu pertama kuliah, mahasiswa hendak mengubah rencana studi 
 
 ## 3.2 Kegiatan Perkuliahan
 Setiap mahasiswa yang telah memiliki KTM dan telah menyelesaikan kewajiban pembayarannya, pada dasarnya berhak mengikuti seluruh kegiatan akademik sesuai dengan kesepakatan hasil perwalian (ditunjukkan melalui email konfirmasi hasil pengisian FRS dan/atau PRS). Hak ini tentunya masih dapat diubah oleh dosen terkait, jika dinilai bahwa kelakuan dan unjuk-kerja mahasiswa itu tidak memadai. 
+
 Jika ada masalah tentang ini, hal ini perlu dilaporkan secara tertulis oleh mahasiswa maupun dosen kepada pihak yang berkepentingan, yaitu dosen wali, pimpinan jurusan / program studi, dan pimpinan FTIS.
 Perincian kegiatan perkuliahan adalah sebagai berikut :   
 
-1.	__Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)__, yang sebaiknya dimanfaatkan secara maksimal dengan :
+1.	__Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)__, yang sebaiknya dimanfaatkan secara maksimal dengan:
  -	membaca bahan yang diperkirakan akan dibahas dosen,
  -	menanyakan __segala__ hal yang belum jelas kepada dosen,
  -	meminta saran dosen tentang cara belajar dan berlatih yang baik.
-
-  __Kehadiran__ pada perkuliahan disyaratkan __minimal 80%__, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera mungkin kepada dosen, beserta alasan cukup kuat dan sah.
   
-2.	__Kegiatan akademik terstruktur ( 1 jam/SKS)__, yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran. 
- -	Responsi merupakan kegiatan dimana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan masalah teknis yang belum dikuasai.
- -	Praktikum bertujuan melengkapi kegiatan perkuliahan, agar keterkaitan antara teori dan praktek dapat dikokohkan. 
- -	Pekerjaan rumah merupakan latihan yang diberikan oleh dosen untuk menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri maupun kelompok. 
- 
-3.	__Kegiatan akademik mandiri(± 1 jam / sks)__, merupakan kegiatan yang dilakukan sendiri (di perpustakaan, di rumah, atau di tempat lain) oleh mahasiswa. Hal ini amat perlu, untuk dapat merenungkan dan mencernakan bahan kuliah. Kegiatan ini dapat terdiri atas membaca buku teks atau buku lain, catatan kuliah, responsi, atau praktikum, membuat soal yang ditugaskan dan yang dipilih sendiri, membuat skema pokok bahasan yang telah dipelajari, belajar dalam kelompok studi, dsb.
+ __Kehadiran__ pada perkuliahan disyaratkan __minimal 80%__, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera mungkin kepada dosen, beserta alasan cukup kuat dan sah.
+2.	__Kegiatan akademik terstruktur (± 1jam/SKS)__, yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran.
+ -	*Responsi* merupakan kegiatan dimana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan masalah teknis yang belum dikuasai.
+ -	*Praktikum* bertujuan melengkapi kegiatan perkuliahan, agar keterkaitan antara teori dan praktek dapat dikokohkan. 
+ -	*Pekerjaan rumah* merupakan latihan yang diberikan oleh dosen untuk menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri maupun kelompok. 
+3.	__Kegiatan akademik mandiri(± 1jam/SKS)__, merupakan kegiatan yang dilakukan sendiri (di perpustakaan, di rumah, atau di tempat lain) oleh mahasiswa. Hal ini amat perlu, untuk dapat merenungkan dan mencernakan bahan kuliah. Kegiatan ini dapat terdiri atas membaca buku teks atau buku lain, catatan kuliah, responsi, atau praktikum, membuat soal yang ditugaskan dan yang dipilih sendiri, membuat skema pokok bahasan yang telah dipelajari, belajar dalam kelompok studi, dsb.
 
 ## 3.3 Tata Cara Ujian
 Yang dimaksud dengan _ujian_ adalah kegiatan evaluasi keberhasilan belajar hingga suatu tahap yang ditetapkan. Ujian terdiri atas :
@@ -128,18 +125,13 @@ __E.	Pelaksanaan__
 7.	Peserta ujian menyerahkan lembar jawab kepada pengawas setelah menyelesaikan ujian atau tepat setelah waktu ujian berakhir. __Kertas buram__ terisi atau tidak harus __dikumpulkan kembali__ bersama dengan lembar jawab.
 8.	Peserta ujian yang telah menyelesaikan ujian diperkenankan untuk meninggalkan ruang ujian paling cepat __30 menit__ setelah ujian dimulai.
 9.	Dilarang keras __melakukan kecurangan__ dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:
-
-    a.	__Melihat__ berkas ujian milik peserta ujian lain;
-
-    b.	__Memperlihatkan__ atau __memberikan__ berkas ujian milik sendiri kepada peserta ujian lain;
-
-    c.	__Memberikan__ atau __menerima__ petunjuk atau jawaban ujian dengan cara dan media apapun;
-
-    d.	__Melihat__ buku ajar, diktat atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka);
-
-    e.	__Pinjam-meminjam__ alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
+   -	__Melihat__ berkas ujian milik peserta ujian lain;
+   -	__Memperlihatkan__ atau __memberikan__ berkas ujian milik sendiri kepada peserta ujian lain;
+   -	__Memberikan__ atau __menerima__ petunjuk atau jawaban ujian dengan cara dan media apapun;
+   -	__Melihat__ buku ajar, diktat atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka);
+   -	__Pinjam-meminjam__ alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
 10.	Peserta ujian yang __melakukan kecurangan__ pada saat ujian akan dikenakan __sanksi akademik__ yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS.  
-11.	Selama ujian berlangsung, peserta ujian __tidak diperkenankan meninggalkan ruangan ujiandengan alasan apapun__ (kecuali peserta yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC, harus melakukannya sebelum ujian dimulai.
+11.	Selama ujian berlangsung, peserta ujian __tidak diperkenankan meninggalkan ruangan ujian dengan alasan apapun__ (kecuali peserta yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC, harus melakukannya sebelum ujian dimulai.
 
 ### 3.3.3	Sanksi
 Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi sanksi berupa:
@@ -149,7 +141,7 @@ Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi sanksi beru
 3.	Untuk kali ke tiga dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS mata kuliah dimana kesalahan ke tiga tersebut terjadi (sesuai SK Rektor Universitas Katolik Parahyangan No. III/PRT/93-01/03 tentang _Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa_).
 4.	Untuk kali ke empat dan seterusnya dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS __seluruh__ mata kuliah pada masa ujian terkait (sesuai SK Rektor UNPAR No. III/PRT/93-01/03 tentang _Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa_).
 
-Sanksi no. 3 dan 4 dikukuhkan oleh Surat Keputusan Dekan FTIS.
+Sanksi nomor 3 dan 4 dikukuhkan oleh Surat Keputusan Dekan FTIS.
 
 Mahasiswa yang terbukti melakukan __pelanggaran norma kejujuran__ pada saat mengikuti ujian, akan diberi sanksi akademik sebagai berikut :
 
@@ -163,8 +155,8 @@ Mahasiswa yang terbukti melakukan __pelanggaran norma kejujuran__ pada saat meng
  -	Sakit, yang diperkuat oleh _surat keterangan rawat inap_ dari rumah sakit.
  -	Mewakili negara / UNPAR dalam suatu kegiatan tertentu.
  -	Hal lain yang yang dapat diterima oleh pimpinan fakultas beserta pimpinan jurusan.
- 
-    Maka mahasiswa tersebut dapat mengajukan permohonan _ujian susulan_ bagi mata kuliah terkait kepada WD-1 dengan tembusan kepada pimpinan jurusan terkait sebelum batas waktu pengajuan yang ditentukan setiap semesternya.
+
+ Maka mahasiswa tersebut dapat mengajukan permohonan _ujian susulan_ bagi mata kuliah terkait kepada WD-1 dengan tembusan kepada pimpinan jurusan terkait sebelum batas waktu pengajuan yang ditentukan setiap semesternya.
 
 Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahgunaan wewenang oleh pengawas ujian dapat dilakukan dalam bentuk pengaduan tertulis dalam amplop tertutup yang ditujukan kepada WD-1.
 
@@ -178,16 +170,18 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 
 ### 3.4.2 Prosedur Cuti Studi
 1.	Mahasiswa wajib mengisi __Surat Permohonan Cuti Studi Mahasiswa__ yang dapat diperoleh di Tata Usaha FTIS, dengan dilengkapi ___rekomendasi dosen wali___ mahasiswa yang bersangkutan, dan menyerahkannya kembali ke Tata Usaha FTIS __selambat-lambatnya sebelum berakhirnya masa PRS__ semester terkait dengan cuti tersebut. 
-2.	Kriteria untuk memberi ijin tersebut adalah :  (a) masalah kesehatan, (b) masalah financial, atau (c) masalah pribadi lainnya. 
+2.	Kriteria untuk memberi ijin tersebut adalah : 
+ - masalah kesehatan
+ - masalah financial
+ - masalah pribadi lainnya. 
 3.	Ijin pengambilan cuti studi diberikan oleh Dekan FTIS dan dinyatakan dalam bentuk surat resmi, dan diberitahukan kepada WR-1, WR-2, Kepala Biro Administrasi Akademik dan Kemahasiswaan (BAA) dan Kepala Biro Administrasi Keuangan (BIKEU).
 4.	Masa cuti studi __tidak diperhitungkan__ sebagai masa studi terpakai dalam evaluasi tahap studi.
 5.	Bagi mahasiswa yang mendapat izin cuti dari Dekan FTIS, wajib 
- -	Mengisi Formulir Rencana Studi dengan beban __0 (nol)__ sks, dan didaftarkan sesuai dengan __prosedur yang ada__.
- -	Membayar __100% (seratus persen)__ Tarif Biaya Registrasi (sesuai dengan Peraturan Pengurus Yayasan UNPAR no. 06 th. 2008 tentang Pemisahan Tarif Biaya Registrasi dan Biaya Pengembangan). 
+ -	Mengisi Formulir Rencana Studi dengan beban __0 (nol)__ sks dan didaftarkan sesuai dengan __prosedur yang ada__.
+ - Membayar __100% (seratus persen)__ Tarif Biaya Registrasi (sesuai dengan Peraturan Pengurus Yayasan UNPAR Nomor 06 tahun 2008 tentang Pemisahan Tarif Biaya Registrasi dan Biaya Pengembangan). 
 6.	Dalam hal mahasiswa mengajukan permohonan cuti studi __setelah masa PRS berakhir__, izin cuti hanya dapat diberikan oleh Dekan FTIS apabila 
  -	Memiliki alasan yang sangat kuat dan tidak dapat dihindarkan.
  -	Mendapat ijin dari WR-1.
- 
  Dalam hal ini, biaya yang telah dibayarkan mahasiswa pada semester yang terkait dengan cuti tersebut __tidak dapat dikembalikan__ dan sisa kewajiban keuangan yang belum dilunasi __harus diselesaikan__.
 7.	Mahasiswa yang telah memperoleh cuti studi dari Dekan FTIS namun melanggar ketentuan masa cuti dalam surat ijin tersebut, maka pada semester berikutnya di luar masa cuti yang diizinkan, mahasiswa akan dikenakan peraturan __gencat studi__.
 
@@ -202,12 +196,9 @@ Adapun __prosedur pengaktifan kembali status mahasiswa setelah gencat studi__ ad
 2.	Dekan FTIS dapat mengabulkan atau menolak permohonan mahasiswa tersebut di atas berdasarkan pertimbangan akademik.
 3.	Keputusan Dekan FTIS tersebut diberitahukan pula kepada WR-1, WR-2, Kepala BAA, dan Kepala BIKEU.
 4.	Dalam hal Dekan FTIS mengabulkan permohonan mahasiswa tersebut di atas, mahasiswa yang bersangkutan 
-
- a.	Dikenakan __sanksi keuangan__ berupa pelunasan __200% (dua ratus persen)__ Sumbangan Pengembangan sesuai dengan tarif yang berlaku di lingkungan UNPAR untuk semester selama gencat studi.
-
- b.	Dikenakan __sanksi akademik__ berupa hak tempuh sebanyak __12 SKS__ pada semester dimana mahasiswa yang bersangkutan mulai aktif kembali, kecuali jika diizinkan oleh Dekan FTIS untuk menempuh __maksimal 18 SKS__ berdasarkan pertimbangan yang sah.
-
- c.	Dapat kehilangan status sebagai mahasiswa UNPAR jika tidak memenuhi butir a. di atas.
+ -	Dikenakan __sanksi keuangan__ berupa pelunasan __200% (dua ratus persen)__ Sumbangan Pengembangan sesuai dengan tarif yang berlaku di lingkungan UNPAR untuk semester selama gencat studi.
+ -	Dikenakan __sanksi akademik__ berupa hak tempuh sebanyak __12 SKS__ pada semester dimana mahasiswa yang bersangkutan mulai aktif kembali, kecuali jika diizinkan oleh Dekan FTIS untuk menempuh __maksimal 18 SKS__ berdasarkan pertimbangan yang sah.
+ -	Dapat kehilangan status sebagai mahasiswa UNPAR jika tidak memenuhi butir a. di atas.
 
 ## 3.5 Pengunduran Diri Sebagai Mahasiswa
 Prosedur pengunduran diri sebagai mahasiswa di lingkungan UNPAR adalah sebagai berikut :
