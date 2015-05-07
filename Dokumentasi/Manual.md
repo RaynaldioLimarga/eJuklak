@@ -1,4 +1,5 @@
 __Cara Menggunakan Aplikasi:__
+
 1. Buka aplikasi E-juklak
 2. Masuk ke menu setting (opsional)
   - Ubah ukuran font (small, medium, large)
