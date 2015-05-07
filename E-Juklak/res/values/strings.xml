@@ -18,13 +18,10 @@
     <string name="title_activity_list_content">ListContentActivity</string>
     <string name="title_activity_page_two">PageTwo</string>
     <string name="title_activity_activity_nav_drawer">ActivityNavDrawer</string>
-
-    <string-array name="bab">
-        <item>Bab 1</item>
-        <item>Bab 2</item>
-        <item>Bab 3</item>
-        <item>Bab 4</item>
-    </string-array>
+	<string name="title_1">Pendahuluan</string>
+    <string name="title_2">Penyelenggaraan Mata Kuliah</string>
+    <string name="title_3">Kegiatan Akademik</string>
+    <string name="title_4">Evaluasi Keberhasilan Belajar</string>
 
     <string name="bab_1">Bab 1</string>
     <string name="bab_2">Bab 2</string>
@@ -42,5 +39,7 @@
     <string name="app_label">Search label !</string>
     <string name="title_activity_main2">Main2Activity</string>
     <string name="search_title">Search Here</string>
+    <string name="title_activity_about_us">AboutUs</string>
+    <string name="title_activity_settings">Settings</string>
 
 </resources>

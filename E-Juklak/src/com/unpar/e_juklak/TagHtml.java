@@ -30,18 +30,20 @@ public class TagHtml {
 	
 	public String[] getElement(String tag){
 		links = doc.select(tag);
+	
 		String[] res = new String[links.size()];
 		for(int i = 0; i<res.length; i++){
 			res[i] = links.get(i).toString().split(">")[1].split("<")[0];
+			
 		}
 		return res;
 	}
 	public String[] getId(String tag){
-		String[] res = getElement(tag);
-		for(int i = 0 ; i < res.length ; i++){
-			res[i] = res[i].replace('.', '-');
-			res[i] = res[i].replace(' ','-');
-			res[i] = res[i].toLowerCase();
+		links = doc.select(tag);
+		String[] res = new String[links.size()];
+		for(int i = 0; i<res.length; i++){
+			res[i] = links.get(i).id();
+			
 		}
 		return res;
 	}
