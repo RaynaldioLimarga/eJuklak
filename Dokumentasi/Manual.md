@@ -6,5 +6,5 @@ __Cara Menggunakan Aplikasi:__
   - Pilih background (light, dark)
 3. Masuk ke menu read
 4. Pilih Bab atau Sub-Bab
-5. Jika ada gambar, dapat melakukan zoom-in dengan klik pada gambar, dan zoom-out dengan klik di luar gambar
+5. Klik gambar untuk zoom-in gambar, klik di luar gambar untuk mengembalikan gambar ke ukuran semula
 
