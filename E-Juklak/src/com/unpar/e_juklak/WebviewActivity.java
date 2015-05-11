@@ -7,19 +7,12 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
-import android.content.Context;
-import android.os.Build;
-import android.view.Gravity;
 import android.view.LayoutInflater;
-import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
-import android.widget.ArrayAdapter;
-import android.widget.TextView;
-
 public class WebviewActivity extends ActionBarActivity implements
 		NavigationDrawerFragment.NavigationDrawerCallbacks {
 
@@ -50,9 +43,7 @@ public class WebviewActivity extends ActionBarActivity implements
 				(DrawerLayout) findViewById(R.id.drawer_layout));
 
 		webView = (WebView) findViewById(R.id.WebViewJuklak);
-		final String mimeType = "text/html";
-        final String encoding = "UTF-8";
-        webView.loadUrl("file:///android_asset/bab1.html"); 
+        webView.loadUrl("file:///android_asset/kata_pengantar.html"); 
         webView.setLayerType(View.LAYER_TYPE_SOFTWARE, null);
         webView.getSettings().setCacheMode(WebSettings.LOAD_NO_CACHE);
         webView.getSettings().setRenderPriority(WebSettings.RenderPriority.HIGH);
@@ -73,22 +64,23 @@ public class WebviewActivity extends ActionBarActivity implements
 
 	public void onSectionAttached(int number) {
 		switch (number) {
-		case 1:
-			mTitle = getString(R.string.bab_1);
-			break;
-		case 2:
-			mTitle = getString(R.string.bab_2);
-			break;
-		case 3:
-			mTitle = getString(R.string.bab_1);
-			break;
-		case 4:
-			mTitle = getString(R.string.bab_1);
-			break;
+			case 1:
+				mTitle = getString(R.string.title_1);
+				break;
+			case 2:
+				mTitle = getString(R.string.title_2);
+				break;
+			case 3:
+				mTitle = getString(R.string.title_3);
+				break;
+			case 4:
+				mTitle = getString(R.string.title_4);
+				break;
+			case 5:
+				mTitle = getString(R.string.title_1);
+				break;
 		}
-
 	}
-
 	public void restoreActionBar() {
 		ActionBar actionBar = getSupportActionBar();
 		actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_STANDARD);

@@ -4,9 +4,11 @@ package com.unpar.e_juklak;
 import java.util.ArrayList;
 
 
+
+
+
 import android.support.v7.app.ActionBarActivity;
 import android.app.Activity;
-
 import android.support.v7.app.ActionBar;
 import android.support.v4.app.ActionBarDrawerToggle;
 import android.support.v4.view.GravityCompat;
@@ -16,22 +18,15 @@ import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
-import android.util.Log;
-import android.util.SparseArray;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
-import android.webkit.WebView;
 import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
 import android.widget.ExpandableListView;
 import android.widget.ExpandableListView.OnChildClickListener;
-import android.widget.ExpandableListView.OnGroupClickListener;
-import android.widget.ListView;
-import android.widget.Toast;
 /**
  * Fragment used for managing interactions for and presentation of a navigation
  * drawer. See the <a href=
@@ -76,15 +71,18 @@ public class NavigationDrawerFragment extends Fragment {
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
-		idHTML = new ArrayList();
+		idHTML = new ArrayList<ArrayList<String>>();
 		super.onCreate(savedInstanceState);
+		idHTML.add(new ArrayList<String>());
+		idHTML.get(0).add("kata-pengantar");
 		for(int i = 1 ; i <= 4 ; i++){
 			TagHtml x = new TagHtml(getActivity(), "bab"+i+".html");
-			idHTML.add(new ArrayList());
-			idHTML.get(i-1).add(x.getId("h1")[0]);
+			idHTML.add(new ArrayList<String>());
+			idHTML.get(i).add(x.getId("h1")[0]);
 			String[] h2 = x.getId("h2");
 			for(int j = 0 ; j < h2.length; j++){
-				idHTML.get(i-1).add(h2[j]);
+				idHTML.get(i).add(h2[j]);
+				System.out.println(h2[j]);
 			}
 			
 		}
@@ -123,19 +121,23 @@ public class NavigationDrawerFragment extends Fragment {
 				selectItem(0,0);
 			}
 		});
-		Group[] arrayDaftar = new Group[4];
-		for(int i = 0; i<arrayDaftar.length ; i++){
+		Group[] arrayDaftar = new Group[5];
+		TagHtml kataPengantar = new TagHtml(getActivity(), "kata_pengantar.html");
+		String pengantar = kataPengantar.getElement("h1")[0];
+		arrayDaftar[0] = new Group(pengantar);
+
+		for(int i = 0; i<arrayDaftar.length-1 ; i++){
 			TagHtml x = new TagHtml(getActivity(), "bab"+(i+1)+".html");
 			String h1 = x.getElement("h1")[0];
-			System.out.println(h1);
+			
 			String[] element = x.getElement("h2");
-			arrayDaftar[i] = new Group(h1);
+			arrayDaftar[i+1] = new Group(h1);
 			for(int j = 0 ; j < element.length ; j++){
-				System.out.println(element[j]);
-				arrayDaftar[i].addChild(element[j]);
+				
+				arrayDaftar[i+1].addChild(element[j]);
 			}
 		}
-		ArrayList<Group> daftarIsi = new ArrayList();
+		ArrayList<Group> daftarIsi = new ArrayList<Group>();
 		for(int i = 0; i<arrayDaftar.length;i++){
 			daftarIsi.add(arrayDaftar[i]);
 		}
@@ -252,7 +254,13 @@ public class NavigationDrawerFragment extends Fragment {
 	private void selectItem(int position, int childPosition) {
 		mCurrentSelectedPosition = position;
 		if (mDrawerListView != null) {
-			WebviewActivity.webView.loadUrl("file:///android_asset/bab"+(position+1)+".html#"+idHTML.get(position).get(childPosition));
+			if(position == 0){
+				WebviewActivity.webView.loadUrl("file:///android_asset/kata_pengantar.html");
+			}
+			else{
+				WebviewActivity.webView.loadUrl("file:///android_asset/bab"+(position)+".html#"+idHTML.get(position).get(childPosition));
+				System.out.println(idHTML.get(position).get(childPosition));
+			}
 			
 			mDrawerListView.setItemChecked(position, true);
 		}
