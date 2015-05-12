@@ -21,21 +21,21 @@ __Cara Menggunakan Aplikasi__
 
     ![Navigasi sub-bab](manual5.jpg)
 
-Maka halaman isi akan berpindah sesuai dengan bab ataupun sub-bab yang telah dipilih.
+    Maka halaman isi akan berpindah sesuai dengan bab ataupun sub-bab yang telah dipilih.
 
-![Navigasi sub-bab](manual6.jpg)
+    ![Navigasi sub-bab](manual6.jpg)
 
-- Fitur Settings: fitur ini memiliki fungsi untuk mengatur ukuran dari teks yang akan dipergunakan. Terdapat 3 ukuran untuk mengatur ukuran teks yaitu small, medium dan big.
-- 
-![Setting Font](manual7.jpg)
+  - Fitur Settings: fitur ini memiliki fungsi untuk mengatur ukuran dari teks yang akan dipergunakan. Terdapat 3 ukuran untuk mengatur ukuran teks yaitu small, medium dan big.
 
-User juga bisa mengubah mode untuk membaca dengan mengaktifkan fitur night mode. Hasil perubahan yang telah dilakukan disimpan dengan menekan tombol save, sehingga perubahan pada ukuran teks dan mode baca dapat dilihat pada gambar di bawah ini.
+    ![Setting Font](manual7.jpg)
 
-![Setting Mode](manual8.jpg)
+    User juga bisa mengubah mode untuk membaca dengan mengaktifkan fitur night mode. Hasil perubahan yang telah dilakukan disimpan dengan menekan tombol save, sehingga perubahan pada ukuran teks dan mode baca dapat dilihat pada gambar di bawah ini.
 
--Fitur About us: fitur ini berfungsi untuk menampilkan informasi tentang pihak-pihak yang terlibat dalam pembuatan aplikasi E-Juklak.
+    ![Setting Mode](manual8.jpg)
 
-![About Us](manual9.jpg)
+  - Fitur About us: fitur ini berfungsi untuk menampilkan informasi tentang pihak-pihak yang terlibat dalam pembuatan aplikasi E-Juklak.
+
+    ![About Us](manual9.jpg)
 
 __Cara mem-build aplikasi dari source code yang ada di repositori__
 
