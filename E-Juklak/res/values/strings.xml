@@ -5,26 +5,18 @@
     <string name="hello_world">Hello world!</string>
     <string name="logo_back">Logo Back</string>
     <string name="logo_forward">Logo Forward</string>
-    <string name="taptostart">Tap To Start!</string>
-    <string name="ftis">FAKULTAS TEKNOLOGI INFORMASI DAN SAINS (FTIS)</string>
-    <string name="unpar">UNIVERSITAS KATOLIK PARAHYANGAN</string>
-    <string name="tahun">TAHUN 2014/2015</string>
+   
     <string name="logo_juklak">Logo Julak</string>
     <string name="action_settings">Settings</string>
     <string name="logo_unpar">Logo UNPAR</string>
     <string name="logo_home">Logo HOME</string>
     <string name="logo_list">Logo LIST</string>
     <string name="juklak">E-Juklak</string>
-    <string name="title_activity_list_content">ListContentActivity</string>
-    <string name="title_activity_page_two">PageTwo</string>
-    <string name="title_activity_activity_nav_drawer">ActivityNavDrawer</string>
 	<string name="title_1">Pendahuluan</string>
     <string name="title_2">Penyelenggaraan Mata Kuliah</string>
     <string name="title_3">Kegiatan Akademik</string>
     <string name="title_4">Evaluasi Keberhasilan Belajar</string>
 
-    <string name="bab_1">Bab 1</string>
-    <string name="bab_2">Bab 2</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="action_example">Example action</string>
@@ -35,8 +27,6 @@
     <string name="title_activity_page_three">PageThree</string>
     <string name="title_activity_home">HomeActivity</string>
     <string name="title_activity_webview">Juklak</string>
-    <string name="search_hint">Search !</string>
-    <string name="app_label">Search label !</string>
     <string name="title_activity_main2">Main2Activity</string>
     <string name="search_title">Search Here</string>
     <string name="title_activity_about_us">AboutUs</string>

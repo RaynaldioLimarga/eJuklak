@@ -5,8 +5,6 @@ import java.util.List;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 
@@ -22,7 +20,7 @@ public class Settings extends Activity {
 	public void addItem(){
 		System.out.println("kacau");
 		spinner = (Spinner) findViewById(R.id.spinnerFont);
-		List<String> list = new ArrayList();
+		List<String> list = new ArrayList<String>();
 		System.out.println("kecil");
 		list.add("Small");
 		list.add("Medium");

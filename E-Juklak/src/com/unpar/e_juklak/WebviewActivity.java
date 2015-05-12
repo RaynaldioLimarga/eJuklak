@@ -76,9 +76,6 @@ public class WebviewActivity extends ActionBarActivity implements
 			case 4:
 				mTitle = getString(R.string.title_4);
 				break;
-			case 5:
-				mTitle = getString(R.string.title_1);
-				break;
 		}
 	}
 	public void restoreActionBar() {
