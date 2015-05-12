@@ -53,7 +53,7 @@ __Struktur program__
   - AboutUs: Kelas yang merepresentasikan About Us.
   - Group: Kelas yang merepresentasikan sebuah bab dan sub-bab.
   - HomeActivity: Kelas yang merepresentasikan menu utama.
-  - MenuAdapter: 
+  - MenuAdapter: Kelas untuk memproses bab dan sub-bab sebagai parent atau child yg diimplementasikan oleh kelas group.
   - NavigationDrawerFragment: Kelas yang merepresentasikan sidebar menu.
   - Persistence: Kelas untuk menyimpan variabel global yang digunakan oleh kelas Settings.
   - Settings: Kelas yang merepresentasikan pengaturan aplikasi.
