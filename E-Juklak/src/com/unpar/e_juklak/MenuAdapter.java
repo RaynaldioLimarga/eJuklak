@@ -31,9 +31,6 @@ public class MenuAdapter extends BaseExpandableListAdapter {
 	}
 
 	@Override
-	//public long getChildId(int groupPosition, int childPosition) {
-	//	return 0;
-	//}
 	public long getChildId(int parentPosition, int childPosition) {
 		return childPosition;
 	}
@@ -59,7 +56,6 @@ public class MenuAdapter extends BaseExpandableListAdapter {
 	}
 	@Override
 	public int getGroupCount() {
-		//return groups.size();
 		return daftarIsi.size();
 	}
 
