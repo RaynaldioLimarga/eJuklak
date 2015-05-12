@@ -1,4 +1,4 @@
-#Kata Pengantar 
+#KATA PENGANTAR
 Dekan Fakultas Teknologi Informasi dan Sains Universitas Katolik Parahyangan
 -------------------------------------------------------------------------------------------
 
