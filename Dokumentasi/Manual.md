@@ -13,13 +13,13 @@ __Cara Menggunakan Aplikasi__
 
     ![Navigasi](manual3.jpg)
 
-  Apabila tombol navigasi ini di tekan, maka user dapat melihat isi dari Bab dan sub-bab yang ada.
+    Apabila tombol navigasi ini di tekan, maka user dapat melihat isi dari Bab dan sub-bab yang ada.
 
-  ![Navigasi sub-bab](manual4.jpg)
+    ![Navigasi sub-bab](manual4.jpg)
 
-  User dapat berpindah ke halaman yang dituju dengan menekan salah satu dari bab ataupun sub-bab yang ada. Sebagai contoh apabila user menekan sub-bab 3.1 seperti yang diperlihatkan pada gambar di bawah ini:
+    User dapat berpindah ke halaman yang dituju dengan menekan salah satu dari bab ataupun sub-bab yang ada. Sebagai contoh apabila user menekan sub-bab 3.1 seperti yang diperlihatkan pada gambar di bawah ini:
 
-![Navigasi sub-bab](manual5.jpg)
+    ![Navigasi sub-bab](manual5.jpg)
 
 Maka halaman isi akan berpindah sesuai dengan bab ataupun sub-bab yang telah dipilih.
 
