@@ -1,6 +1,7 @@
 __Cara Menggunakan Aplikasi__
 
 1. Buka aplikasi E-juklak
+
 ![Buka Aplikasi E-juklak](manual1.jpg)
 
 2. Ketika aplikasi E-Juklak di buka akan muncul halaman awal dari E-Juklak.
@@ -10,13 +11,13 @@ __Cara Menggunakan Aplikasi__
 Pada halaman awal ini terdapat 3 fitur yaitu:
 - Fitur Read: fitur ini berfungsi untuk membaca isi dari juklak yang telah dikonversikan ke dalam bentuk html. Bila tombol read di klik, pengguna akan diarahkan pada halaman isi yang berfungsi untuk menampilkan isi dari dokumen juklak. Pada halaman ini juga terdapat fitur navigasi yang ditandai dengan lingkaran berwarna merah.
 
-![Navigasi](manual3.jpg)
+  ![Navigasi](manual3.jpg)
 
-Apabila tombol navigasi ini di tekan, maka user dapat melihat isi dari Bab dan sub-bab yang ada.
+  Apabila tombol navigasi ini di tekan, maka user dapat melihat isi dari Bab dan sub-bab yang ada.
 
-![Navigasi sub-bab](manual4.jpg)
+  ![Navigasi sub-bab](manual4.jpg)
 
-User dapat berpindah ke halaman yang dituju dengan menekan salah satu dari bab ataupun sub-bab yang ada. Sebagai contoh apabila user menekan sub-bab 3.1 seperti yang diperlihatkan pada gambar di bawah ini:
+  User dapat berpindah ke halaman yang dituju dengan menekan salah satu dari bab ataupun sub-bab yang ada. Sebagai contoh apabila user menekan sub-bab 3.1 seperti yang diperlihatkan pada gambar di bawah ini:
 
 ![Navigasi sub-bab](manual5.jpg)
 
