@@ -8,7 +8,6 @@ import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
 import android.view.LayoutInflater;
-import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.WebSettings;
@@ -41,12 +40,28 @@ public class WebviewActivity extends ActionBarActivity implements
 		// Set up the drawer. 
 		mNavigationDrawerFragment.setUp(R.id.navigation_drawer,
 				(DrawerLayout) findViewById(R.id.drawer_layout));
-
+		
 		webView = (WebView) findViewById(R.id.WebViewJuklak);
-        webView.loadUrl("file:///android_asset/kata_pengantar.html"); 
+		webView.getSettings().setJavaScriptEnabled(true);
+        
+        TagHtml tagPicker = new TagHtml(this,"kata_pengantar.html");
+        if(Persistence.nightMode){
+        	webView.loadDataWithBaseURL("file:///android_asset/", "<link rel=\"stylesheet\" type=\"text/css\" href=\"style2.css\">"+tagPicker.getHTML(), "text/html", "utf-8", null);
+        }
+        else{
+        	webView.loadDataWithBaseURL("file:///android_asset/", "<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">"+tagPicker.getHTML(), "text/html", "utf-8", null);
+        }
         webView.setLayerType(View.LAYER_TYPE_SOFTWARE, null);
         webView.getSettings().setCacheMode(WebSettings.LOAD_NO_CACHE);
         webView.getSettings().setRenderPriority(WebSettings.RenderPriority.HIGH);
+        WebSettings.TextSize fontSize = WebSettings.TextSize.NORMAL;
+        switch(Persistence.fontSize){
+	        case 0: fontSize = WebSettings.TextSize.SMALLEST;break;
+	        case 1: fontSize = WebSettings.TextSize.NORMAL;break;
+	        case 2: fontSize = WebSettings.TextSize.LARGEST;break;
+        };
+        System.out.println(Persistence.fontSize);
+        webView.getSettings().setTextSize(fontSize);
         webView.setBackgroundColor(0);
 		
 	}
@@ -76,6 +91,9 @@ public class WebviewActivity extends ActionBarActivity implements
 			case 4:
 				mTitle = getString(R.string.title_4);
 				break;
+			case 5:
+				mTitle = getString(R.string.title_1);
+				break;
 		}
 	}
 	public void restoreActionBar() {
@@ -84,30 +102,9 @@ public class WebviewActivity extends ActionBarActivity implements
 		actionBar.setDisplayShowTitleEnabled(true);
 		actionBar.setTitle(mTitle);
 	}
-//
-//	@Override
-//	public boolean onCreateOptionsMenu(Menu menu) {
-//		if (!mNavigationDrawerFragment.isDrawerOpen()) {
-//
-//			getMenuInflater().inflate(R.menu.web_view, menu);
-//			restoreActionBar();
-//			return true;
-//		}
-//		
-//		return super.onCreateOptionsMenu(menu);
-//	}
 
-	@Override
-	public boolean onOptionsItemSelected(MenuItem item) {
-		// Handle action bar item clicks here. The action bar will
-		// automatically handle clicks on the Home/Up button, so long
-		// as you specify a parent activity in AndroidManifest.xml.
-		int id = item.getItemId();
-		if (id == R.id.action_settings) {
-			return true;
-		}
-		return super.onOptionsItemSelected(item);
-	}
+
+
 	/**
 	 * A placeholder fragment containing a simple view.
 	 */

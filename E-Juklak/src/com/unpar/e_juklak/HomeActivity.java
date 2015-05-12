@@ -14,7 +14,7 @@ public class HomeActivity extends Activity {
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_home);
-		Button read = (Button) findViewById(R.id.button1);
+		Button read = (Button) findViewById(R.id.buttonSave);
 		Button settings = (Button) findViewById(R.id.button2);
 		Button aboutUs = (Button) findViewById(R.id.button3);
 		Button exit = (Button) findViewById(R.id.button4);
