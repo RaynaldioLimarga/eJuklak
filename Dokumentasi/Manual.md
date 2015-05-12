@@ -17,7 +17,7 @@ __Cara Menggunakan Aplikasi__
 
     ![Navigasi sub-bab](manual4.jpg)
 
-    User dapat berpindah ke halaman yang dituju dengan menekan salah satu dari bab ataupun sub-bab yang ada. Sebagai contoh apabila user menekan sub-bab 3.1 seperti yang diperlihatkan pada gambar di bawah ini:
+    User dapat berpindah ke halaman yang dituju dengan menekan salah satu dari bab ataupun sub-bab yang ada. Sebagai contoh apabila user menekan sub-bab 3.1 seperti yang diperlihatkan pada gambar di bawah ini.
 
     ![Navigasi sub-bab](manual5.jpg)
 
@@ -25,7 +25,7 @@ __Cara Menggunakan Aplikasi__
 
     ![Navigasi sub-bab](manual6.jpg)
 
-  - Fitur Settings: fitur ini memiliki fungsi untuk mengatur ukuran dari teks yang akan dipergunakan. Terdapat 3 ukuran untuk mengatur ukuran teks yaitu small, medium dan big.
+  - Fitur Settings: fitur ini memiliki fungsi untuk mengatur ukuran dari teks yang akan dipergunakan. Terdapat 3 ukuran untuk mengatur ukuran teks yaitu small, medium, dan big.
 
     ![Setting Font](manual7.jpg)
 
