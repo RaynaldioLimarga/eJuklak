@@ -41,9 +41,26 @@ __Cara mem-build aplikasi dari source code yang ada di repositori__
 
 __Struktur program__
 
-![Usecase Diagram](UseCase Diagram.jpg)
+- Usecase Diagram
 
-![Class Diagram](Class Diagram.jpg)
+  ![Usecase Diagram](UseCase Diagram.jpg)
 
-![Sequence Diagram](Sequence Diagram.jpg)
+- Class Diagram
+
+  ![Class Diagram](Class Diagram.jpg)
+  
+  Penjelasan tiap kelas:
+  - AboutUs: Kelas yang merepresentasikan About Us.
+  - Group: Kelas yang merepresentasikan sebuah bab dan sub-bab.
+  - HomeActivity: Kelas yang merepresentasikan menu utama.
+  - MenuAdapter: 
+  - NavigationDrawerFragment: Kelas yang merepresentasikan sidebar menu.
+  - Persistence: Kelas untuk menyimpan variabel global yang digunakan oleh kelas Settings.
+  - Settings: Kelas yang merepresentasikan pengaturan aplikasi.
+  - TagHtml: Kelas untuk mengolah file HTML.
+  - WebviewActivity: Kelas yang digunakan untuk membaca file HTML dan ditampilkan pada layar.
+
+- Sequence Diagram
+
+  ![Sequence Diagram](Sequence Diagram.jpg)
 
