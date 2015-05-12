@@ -7,26 +7,30 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseExpandableListAdapter;
 import android.widget.TextView;
-
+/**
+ * Kelas adapter yang sudah di modifikasi
+ * @author Steven
+ *
+ */
 public class MenuAdapter extends BaseExpandableListAdapter {
 
 	ArrayList<Group> daftarIsi;
 	Context isi;
-	
+	/**
+	 * Constructor
+	 * @param isi
+	 * @param daftarIsi
+	 */
 	public MenuAdapter(Context isi,ArrayList<Group> daftarIsi){
 		this.isi = isi;
 		this.daftarIsi = daftarIsi;
 	}
-	@Override
-	
+	@Override	
 	public Object getChild(int parentPosition, int childPosition){
 		return daftarIsi.get(parentPosition).getChildren(childPosition);
 	}
 
 	@Override
-	//public long getChildId(int groupPosition, int childPosition) {
-	//	return 0;
-	//}
 	public long getChildId(int parentPosition, int childPosition) {
 		return childPosition;
 	}
@@ -52,7 +56,6 @@ public class MenuAdapter extends BaseExpandableListAdapter {
 	}
 	@Override
 	public int getGroupCount() {
-		//return groups.size();
 		return daftarIsi.size();
 	}
 
@@ -61,7 +64,7 @@ public class MenuAdapter extends BaseExpandableListAdapter {
 	public long getGroupId(int parentPosition) {
 		return parentPosition;
 	}
-
+	
 	@Override
 	public View getGroupView(int parentIndex, boolean arg1, View arg2, ViewGroup arg3) {
 		TextView tv = new TextView(isi);

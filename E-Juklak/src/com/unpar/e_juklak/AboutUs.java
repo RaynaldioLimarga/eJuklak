@@ -2,8 +2,6 @@ package com.unpar.e_juklak;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.Window;
 
 public class AboutUs extends Activity {

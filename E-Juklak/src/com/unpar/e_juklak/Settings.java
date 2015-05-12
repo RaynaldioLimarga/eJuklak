@@ -5,33 +5,45 @@ import java.util.List;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
+import android.view.View;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.Spinner;
+import android.widget.Switch;
 
 public class Settings extends Activity {
-
+	Switch switchNight;
+	Spinner spinner;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_settings);
 		addItem();
 	}
-	Spinner spinner;
+	
 	public void addItem(){
-		System.out.println("kacau");
-		spinner = (Spinner) findViewById(R.id.spinnerFont);
-		List<String> list = new ArrayList();
-		System.out.println("kecil");
+		spinner = (Spinner) findViewById(R.id.spinnerSize);
+		List<String> list = new ArrayList<String>();
 		list.add("Small");
 		list.add("Medium");
 		list.add("Big");
-		System.out.println("besar");
 		ArrayAdapter<String> dataAdapter = new ArrayAdapter<String>(this,
 			android.R.layout.simple_spinner_item, list);
 		dataAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
 		spinner.setAdapter(dataAdapter);
+		spinner.setSelection(Persistence.fontSize);
+		switchNight = (Switch) findViewById(R.id.switchNight);
+		switchNight.setChecked(Persistence.nightMode);
+		Button save = (Button)findViewById(R.id.buttonSave);
+		save.setOnClickListener(new View.OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				Persistence.nightMode = switchNight.isChecked();
+				Persistence.fontSize = spinner.getSelectedItemPosition();
+				finish();
+			}
+		});
 		
 	}
 	

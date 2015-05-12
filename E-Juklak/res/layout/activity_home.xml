@@ -14,8 +14,8 @@
         style="?android:attr/buttonStyleSmall"
         android:layout_width="wrap_content"
         android:layout_height="43dp"
-        android:layout_alignLeft="@+id/button1"
-        android:layout_alignTop="@+id/button1"
+        android:layout_alignLeft="@+id/buttonSave"
+        android:layout_alignTop="@+id/buttonSave"
         android:layout_marginTop="44dp"
         android:background="@drawable/settings_button" />
 
@@ -38,7 +38,7 @@
         android:background="@drawable/about_us_button" />
 
     <Button
-        android:id="@+id/button1"
+        android:id="@+id/buttonSave"
         style="?android:attr/buttonStyleSmall"
         android:layout_width="wrap_content"
         android:layout_height="43dp"

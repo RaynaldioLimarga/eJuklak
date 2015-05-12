@@ -2,11 +2,6 @@ package com.unpar.e_juklak;
 
 
 import java.util.ArrayList;
-
-
-
-
-
 import android.support.v7.app.ActionBarActivity;
 import android.app.Activity;
 import android.support.v7.app.ActionBar;
@@ -19,8 +14,6 @@ import android.content.res.Configuration;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.view.LayoutInflater;
-import android.view.Menu;
-import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
@@ -35,7 +28,7 @@ import android.widget.ExpandableListView.OnChildClickListener;
  * implemented here.
  */
 public class NavigationDrawerFragment extends Fragment {
-
+	
 	/**
 	 * Remember the position of the selected item.
 	 */
@@ -71,8 +64,10 @@ public class NavigationDrawerFragment extends Fragment {
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
-		idHTML = new ArrayList<ArrayList<String>>();
+		
 		super.onCreate(savedInstanceState);
+		//assign id html
+		idHTML = new ArrayList<ArrayList<String>>();
 		idHTML.add(new ArrayList<String>());
 		idHTML.get(0).add("kata-pengantar");
 		for(int i = 1 ; i <= 4 ; i++){
@@ -82,7 +77,6 @@ public class NavigationDrawerFragment extends Fragment {
 			String[] h2 = x.getId("h2");
 			for(int j = 0 ; j < h2.length; j++){
 				idHTML.get(i).add(h2[j]);
-				System.out.println(h2[j]);
 			}
 			
 		}
@@ -121,6 +115,7 @@ public class NavigationDrawerFragment extends Fragment {
 				selectItem(0,0);
 			}
 		});
+		//set navigation drawer content
 		Group[] arrayDaftar = new Group[5];
 		TagHtml kataPengantar = new TagHtml(getActivity(), "kata_pengantar.html");
 		String pengantar = kataPengantar.getElement("h1")[0];
@@ -250,16 +245,38 @@ public class NavigationDrawerFragment extends Fragment {
 
 		mDrawerLayout.setDrawerListener(mDrawerToggle);
 	}
-
+	/**
+	 * Ketika element drawer di klik
+	 * @param position
+	 * @param childPosition
+	 */
 	private void selectItem(int position, int childPosition) {
 		mCurrentSelectedPosition = position;
+		String id = idHTML.get(position).get(childPosition);
+		
 		if (mDrawerListView != null) {
 			if(position == 0){
-				WebviewActivity.webView.loadUrl("file:///android_asset/kata_pengantar.html");
+				TagHtml tagPicker = new TagHtml(getActivity(),"kata_pengantar.html");
+		        if(Persistence.nightMode){
+		        	WebviewActivity.webView.loadDataWithBaseURL("file:///android_asset/", "<script>window.location.hash=\""+id+"\";</script>"+"<link rel=\"stylesheet\" type=\"text/css\" href=\"style2.css\">"+tagPicker.getHTML(), "text/html", "utf-8", null);
+		        	
+		        }
+		        else{
+		        	WebviewActivity.webView.loadDataWithBaseURL("file:///android_asset/", "<script>window.location.hash=\""+id+"\";</script>"+"<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">"+tagPicker.getHTML(), "text/html", "utf-8", null);
+		        	
+		        }
 			}
 			else{
-				WebviewActivity.webView.loadUrl("file:///android_asset/bab"+(position)+".html#"+idHTML.get(position).get(childPosition));
-				System.out.println(idHTML.get(position).get(childPosition));
+				TagHtml tagPicker = new TagHtml(getActivity(),"bab"+(position)+".html");
+		        if(Persistence.nightMode){
+		        	WebviewActivity.webView.loadDataWithBaseURL("file:///android_asset/", "<script>window.location.hash=\""+id+"\";</script>"+"<link rel=\"stylesheet\" type=\"text/css\" href=\"style2.css\">"+tagPicker.getHTML(), "text/html", "utf-8", null);
+		        	
+		        }
+		        else{
+		        	System.out.println(id);
+		        	WebviewActivity.webView.loadDataWithBaseURL("file:///android_asset/", "<script>window.location.hash=\""+id+"\";</script>"+"<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">"+tagPicker.getHTML(), "text/html", "utf-8", null);
+		        	
+		        }
 			}
 			
 			mDrawerListView.setItemChecked(position, true);
@@ -302,18 +319,7 @@ public class NavigationDrawerFragment extends Fragment {
 		mDrawerToggle.onConfigurationChanged(newConfig);
 	}
 
-	@Override
-	public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
-		// If the drawer is open, show the global app actions in the action bar.
-		// See also
-		// showGlobalContextActionBar, which controls the top-left area of the
-		// action bar.
-		if (mDrawerLayout != null && isDrawerOpen()) {
-			inflater.inflate(R.menu.global, menu);
-			showGlobalContextActionBar();
-		}
-		super.onCreateOptionsMenu(menu, inflater);
-	}
+
 
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {

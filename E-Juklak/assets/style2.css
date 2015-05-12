@@ -1,0 +1,26 @@
+body{
+	color:white;
+	background-color:black;
+}
+img{
+	width:99%;
+	border:2px black; 
+	border-style :dashed;	
+	opacity:0.5;
+	margin:auto;
+}
+img:hover{
+	opacity:1;
+	width:250%;
+}
+table{
+	border:2px solid;
+	
+}
+table th{
+	background-color:grey;
+	color:white;
+}
+table td{
+	border:1px solid;
+}
