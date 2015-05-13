@@ -1,4 +1,6 @@
-__Cara Menggunakan Aplikasi__
+#DOKUMENTASI
+
+##Cara Menggunakan Aplikasi
 
 1. Buka aplikasi E-juklak
 
@@ -37,7 +39,7 @@ __Cara Menggunakan Aplikasi__
 
     ![About Us](manuals/manual9.jpg)
 
-__Cara mem-build aplikasi dari source code yang ada di repositori__
+##Cara mem-build aplikasi dari source code yang ada di repositori
 
 - Persiapan Markdown
   Buat file-file markdown dengan menggunakan aplikasi dari [Dillinger](http://dillinger.io/) agar tampilan dari kode markdown dapat langsung terlihat
@@ -61,7 +63,7 @@ __Cara mem-build aplikasi dari source code yang ada di repositori__
 
   - Aplikasi dapat berjalan di semua device Android.
 
-__Struktur program__
+##Struktur program
 
 - Usecase Diagram
 
@@ -85,4 +87,6 @@ __Struktur program__
 - Sequence Diagram
 
   ![Sequence Diagram](manuals/Sequence Diagram.jpg)
+  
+  https://cloud.githubusercontent.com/assets/10735996/7601760/113a3db6-f945-11e4-8570-74450c16ad9e.jpg
 
