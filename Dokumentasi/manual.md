@@ -87,6 +87,4 @@
 - Sequence Diagram
 
   ![Sequence Diagram](manuals/Sequence Diagram.jpg)
-  
-  https://cloud.githubusercontent.com/assets/10735996/7601760/113a3db6-f945-11e4-8570-74450c16ad9e.jpg
 
