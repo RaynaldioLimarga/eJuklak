@@ -40,7 +40,7 @@ __Cara Menggunakan Aplikasi__
 __Cara mem-build aplikasi dari source code yang ada di repositori__
 
 - Persiapan Markdown
-  Buat file-file markdown dengan menggunakan aplikasi dari [web dillinger](http://dillinger.io "Web Dillinger) agar tampilan dari kode markdown dapat langsung terlihat
+  Buat file-file markdown dengan menggunakan aplikasi dari [Dillinger](http://dillinger.io/) agar tampilan dari kode markdown dapat langsung terlihat
 
   ![Buka Aplikasi E-juklak](manuals/dillinger.jpg)
 
