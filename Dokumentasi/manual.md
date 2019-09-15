@@ -6,7 +6,7 @@
 
   ![Buka Aplikasi E-juklak](manuals/manual1.jpg)
 
-2. Ketika aplikasi E-Juklak di buka akan muncul halaman awal dari E-Juklak.
+2. Ketika aplikasi E-Juklak di buka akan muncul halaman awal dari E-Jussklak.
 
   ![Halaman Awal E-Juklak](manuals/manual2.jpg)
 
